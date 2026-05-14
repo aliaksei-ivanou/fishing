@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Fishing Guide</title>
+    <style>
+        :root {
+            --primary: #2F5496;
+            --primary-light: #D6E4F0;
+            --bg: #f8f9fa;
+            --card-bg: #ffffff;
+            --text: #333;
+            --text-light: #666;
+            --border: #e0e0e0;
+            --accent: #4CAF50;
+            --warn: #FF9800;
+            --danger: #f44336;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            font-size: 14px;
+            line-height: 1.4;
+            padding-bottom: 80px;
+        }
+
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 12px 16px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+
+        header h1 { font-size: 18px; font-weight: 600; }
+
+        .search-bar {
+            width: 100%;
+            padding: 8px 12px;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            margin-top: 8px;
+            background: rgba(255,255,255,0.95);
+        }
+
+        .search-bar:focus { outline: 2px solid var(--accent); }
+
+        nav {
+            display: flex;
+            overflow-x: auto;
+            background: white;
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 68px;
+            z-index: 99;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        nav button {
+            flex-shrink: 0;
+            padding: 10px 14px;
+            border: none;
+            background: none;
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-light);
+            border-bottom: 2px solid transparent;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        nav button.active {
+            color: var(--primary);
+            border-bottom-color: var(--primary);
+            font-weight: 600;
+        }
+
+        .tab-content { display: none; padding: 12px; }
+        .tab-content.active { display: block; }
+
+        .section-header {
+            background: var(--primary-light);
+            color: var(--primary);
+            font-weight: 600;
+            font-size: 13px;
+            padding: 8px 12px;
+            margin: 12px -12px 8px;
+            border-left: 3px solid var(--primary);
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 8px;
+            border: 1px solid var(--border);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .card-title {
+            font-weight: 600;
+            font-size: 14px;
+            color: var(--primary);
+            margin-bottom: 4px;
+        }
+
+        .card-subtitle {
+            font-size: 12px;
+            color: var(--text-light);
+            margin-bottom: 6px;
+        }
+
+        .card-body { font-size: 13px; }
+
+        .card-row {
+            display: flex;
+            gap: 4px;
+            margin-bottom: 3px;
+        }
+
+        .card-label {
+            font-weight: 600;
+            font-size: 11px;
+            color: var(--text-light);
+            text-transform: uppercase;
+            min-width: 55px;
+            flex-shrink: 0;
+        }
+
+        .card-value { font-size: 13px; }
+
+        .tag {
+            display: inline-block;
+            padding: 2px 7px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 500;
+            margin-right: 4px;
+            margin-bottom: 2px;
+        }
+
+        .tag-setup { background: #E3F2FD; color: #1565C0; }
+        .tag-season { background: #FFF3E0; color: #E65100; }
+        .tag-type { background: #F3E5F5; color: #7B1FA2; }
+        .tag-specs { background: #E8F5E9; color: #2E7D32; }
+
+        .accordion-header {
+            padding: 12px;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            margin-bottom: 6px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 500;
+        }
+
+        .accordion-header:active { background: var(--primary-light); }
+
+        .accordion-header .arrow {
+            transition: transform 0.2s;
+            font-size: 12px;
+            color: var(--text-light);
+        }
+
+        .accordion-header.open .arrow { transform: rotate(90deg); }
+
+        .accordion-body {
+            display: none;
+            padding: 0 12px 12px;
+            margin-top: -6px;
+            margin-bottom: 8px;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+        }
+
+        .accordion-body.open { display: block; }
+
+        .highlight { background: #FFEB3B; padding: 0 2px; border-radius: 2px; }
+
+        .spot-card { border-left: 3px solid var(--accent); }
+        .spot-card.local { border-left-color: var(--primary); }
+
+        .lure-lost { opacity: 0.5; border-left: 3px solid var(--danger); }
+
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+        }
+
+        @media (min-width: 600px) {
+            .tab-content { padding: 16px 24px; }
+            .card { padding: 16px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fishing Guide</h1>
+        <input type="text" class="search-bar" placeholder="Search lures, techniques, spots..." id="searchBar">
+    </header>
+
+    <nav id="tabs">
+        <button class="active" data-tab="decide">Decide</button>
+        <button data-tab="now">Now</button>
+        <button data-tab="howto">How To</button>
+        <button data-tab="spots">Spots</button>
+        <button data-tab="lures">Lures</button>
+        <button data-tab="setups">Setups</button>
+    </nav>
+
+    <div id="decide" class="tab-content active"></div>
+    <div id="now" class="tab-content"></div>
+    <div id="howto" class="tab-content"></div>
+    <div id="spots" class="tab-content"></div>
+    <div id="lures" class="tab-content"></div>
+    <div id="setups" class="tab-content"></div>
+
+    <script>
+    let DATA = {};
+
+    async function loadData() {
+        const resp = await fetch('data.json');
+        DATA = await resp.json();
+        renderAll();
+    }
+
+    function renderAll() {
+        renderDecide();
+        renderNow();
+        renderHowTo();
+        renderSpots();
+        renderLures();
+        renderSetups();
+    }
+
+    // TAB SWITCHING
+    document.getElementById('tabs').addEventListener('click', (e) => {
+        if (e.target.tagName !== 'BUTTON') return;
+        document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+        e.target.classList.add('active');
+        document.getElementById(e.target.dataset.tab).classList.add('active');
+    });
+
+    // SEARCH
+    document.getElementById('searchBar').addEventListener('input', (e) => {
+        const q = e.target.value.toLowerCase().trim();
+        if (q.length < 2) { renderAll(); return; }
+        renderLures(q);
+        // Switch to lures tab on search
+        document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+        document.querySelector('[data-tab="lures"]').classList.add('active');
+        document.getElementById('lures').classList.add('active');
+    });
+
+    // RENDER: DECIDE
+    function renderDecide() {
+        const el = document.getElementById('decide');
+        let html = '';
+        let currentSection = '';
+
+        DATA.decide.forEach(d => {
+            if (d.condition.startsWith('---')) {
+                currentSection = d.condition.replace(/---/g, '').trim();
+                html += `<div class="section-header">${currentSection}</div>`;
+            } else {
+                html += `<div class="card">
+                    <div class="card-title">${d.condition}</div>
+                    <div class="card-row"><span class="card-label">Setup</span><span class="card-value">${d.setup}</span></div>
+                    <div class="card-row"><span class="card-label">Lure</span><span class="card-value">${d.lure}</span></div>
+                    <div class="card-row"><span class="card-label">Rig</span><span class="card-value">${d.rig}</span></div>
+                </div>`;
+            }
+        });
+        el.innerHTML = html;
+    }
+
+    // RENDER: NOW
+    function renderNow() {
+        const el = document.getElementById('now');
+        let html = '';
+
+        DATA.now.forEach(n => {
+            html += `<div class="card">
+                <div class="card-title">${n.season}</div>
+                <div class="card-row"><span class="card-label">Throw</span><span class="card-value">${n.throw_first}</span></div>
+                <div class="card-row"><span class="card-label">Setup</span><span class="card-value">${n.setup}</span></div>
+                <div class="card-row"><span class="card-label">Backup</span><span class="card-value">${n.if_not_working}</span></div>
+                <div class="card-row"><span class="card-label">Where</span><span class="card-value">${n.where}</span></div>
+            </div>`;
+        });
+        el.innerHTML = html;
+    }
+
+    // RENDER: HOW TO
+    function renderHowTo() {
+        const el = document.getElementById('howto');
+        let html = '';
+
+        DATA.howto.forEach((h, i) => {
+            const isGlossary = h.technique.includes('GLOSSARY') || h.technique.includes('Reading') || h.technique.includes('Line &');
+            if (isGlossary) {
+                html += `<div class="card" style="background:#f9f9f9; border-left: 3px solid var(--warn);">
+                    <div class="card-title">${h.technique}</div>
+                    <div class="card-body">${h.rod_position}</div>
+                </div>`;
+            } else {
+                html += `<div class="accordion-header" onclick="toggleAccordion(${i})">
+                    <span>${h.technique}</span><span class="arrow">&#9654;</span>
+                </div>
+                <div class="accordion-body" id="acc-${i}">
+                    <div class="card-row"><span class="card-label">Rod</span><span class="card-value">${h.rod_position}</span></div>
+                    <div class="card-row"><span class="card-label">Motion</span><span class="card-value">${h.motion}</span></div>
+                    <div class="card-row"><span class="card-label">Line</span><span class="card-value">${h.line_mgmt}</span></div>
+                    <div class="card-row"><span class="card-label">Pause</span><span class="card-value">${h.pause}</span></div>
+                    <div class="card-row"><span class="card-label">Hookset</span><span class="card-value">${h.hookset}</span></div>
+                    <div class="card-row" style="margin-top:6px; padding-top:6px; border-top:1px solid var(--border);">
+                        <span class="card-label">Key Rule</span><span class="card-value" style="font-weight:600; color:var(--primary);">${h.key_rule}</span>
+                    </div>
+                </div>`;
+            }
+        });
+        el.innerHTML = html;
+    }
+
+    function toggleAccordion(i) {
+        const header = document.querySelectorAll('.accordion-header')[i - document.querySelectorAll('.card[style*="f9f9f9"]').length];
+        // Simpler approach: toggle by id
+        const body = document.getElementById(`acc-${i}`);
+        const allHeaders = document.querySelectorAll('.accordion-header');
+
+        if (body.classList.contains('open')) {
+            body.classList.remove('open');
+            // Find corresponding header and remove open
+            body.previousElementSibling.classList.remove('open');
+        } else {
+            body.classList.add('open');
+            body.previousElementSibling.classList.add('open');
+        }
+    }
+
+    // RENDER: SPOTS
+    function renderSpots() {
+        const el = document.getElementById('spots');
+        let html = '';
+
+        DATA.spots.forEach(s => {
+            if (s.location.startsWith('---')) {
+                html += `<div class="section-header">${s.location.replace(/---/g, '').trim()}</div>`;
+            } else {
+                const isLocal = s.drive.includes('5 min');
+                html += `<div class="card spot-card ${isLocal ? 'local' : ''}">
+                    <div class="card-title">${s.location} <span class="tag tag-season">${s.drive}</span></div>
+                    <div class="card-row"><span class="card-label">Species</span><span class="card-value">${s.species}</span></div>
+                    <div class="card-row"><span class="card-label">Keep</span><span class="card-value">${s.limits}</span></div>
+                    <div class="card-row"><span class="card-label">Access</span><span class="card-value">${s.access}</span></div>
+                    <div class="card-row"><span class="card-label">Fees</span><span class="card-value">${s.fees}</span></div>
+                    ${s.notes ? `<div class="card-row"><span class="card-label">Notes</span><span class="card-value">${s.notes}</span></div>` : ''}
+                </div>`;
+            }
+        });
+        el.innerHTML = html;
+    }
+
+    // RENDER: LURES
+    function renderLures(filter = '') {
+        const el = document.getElementById('lures');
+        let html = '';
+        let currentSection = '';
+
+        const filtered = DATA.lures.filter(l => {
+            if (!filter) return true;
+            return Object.values(l).some(v => v.toLowerCase().includes(filter));
+        });
+
+        if (filtered.length === 0) {
+            html = '<div class="empty-state">No lures match your search</div>';
+        } else {
+            filtered.forEach(l => {
+                if (l.name.startsWith('---')) {
+                    currentSection = l.name.replace(/---/g, '').trim();
+                    if (!filter) html += `<div class="section-header">${currentSection}</div>`;
+                } else {
+                    const isLost = l.tip && l.tip.includes('LOST');
+                    html += `<div class="card ${isLost ? 'lure-lost' : ''}">
+                        <div class="card-title">${l.name}</div>
+                        <div class="card-subtitle">
+                            <span class="tag tag-type">${l.type}</span>
+                            ${l.specs ? `<span class="tag tag-specs">${l.specs}</span>` : ''}
+                        </div>
+                        <div class="card-row"><span class="card-label">Rig</span><span class="card-value">${l.hook_weight}</span></div>
+                        <div class="card-row"><span class="card-label">Retrieve</span><span class="card-value">${l.retrieve}</span></div>
+                        <div class="card-row"><span class="card-label">Setup</span><span class="card-value">${l.setup}</span></div>
+                        ${l.tip ? `<div class="card-row"><span class="card-label">Tip</span><span class="card-value" style="color:var(--primary);font-style:italic;">${l.tip}</span></div>` : ''}
+                    </div>`;
+                }
+            });
+        }
+        el.innerHTML = html;
+    }
+
+    // RENDER: SETUPS
+    function renderSetups() {
+        const el = document.getElementById('setups');
+        let html = '';
+
+        DATA.setups.forEach(s => {
+            html += `<div class="card">
+                <div class="card-title">${s.name}</div>
+                <div class="card-subtitle">${s.rod_reel}</div>
+                <div class="card-row"><span class="card-label">Line</span><span class="card-value">${s.line}</span></div>
+                <div class="card-row"><span class="card-label">Grab for</span><span class="card-value">${s.grab_for}</span></div>
+                <div class="card-row"><span class="card-label">Note</span><span class="card-value" style="font-style:italic;">${s.note}</span></div>
+            </div>`;
+        });
+        el.innerHTML = html;
+    }
+
+    // INIT
+    loadData();
+    </script>
+</body>
+</html>
