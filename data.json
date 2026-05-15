@@ -358,179 +358,6 @@
       "where": "Anywhere with surface mats or algae. Skip bottom-contact baits entirely (bottom is unfishable)."
     }
   ],
-  "howto": [
-    {
-      "technique": "GLOSSARY: Rod Movements",
-      "rod_position": "SNAP = sharp 6-10in wrist movement, rod tip down (makes bait dart sideways). TWITCH = gentler 2-4in movement (finesse). WALK-THE-DOG = rhythmic slack-snap-slack making bait glide L-R on surface. POP = sharp snap with cupped-face bait creating splash/bloop sound. DRAG = pull bait with rod (not reel) along bottom. HOP = pop rod tip 4-6in to lift bait off bottom.",
-      "motion": "",
-      "line_mgmt": "",
-      "pause": "",
-      "hookset": "",
-      "key_rule": ""
-    },
-    {
-      "technique": "GLOSSARY: Line & Rigging",
-      "rod_position": "BRAID DIRECT = straight braid to lure, no leader (frogs, toad, buzzbait). FLUORO LEADER = braid mainline + fluorocarbon leader tied with knot (everything else unless noted). TX RIG = Texas rig: bullet weight + EWG offset hook through soft plastic (weedless). WACKY = hook through middle of worm (not nose). DROP SHOT = weight below, hook above on leader.",
-      "motion": "",
-      "line_mgmt": "",
-      "pause": "",
-      "hookset": "",
-      "key_rule": ""
-    },
-    {
-      "technique": "GLOSSARY: Jighead vs TX Rig",
-      "rod_position": "JIGHEAD = exposed hook molded into lead head. Best hookup ratio but SNAGS in cover. Use in OPEN WATER. TX RIG (EWG) = bullet weight + hook point buried in plastic. WEEDLESS but slightly fewer hookups. Use in WEEDS/COVER. Your lakes are weedy = TX rig or weighted weedless hook is often safer choice.",
-      "motion": "",
-      "line_mgmt": "",
-      "pause": "",
-      "hookset": "",
-      "key_rule": ""
-    },
-    {
-      "technique": "GLOSSARY: When Aspro is Listed",
-      "rod_position": "Aspro ALWAYS implies Curado DC paired with it. 'Aspro + DC' = Graphiteleader Aspro rod + Shimano Curado DC reel. If a lure says 'Zodias MH + Revo or Aspro + DC' it means either power setup OR versatile setup works for that bait.",
-      "motion": "",
-      "line_mgmt": "",
-      "pause": "",
-      "hookset": "",
-      "key_rule": ""
-    },
-    {
-      "technique": "Reading Your Water",
-      "rod_position": "42-55F = deep/points (jerkbaits). 55-65F = spawn shallow (senko). 65-80F = shallow dawn, deep mid. 80F+ = dawn/dusk only.",
-      "motion": "Same spot/depth all day. Not moving after 10 biteless casts. Staying shallow after 9am summer.",
-      "line_mgmt": "Wind-blown banks = bait concentrates = bass follow. Dark bottom warms first. Find baitfish = find bass.",
-      "pause": "",
-      "hookset": "",
-      "key_rule": ""
-    },
-    {
-      "technique": "Jerkbait (snap-pause)",
-      "rod_position": "DOWN 45deg toward water (9 oclock). Tip 6-12in above surface.",
-      "motion": "WRIST snap down (6-10in tip travel). Elbow stays still. Crisp flick, not power pull.",
-      "line_mgmt": "Slight BOW in line during pause (not tight, not slack). Reel 1-2 cranks ONLY to gather slack after snap. Reel 2-3 cranks after long pause to recover distance. Reel NEVER moves the bait.",
-      "pause": "3-10sec (cold=longer). The pause catches fish. If followers wont commit: add 3 more seconds.",
-      "hookset": "Reel down until tight, then sweep SIDEWAYS (not up). Side sweep drives trebles into jaw corner.",
-      "key_rule": "The bait darts on the SNAP. It catches fish on the PAUSE. Reel is only slack management."
-    },
-    {
-      "technique": "Texas Rig / Jig (pitch-hop)",
-      "rod_position": "10 oclock (slightly above horizontal), pointed at bait.",
-      "motion": "HOP: Lift rod from 10 to 12 oclock (4-6in lift). Let fall back. DRAG: sweep rod 9 to 11, reel slack. SHAKE: vibrate tip 1-2in in place.",
-      "line_mgmt": "Semi-slack on the fall (feel bottom but dont pull bait sideways). Watch line for tick/jump/sideways movement on fall. 70% of bites on the FALL.",
-      "pause": "2-3sec after each hop. Let skirt/trailer settle. Let it sit on bottom.",
-      "hookset": "Reel down to fish weight, then SWEEP HARD to side. MH power drives hook through plastic + jaw.",
-      "key_rule": "Its a one-target-at-a-time bait. Pitch, fall, 2-3 hops, move to next target. 30-45sec per spot max."
-    },
-    {
-      "technique": "Weightless Senko (wacky)",
-      "rod_position": "Point at bait after cast. No specific angle needed \u2014 just watch line.",
-      "motion": "NOTHING. Do not move the bait. Cast, let fall. Thats it. One tiny twitch after bottom, then let fall again.",
-      "line_mgmt": "Semi-slack. Enough to see line movement but not pulling the bait. The shimmy on fall IS the action.",
-      "pause": "The entire technique is a pause. Fall = 100% of the action. If it hits bottom: one twitch, let fall again, then reel in.",
-      "hookset": "Watch line: jumps, moves sideways, goes slack, or feels heavy. Sweep set to side.",
-      "key_rule": "DO NOT RETRIEVE. Cast, let fall, watch line. 70% of bites on initial fall. One cast = one spot."
-    },
-    {
-      "technique": "Walk-the-Dog (topwater)",
-      "rod_position": "LOW, pointed slightly down toward water (8-9 oclock). Slightly off to your dominant side.",
-      "motion": "SHORT wrist snaps (2-3in tip movement) with SLACK between each. Snap-slack-snap-slack RHYTHM. Not arm sweeps.",
-      "line_mgmt": "Slack is what makes it walk. Each snap: line goes tight (bait glides one direction), then you create slack (bait momentum carries it), next snap reverses it. Too tight = bait dives. Too slack = no action.",
-      "pause": "Optional: after 4-5 walks, dead stop 2-3sec. Tail settles, final sound. Then restart. Triggers followers.",
-      "hookset": "WAIT 1-2 SECONDS after blowup. They often miss first strike. Set on WEIGHT not splash. Sweep side.",
-      "key_rule": "Rhythm is everything. Consistent slack-snap-slack-snap. If bait rolls on side = snapping too hard."
-    },
-    {
-      "technique": "Popper (Pop-X)",
-      "rod_position": "DOWN toward water (8-9 oclock). Tip almost touching surface for maximum pop power.",
-      "motion": "Short sharp DOWNWARD wrist snap (like jerkbait but crisper). The cupped face catches water and SPITS.",
-      "line_mgmt": "Small slack between pops (similar to walk-the-dog). Reel 1 crank between pops to recover.",
-      "pause": "2-3sec between pops. Pop-pop-pause is the basic cadence. Also: single pop then 5sec dead sit.",
-      "hookset": "Same as walk-the-dog: WAIT 1-2sec after blowup. Set on weight.",
-      "key_rule": "Different trigger than walk-the-dog. Pop = spit/splash sound. Use when walking gets refused. Calm mornings, docks."
-    },
-    {
-      "technique": "Frog / Toad / Buzzbait (surface cover)",
-      "rod_position": "FROG/TOAD: rod tip medium-high. BUZZBAIT: rod tip HIGH (10-11 oclock).",
-      "motion": "FROG: walk-the-dog over mats OR slow crawl. TOAD: fast steady reel (legs churn). BUZZBAIT: fast steady reel (prop churns). Toad and buzz SINK if you stop!",
-      "line_mgmt": "BRAID DIRECT (no leader). Braid floats (helps surface) + zero stretch (instant hookset through soft body/cover).",
-      "pause": "FROG: pause at mat holes and edges. TOAD/BUZZ: do NOT pause (they sink). Stop only in open pockets briefly.",
-      "hookset": "WAIT 1-2 SECONDS. Universal rule for all surface baits. Set on WEIGHT. Sweep hard \u2014 need force to drive hook through soft plastic body AND pull fish from cover.",
-      "key_rule": "Bend frog hook points out 1-2mm. Trim frog legs if short strikes. Braid is MANDATORY (no fluoro ever)."
-    },
-    {
-      "technique": "Spinnerbait (slow roll / burn)",
-      "rod_position": "9-10 oclock (horizontal or slightly down). Lower tip = bait runs deeper. Higher = shallower.",
-      "motion": "SLOW ROLL: Steady reel, barely feel blade vibrate. Thats the correct speed. BURN: fast reel near surface (summer). HELICOPTER: let fall on slack off ledges (blades spin on descent).",
-      "line_mgmt": "Keep line reasonably taut (need to feel blade vibration through the rod). If you cant feel thumping, speed up slightly.",
-      "pause": "Not a pause-bait typically. But: killing it briefly near cover can trigger followers. Also: helicopter fall IS a pause technique (controlled fall).",
-      "hookset": "The fish hooks itself on the single hook. Just keep reeling into the weight. No hard snap needed \u2014 sweep into it.",
-      "key_rule": "If strong vibration = too fast for cold water. Barely-perceptible thump = correct cold water speed. Speed up as water warms."
-    },
-    {
-      "technique": "Swim Jig (steady swim)",
-      "rod_position": "9-10 oclock. Raise tip = bait rides higher. Lower = deeper. Keep above weed tops.",
-      "motion": "STEADY retrieve ~1 handle turn per second. NOT hopping (thats a bottom jig technique). Speed through thick cover, slow on open stretches.",
-      "line_mgmt": "Keep taut enough to feel the jig tracking and any strikes. Braid OK (floats, keeps jig higher in column).",
-      "pause": "Mix in 2-3sec pauses to trigger followers. Rage Craw trailer FLUTTERS on the pause (thats the trigger). Space Monkey keeps thumping on pause (different trigger).",
-      "hookset": "Feel weight or a thud = sweep set to side. Often hits on the pause/fall.",
-      "key_rule": "Steady swim, not hopping. Think weedless spinnerbait. If blade version fouls on weeds: switch to bladeless Rage Craw version."
-    },
-    {
-      "technique": "Lipless Crankbait (yo-yo)",
-      "rod_position": "Start at 8 oclock (low). Sweep UP to 11 oclock for the lift.",
-      "motion": "SMOOTH sweep up (not violent rip unless grass). Let fall on SEMI-SLACK. Also: steady medium retrieve, or high-speed burn-and-kill (reel fast then dead stop).",
-      "line_mgmt": "SEMI-SLACK on fall is critical. Not tight (kills flutter), not fully slack (cant detect bite). Slight bow that straightens = bite. RIPPING GRASS: feel bait load up, sharp upward snap to pop free, then let flutter fall.",
-      "pause": "The fall IS the technique. Each lift-fall cycle is the trigger. 1-2 seconds between yo-yos. Bite comes within first second of fall.",
-      "hookset": "IMMEDIATELY on anything weird during the fall. Line tick, jump, slack, sideways movement = set hook NOW. Reel down, sweep side.",
-      "key_rule": "Most bites on the FALL (like Texas rig). Semi-slack lets you detect them. Tight line = missed bites."
-    },
-    {
-      "technique": "Crankbait (deflection)",
-      "rod_position": "9-10 oclock (low). Rod absorbs deflections. Let the rod load, dont fight it.",
-      "motion": "STEADY RETRIEVE. Not stop-and-go (usually). Reel at medium speed to maintain depth and wobble. Throw AT cover \u2014 deflection off rocks/stumps/wood = strike trigger.",
-      "line_mgmt": "Relatively taut. You need to feel the bait's wobble and any contact with structure. Fluoro direct (no braid) is ideal \u2014 stretch keeps trebles pinned on headshakes.",
-      "pause": "Generally not a pause bait. Exception: Flap Slap (rod drag then pause, nose kicks up). Exception: MD-X Cyclone (stop for spiral drift). Exception: HU-400 (stop for riser action).",
-      "hookset": "DO NOT SET HOOK. Just keep reeling. Trebles hook the fish on their own during the deflection bite. Hard hooksets RIP trebles out.",
-      "key_rule": "Max cast = max depth. Throw AT objects (deflection triggers strikes). If it feels like you snagged then came free = FISH (keep reeling)."
-    },
-    {
-      "technique": "Ned Rig (finesse drag)",
-      "rod_position": "10 oclock or wherever comfortable. Nothing specific required.",
-      "motion": "Cast, let sink. TINY hops: 2-3 inches of rod tip movement. Long drags along bottom. Shake in place. Less is more.",
-      "line_mgmt": "Light tension. Feel bottom contact. These bites are often subtle (just feels slightly heavier).",
-      "pause": "LONG pauses between every movement (3-5sec minimum). The tail standing up on bottom IS working even when you do nothing. Let it sit.",
-      "hookset": "Firm sweep (not violent snap). Light wire hooks on ShroomZ can bend if you snap too hard.",
-      "key_rule": "Dont overthink it. Cast, sink, tiny movements, long pauses. The simplest technique in fishing. Less = more."
-    },
-    {
-      "technique": "Fluke / Soft Jerkbait (weightless twitch)",
-      "rod_position": "LOW at 9-10 oclock, pointed toward bait. Slack line critical.",
-      "motion": "Twitch-twitch-PAUSE. Sharp 6-10in wrist snaps on SLACK LINE. The slack = lateral dart. Tight line = bait swims toward you (wrong).",
-      "line_mgmt": "SLACK LINE IS MANDATORY. Each snap whips bait through the slack. After snaps: return rod to position, reel 1-2 cranks to reset. During pause: let line bow slightly.",
-      "pause": "2-5sec (where bites happen). Bait sinks slowly, shimmying. Watch line for any movement. Extend to 8-10sec in cold.",
-      "hookset": "Reel down to weight, then SWEEP side. Do not snap-set. The offset hook needs sustained pressure to rotate and penetrate.",
-      "key_rule": "If bait swims toward you instead of darting sideways = your line is too tight. Create slack before snapping."
-    },
-    {
-      "technique": "Inline Spinner (Vibrax steady)",
-      "rod_position": "Wherever comfortable. 9-10 oclock works.",
-      "motion": "STEADY retrieve. Count down for depth control (count 3 = shallow, count 7 = deeper). Adjust speed to feel blade spin.",
-      "line_mgmt": "ALWAYS use ball bearing swivel between braid and leader/spinner (prevents line twist that destroys your line). Keep tension to feel blade rotation.",
-      "pause": "Not typically a pause bait. Steady does the work. But: killing it near a target lets it flutter-fall briefly = different trigger.",
-      "hookset": "Keep reeling into the fish. Single hook finds its own purchase. Light sweep if needed.",
-      "key_rule": "SWIVEL MANDATORY. Without it, the spinning blade twists your line into an unusable mess within 20 casts."
-    },
-    {
-      "technique": "Swimbait / Paddle Tail (slow swim)",
-      "rod_position": "9-10 oclock. Adjust height to control depth.",
-      "motion": "SLOW steady retrieve. Feel tail thumping through rod. If bait rises in water column = too fast. If you cant feel thump = too slow.",
-      "line_mgmt": "Moderate tension. Need to feel the tail kick rhythm. Jighead (open water) vs weighted EWG hook (cover/weeds).",
-      "pause": "Optional 1-2sec pauses (bait flutters on fall = trigger). Keitecth especially kicks tail on the fall too.",
-      "hookset": "Sweep set. If on jighead (exposed hook) = fish often hooks itself. If on TX/weighted hook = need a more deliberate set.",
-      "key_rule": "SLOW. Slower than you think. Match actual baitfish speed. Keitech tears easily \u2014 use TwistLOCK hooks and super-glue head."
-    }
-  ],
   "spots": [
     {
       "location": "--- COOK COUNTY (best keep limits) ---",
@@ -677,6 +504,225 @@
       "notes": "Best shore access + biggest lake nearby. But C&R only. Good for practice/fun, not keeping."
     }
   ],
+  "setups": [
+    {
+      "name": "Heavy Duty / Pike",
+      "rod_reel": "Zodias MH + Revo SX",
+      "line": "50lb braid DIRECT (no leader, never). Permanent config.",
+      "grab_for": "Frogs (all 3), Rage Toad, buzzbait, swim jigs, spinnerbaits 17g+, flipping jigs + Texas rig in THICK cover only, heavy lipless grass ripping",
+      "note": "DEFAULT LURE: Pitching jig 3/8oz + Rage Craw. BRAID DIRECT always. No leader = no retying. Only for surface baits + heavy cover where stealth doesnt matter."
+    },
+    {
+      "name": "Primary / Versatile",
+      "rod_reel": "Aspro + Curado DC",
+      "line": "50lb braid + 10-15lb fluoro LEADER (always on). Re-spool to 30lb braid when worn.",
+      "grab_for": "YOUR 70% ROD: TX rig creatures (weed edges), jigs (moderate cover), chatterbait, spinnerbait 10g, spoons, medium cranks, lipless yo-yo, swimbaits 3.8-4.8\"",
+      "note": "DEFAULT LURE: Spinnerbait 10g Col/Wil. Leader ALWAYS ON (stealth for underwater presentations). Never remove leader \u2014 just cut and retie to lure."
+    },
+    {
+      "name": "Jerkbait / Topwater",
+      "rod_reel": "Legend TB + Curado DC #2 (NEW, dedicated)",
+      "line": "10lb Seaguar InvizX FLUORO DIRECT (no braid, no leader). Permanent config.",
+      "grab_for": "ALL jerkbaits 110-130mm, walk-the-dog (Irony), Pop-X popper, New Vision subsurface walk",
+      "note": "DEFAULT LURE: Orbit 110. FLUORO DIRECT always. Best suspend action + invisible. Topwater still works on 10lb fluoro."
+    },
+    {
+      "name": "Finesse / Spinning",
+      "rod_reel": "Expride + Stradic CI4+",
+      "line": "30lb braid + 10lb fluoro LEADER (always on). Re-spool to 10-15lb braid when worn.",
+      "grab_for": "Senko wacky, Super Fluke weightless (4/0 EWG), Ned rig, drop shot (Tiny Fluke), Rozante 77SP, Keitech 2.8\", Flash-J, spinners, grubs, tubes",
+      "note": "DEFAULT LURE: Senko 5\" wacky GP. Leader ALWAYS ON. Super Fluke now lives here (weightless twitch on spinning = better cast + same slack-line technique as Senko)."
+    },
+    {
+      "name": "Pike / Salmon",
+      "rod_reel": "Any casting + titanium wire leader 25-30cm",
+      "line": "Any casting setup + titanium wire leader 25-30cm (replaces fluoro leader)",
+      "grab_for": "Spoons, large spinnerbaits, large jerkbaits targeting pike. WIRE MANDATORY.",
+      "note": "Swap fluoro leader for titanium wire on pike days. Wire ties to braid same as fluoro (FG or Alberto knot to a swivel, or direct crimp)."
+    }
+  ],
+  "howto": [
+    {
+      "technique": "GLOSSARY: Rod Movements",
+      "rod_position": "SNAP = sharp 6-10in wrist movement, rod tip down (makes bait dart sideways). TWITCH = gentler 2-4in movement (finesse). WALK-THE-DOG = rhythmic slack-snap-slack making bait glide L-R on surface. POP = sharp snap with cupped-face bait creating splash/bloop sound. DRAG = pull bait with rod (not reel) along bottom. HOP = pop rod tip 4-6in to lift bait off bottom.",
+      "motion": "",
+      "line_mgmt": "",
+      "pause": "",
+      "hookset": "",
+      "key_rule": ""
+    },
+    {
+      "technique": "GLOSSARY: Line & Rigging",
+      "rod_position": "BRAID DIRECT = straight braid to lure, no leader (frogs, toad, buzzbait). FLUORO LEADER = braid mainline + fluorocarbon leader tied with knot (everything else unless noted). TX RIG = Texas rig: bullet weight + EWG offset hook through soft plastic (weedless). WACKY = hook through middle of worm (not nose). DROP SHOT = weight below, hook above on leader.",
+      "motion": "",
+      "line_mgmt": "",
+      "pause": "",
+      "hookset": "",
+      "key_rule": ""
+    },
+    {
+      "technique": "GLOSSARY: Jighead vs TX Rig",
+      "rod_position": "JIGHEAD = exposed hook molded into lead head. Best hookup ratio but SNAGS in cover. Use in OPEN WATER. TX RIG (EWG) = bullet weight + hook point buried in plastic. WEEDLESS but slightly fewer hookups. Use in WEEDS/COVER. Your lakes are weedy = TX rig or weighted weedless hook is often safer choice.",
+      "motion": "",
+      "line_mgmt": "",
+      "pause": "",
+      "hookset": "",
+      "key_rule": ""
+    },
+    {
+      "technique": "GLOSSARY: When Aspro is Listed",
+      "rod_position": "Aspro ALWAYS implies Curado DC paired with it. 'Aspro + DC' = Graphiteleader Aspro rod + Shimano Curado DC reel. If a lure says 'Zodias MH + Revo or Aspro + DC' it means either power setup OR versatile setup works for that bait.",
+      "motion": "",
+      "line_mgmt": "",
+      "pause": "",
+      "hookset": "",
+      "key_rule": ""
+    },
+    {
+      "technique": "Reading Your Water",
+      "rod_position": "42-55F = deep/points (jerkbaits). 55-65F = spawn shallow (senko). 65-80F = shallow dawn, deep mid. 80F+ = dawn/dusk only.",
+      "motion": "Same spot/depth all day. Not moving after 10 biteless casts. Staying shallow after 9am summer.",
+      "line_mgmt": "Wind-blown banks = bait concentrates = bass follow. Dark bottom warms first. Find baitfish = find bass.",
+      "pause": "",
+      "hookset": "",
+      "key_rule": ""
+    },
+    {
+      "technique": "GLOSSARY: Just Reel vs Rod Moves",
+      "rod_position": "JUST REEL (rod stays still, reel does all work): Crankbaits, spinnerbaits, swim jigs, buzzbaits, Rage Toad, inline spinners, spoons, swimbaits (Keitech/Swimfish steady), chatterbaits. Rule: if it has a blade, a bill, or a paddle tail = just reel.\n\nROD MOVES THE BAIT (reel only manages slack): Jerkbaits (snap down), walk-the-dog (twitch sideways), poppers (snap down into cup), Texas rig/jigs (hop up, drag sideways, shake), lipless yo-yo (sweep up, let fall), fluke weightless (twitch down on slack), Ned rig (tiny hops). Rule: if it's a soft plastic or a suspending/sinking hard bait without a bill = rod moves it.",
+      "motion": "",
+      "line_mgmt": "",
+      "pause": "",
+      "hookset": "",
+      "key_rule": ""
+    },
+    {
+      "technique": "Jerkbait (snap-pause)",
+      "rod_position": "DOWN 45deg toward water (8 oclock). Tip 6-12in above surface.",
+      "motion": "WRIST snap down (6-10in tip travel). Elbow stays still. Crisp flick, not power pull.",
+      "line_mgmt": "Slight BOW in line during pause (not tight, not slack). Reel 1-2 cranks ONLY to gather slack after snap. Reel 2-3 cranks after long pause to recover distance. Reel NEVER moves the bait.",
+      "pause": "3-10sec (cold=longer). The pause catches fish. If followers wont commit: add 3 more seconds.",
+      "hookset": "Reel down until tight, then sweep SIDEWAYS (not up). Side sweep drives trebles into jaw corner.",
+      "key_rule": "The bait darts on the SNAP. It catches fish on the PAUSE. Reel is only slack management."
+    },
+    {
+      "technique": "Texas Rig / Jig (pitch-hop)",
+      "rod_position": "10 oclock (slightly above horizontal), pointed at bait. This is your HOME position between movements.",
+      "motion": "THREE techniques with different rod motions:\nHOP (vertical): Lift tip UP from 10 to 12 oclock (4-6in). Jig hops off bottom. Drop back to 10. Let fall.\nDRAG (horizontal): Sweep rod SIDEWAYS from 9 to 11 oclock, pulling jig ALONG bottom (crawling, not lifting). Reel up slack. Repeat.\nSHAKE (in place): Tiny 1-2in vibrations at rod tip. Skirt/trailer pulse without jig moving forward.",
+      "line_mgmt": "Semi-slack on the fall (feel bottom but dont pull bait sideways). Watch line for tick/jump/sideways movement on fall. 70% of bites on the FALL.",
+      "pause": "2-3sec after each hop. Let skirt/trailer settle. Let it sit on bottom.",
+      "hookset": "Reel down to fish weight, then SWEEP HARD to side. MH power drives hook through plastic + jaw.",
+      "key_rule": "HOP = lifts jig off bottom (vertical). DRAG = crawls jig along bottom (horizontal). Different triggers. Hop for reaction, drag for following the bottom contour and feeling structure. Alternate both."
+    },
+    {
+      "technique": "Weightless Senko (wacky)",
+      "rod_position": "Point at bait after cast. No specific angle needed \u2014 just watch line.",
+      "motion": "NOTHING. Do not move the bait. Cast, let fall. Thats it. One tiny twitch after bottom, then let fall again.",
+      "line_mgmt": "Semi-slack. Enough to see line movement but not pulling the bait. The shimmy on fall IS the action.",
+      "pause": "The entire technique is a pause. Fall = 100% of the action. If it hits bottom: one twitch, let fall again, then reel in.",
+      "hookset": "Watch line: jumps, moves sideways, goes slack, or feels heavy. Sweep set to side.",
+      "key_rule": "DO NOT RETRIEVE. Cast, let fall, watch line. 70% of bites on initial fall. One cast = one spot."
+    },
+    {
+      "technique": "Walk-the-Dog (topwater)",
+      "rod_position": "9 oclock (HORIZONTAL, parallel to water). Pointed toward bait, slightly off to your dominant side. Tip near water surface.",
+      "motion": "Same sideways wrist twitch EVERY TIME (always to the same side). You do NOT alternate left-right. The slack between twitches lets the baits momentum carry it the opposite direction automatically. Same flick, same direction, over and over. The bait zigzags on its own from the physics of slack + weighted tail. 2-3 inch tip movement. Quick and light, not powerful.",
+      "line_mgmt": "Slack is what makes it walk. After each twitch: return rod tip to create slack (bait momentum carries it gliding). Too tight = bait dives or wont glide. No reeling between twitches usually \u2014 slack forms naturally when you return rod tip.",
+      "pause": "Optional: after 4-5 walks, dead stop 2-3sec. Tail settles, final sound. Then restart. Triggers followers.",
+      "hookset": "WAIT 1-2 SECONDS after blowup. They often miss first strike. Set on WEIGHT not splash. Sweep side.",
+      "key_rule": "You twitch ONE direction only. Bait walks L-R by itself (slack creates the zigzag). If bait only goes one way and wont walk: not enough slack between twitches. If bait dives or skips: twitching too hard. Think tapping, not snapping."
+    },
+    {
+      "technique": "Popper (Pop-X)",
+      "rod_position": "8 oclock (angled DOWN toward water, tip close to surface). Lower than walk-the-dog because you need downward force to make the cup spit.",
+      "motion": "Short sharp DOWNWARD wrist snap (different from walk-the-dog which is sideways). The downward pop drives the cupped face into the water surface = spit/splash. 2-4 inch downward tip movement.",
+      "line_mgmt": "Small slack between pops (similar to walk-the-dog). Reel 1 crank between pops to recover.",
+      "pause": "2-3sec between pops. Pop-pop-pause is the basic cadence. Also: single pop then 5sec dead sit.",
+      "hookset": "Same as walk-the-dog: WAIT 1-2sec after blowup. Set on weight.",
+      "key_rule": "Different trigger than walk-the-dog. Pop = spit/splash sound. Use when walking gets refused. Calm mornings, docks."
+    },
+    {
+      "technique": "Frog / Toad / Buzzbait (surface cover)",
+      "rod_position": "FROG/TOAD: rod tip medium-high. BUZZBAIT: rod tip HIGH (10-11 oclock).",
+      "motion": "FROG: walk-the-dog over mats OR slow crawl. TOAD: fast steady reel (legs churn). BUZZBAIT: fast steady reel (prop churns). Toad and buzz SINK if you stop!",
+      "line_mgmt": "BRAID DIRECT (no leader). Braid floats (helps surface) + zero stretch (instant hookset through soft body/cover).",
+      "pause": "FROG: pause at mat holes and edges. TOAD/BUZZ: do NOT pause (they sink). Stop only in open pockets briefly.",
+      "hookset": "WAIT 1-2 SECONDS. Universal rule for all surface baits. Set on WEIGHT. Sweep hard \u2014 need force to drive hook through soft plastic body AND pull fish from cover.",
+      "key_rule": "Bend frog hook points out 1-2mm. Trim frog legs if short strikes. Braid is MANDATORY (no fluoro ever)."
+    },
+    {
+      "technique": "Spinnerbait (slow roll / burn)",
+      "rod_position": "9-10 oclock (horizontal or slightly down). Lower tip = bait runs deeper. Higher = shallower.",
+      "motion": "SLOW ROLL: Steady reel, barely feel blade vibrate. Thats the correct speed. BURN: fast reel near surface (summer). HELICOPTER: let fall on slack off ledges (blades spin on descent).",
+      "line_mgmt": "Keep line reasonably taut (need to feel blade vibration through the rod). If you cant feel thumping, speed up slightly.",
+      "pause": "Not a pause-bait typically. But: killing it briefly near cover can trigger followers. Also: helicopter fall IS a pause technique (controlled fall).",
+      "hookset": "The fish hooks itself on the single hook. Just keep reeling into the weight. No hard snap needed \u2014 sweep into it.",
+      "key_rule": "If strong vibration = too fast for cold water. Barely-perceptible thump = correct cold water speed. Speed up as water warms."
+    },
+    {
+      "technique": "Swim Jig (steady swim)",
+      "rod_position": "9-10 oclock. Raise tip = bait rides higher. Lower = deeper. Keep above weed tops.",
+      "motion": "STEADY retrieve ~1 handle turn per second. NOT hopping (thats a bottom jig technique). Speed through thick cover, slow on open stretches.",
+      "line_mgmt": "Keep taut enough to feel the jig tracking and any strikes. Braid OK (floats, keeps jig higher in column).",
+      "pause": "Mix in 2-3sec pauses to trigger followers. Rage Craw trailer FLUTTERS on the pause (thats the trigger). Space Monkey keeps thumping on pause (different trigger).",
+      "hookset": "Feel weight or a thud = sweep set to side. Often hits on the pause/fall.",
+      "key_rule": "Steady swim, not hopping. Think weedless spinnerbait. If blade version fouls on weeds: switch to bladeless Rage Craw version."
+    },
+    {
+      "technique": "Lipless Crankbait (yo-yo)",
+      "rod_position": "Start at 8 oclock (low). Sweep UP to 11 oclock for the lift.",
+      "motion": "SMOOTH sweep up (not violent rip unless grass). Let fall on SEMI-SLACK. Also: steady medium retrieve, or high-speed burn-and-kill (reel fast then dead stop).",
+      "line_mgmt": "SEMI-SLACK on fall is critical. Not tight (kills flutter), not fully slack (cant detect bite). Slight bow that straightens = bite. RIPPING GRASS: feel bait load up, sharp upward snap to pop free, then let flutter fall.",
+      "pause": "The fall IS the technique. Each lift-fall cycle is the trigger. 1-2 seconds between yo-yos. Bite comes within first second of fall.",
+      "hookset": "IMMEDIATELY on anything weird during the fall. Line tick, jump, slack, sideways movement = set hook NOW. Reel down, sweep side.",
+      "key_rule": "Most bites on the FALL (like Texas rig). Semi-slack lets you detect them. Tight line = missed bites."
+    },
+    {
+      "technique": "Crankbait (deflection)",
+      "rod_position": "9-10 oclock (low). Rod absorbs deflections. Let the rod load, dont fight it.",
+      "motion": "STEADY RETRIEVE. Not stop-and-go (usually). Reel at medium speed to maintain depth and wobble. Throw AT cover \u2014 deflection off rocks/stumps/wood = strike trigger.",
+      "line_mgmt": "Relatively taut. You need to feel the bait's wobble and any contact with structure. Fluoro direct (no braid) is ideal \u2014 stretch keeps trebles pinned on headshakes.",
+      "pause": "Generally not a pause bait. Exception: Flap Slap (rod drag then pause, nose kicks up). Exception: MD-X Cyclone (stop for spiral drift). Exception: HU-400 (stop for riser action).",
+      "hookset": "DO NOT SET HOOK. Just keep reeling. Trebles hook the fish on their own during the deflection bite. Hard hooksets RIP trebles out.",
+      "key_rule": "Max cast = max depth. Throw AT objects (deflection triggers strikes). If it feels like you snagged then came free = FISH (keep reeling)."
+    },
+    {
+      "technique": "Ned Rig (finesse drag)",
+      "rod_position": "10 oclock or wherever comfortable. Nothing specific required.",
+      "motion": "Cast, let sink. TINY hops: 2-3 inches of rod tip movement. Long drags along bottom. Shake in place. Less is more.",
+      "line_mgmt": "Light tension. Feel bottom contact. These bites are often subtle (just feels slightly heavier).",
+      "pause": "LONG pauses between every movement (3-5sec minimum). The tail standing up on bottom IS working even when you do nothing. Let it sit.",
+      "hookset": "Firm sweep (not violent snap). Light wire hooks on ShroomZ can bend if you snap too hard.",
+      "key_rule": "Dont overthink it. Cast, sink, tiny movements, long pauses. The simplest technique in fishing. Less = more."
+    },
+    {
+      "technique": "Fluke / Soft Jerkbait (weightless twitch)",
+      "rod_position": "LOW at 8-9 oclock (down toward water), pointed toward bait. Slack line critical.",
+      "motion": "Twitch-twitch-PAUSE. Sharp 6-10in wrist snaps on SLACK LINE. The slack = lateral dart. Tight line = bait swims toward you (wrong).",
+      "line_mgmt": "SLACK LINE IS MANDATORY. Each snap whips bait through the slack. After snaps: return rod to position, reel 1-2 cranks to reset. During pause: let line bow slightly.",
+      "pause": "2-5sec (where bites happen). Bait sinks slowly, shimmying. Watch line for any movement. Extend to 8-10sec in cold.",
+      "hookset": "Reel down to weight, then SWEEP side. Do not snap-set. The offset hook needs sustained pressure to rotate and penetrate.",
+      "key_rule": "If bait swims toward you instead of darting sideways = your line is too tight. Create slack before snapping."
+    },
+    {
+      "technique": "Inline Spinner (Vibrax steady)",
+      "rod_position": "Wherever comfortable. 9-10 oclock works.",
+      "motion": "STEADY retrieve. Count down for depth control (count 3 = shallow, count 7 = deeper). Adjust speed to feel blade spin.",
+      "line_mgmt": "ALWAYS use ball bearing swivel between braid and leader/spinner (prevents line twist that destroys your line). Keep tension to feel blade rotation.",
+      "pause": "Not typically a pause bait. Steady does the work. But: killing it near a target lets it flutter-fall briefly = different trigger.",
+      "hookset": "Keep reeling into the fish. Single hook finds its own purchase. Light sweep if needed.",
+      "key_rule": "SWIVEL MANDATORY. Without it, the spinning blade twists your line into an unusable mess within 20 casts."
+    },
+    {
+      "technique": "Swimbait / Paddle Tail (slow swim)",
+      "rod_position": "9-10 oclock. Adjust height to control depth.",
+      "motion": "SLOW steady retrieve. Feel tail thumping through rod. If bait rises in water column = too fast. If you cant feel thump = too slow.",
+      "line_mgmt": "Moderate tension. Need to feel the tail kick rhythm. Jighead (open water) vs weighted EWG hook (cover/weeds).",
+      "pause": "Optional 1-2sec pauses (bait flutters on fall = trigger). Keitecth especially kicks tail on the fall too.",
+      "hookset": "Sweep set. If on jighead (exposed hook) = fish often hooks itself. If on TX/weighted hook = need a more deliberate set.",
+      "key_rule": "SLOW. Slower than you think. Match actual baitfish speed. Keitech tears easily \u2014 use TwistLOCK hooks and super-glue head."
+    }
+  ],
   "lures": [
     {
       "name": "--- JERKBAITS ---",
@@ -692,7 +738,7 @@
       "type": "Jerkbait suspending",
       "specs": "110mm 16.5g 0.8-1.2m SILENT",
       "hook_weight": "Stock #6 trebles. Owner Hyper Snap (or split ring + VMC snap).",
-      "retrieve": "Snap-snap-pause 3-10sec. Rod tip DOWN 45deg. Wrist only.",
+      "retrieve": "ROD MOVES: Snap-snap-pause 3-10sec. Rod tip DOWN 45deg (8 oclock). Wrist only.",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
       "tip": "SILENT. Acid Green = high-vis reaction color (stained water, low light). Cold water = 10-15sec pauses. Dont reel between snaps. For natural/clear conditions, use Ito-Shiner TN Shad instead."
     },
@@ -701,7 +747,7 @@
       "type": "Jerkbait suspending",
       "specs": "115mm 16g 0.8-1.8m RATTLE",
       "hook_weight": "Stock #5 trebles. Owner Hyper Snap (or split ring + VMC snap).",
-      "retrieve": "Hard snap-snap-pause 3-8sec. Or: 1 hard rip then 5-10sec dead stop.",
+      "retrieve": "ROD MOVES: Hard snap-snap-pause 3-8sec. Or: 1 hard rip then 5-10sec dead stop.",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
       "tip": "RATTLE = stained water. Instant-stop feature. Louder than Orbit."
     },
@@ -710,7 +756,7 @@
       "type": "Jerkbait suspending",
       "specs": "110mm 15.3g 1.2m FLAT-SIDED",
       "hook_weight": "Stock #6 trebles. Owner Hyper Snap (or split ring + VMC snap).",
-      "retrieve": "SOFT twitch-pause 8-15sec (flat sides amplify). Gentle input!",
+      "retrieve": "ROD MOVES: SOFT twitch-pause 8-15sec (flat sides amplify). Gentle input!",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
       "tip": "COLD WATER specialist. Flat = intense flash. SOFTER snaps than other jerkbaits."
     },
@@ -719,7 +765,7 @@
       "type": "Jerkbait suspending",
       "specs": "130mm 19.5g 0.7-1.5m RATTLE",
       "hook_weight": "Stock #4 x2. Owner Hyper Snap (or split ring + VMC snap).",
-      "retrieve": "Single sharp snap, 5-10sec pause. One snap only (big dart).",
+      "retrieve": "ROD MOVES: Single sharp snap, 5-10sec pause. One snap only (big dart).",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
       "tip": "BIG 130mm for big fish + pike. Single snaps only. Shallow runner despite size."
     },
@@ -728,7 +774,7 @@
       "type": "Jerkbait finesse",
       "specs": "77mm 8.4g 0.8-1.2m",
       "hook_weight": "Stock #10 x2. VMC snap.",
-      "retrieve": "Micro-twitches, 2-5sec pause. Very gentle. Or slow steady roll.",
+      "retrieve": "ROD MOVES: Micro-twitches, 2-5sec pause. Very gentle. Or slow steady roll.",
       "setup": "Expride Spinning (too light for casting gear)",
       "tip": "FINESSE jerkbait. When big jerkbaits get refused. Clear + pressured."
     },
@@ -737,7 +783,7 @@
       "type": "Jerkbait suspending",
       "specs": "115mm 14g 1.8-2.0m FLAT-SIDED",
       "hook_weight": "Stock #4 x3. VMC snap.",
-      "retrieve": "Aggressive snap-snap-snap-pause 2-5sec. Needs HARD input. Darts 30% farther than Vision 110.",
+      "retrieve": "ROD MOVES: Aggressive snap-snap-snap-pause 2-5sec. Needs HARD input. Darts 30% farther than Vision 110.",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
       "tip": "2 colors ordered: TN Shad (natural/clear) + Stain Reaction OB (murky). Unique erratic dart nothing else replicates."
     },
@@ -755,7 +801,7 @@
       "type": "Minnow slow-floating",
       "specs": "108mm 14g 1.0-1.5m RISES on pause",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "Snap-snap then STOP. Let RISE 3-8sec. The RISE is the trigger.",
+      "retrieve": "ROD MOVES: Snap-snap then STOP. Let RISE 3-8sec. The RISE is the trigger.",
       "setup": "Aspro + DC",
       "tip": "Different from suspenders: pause = bait floats UP. Wait for it."
     },
@@ -764,7 +810,7 @@
       "type": "Minnow floating",
       "specs": "128mm 19g 0-0.5m surface/sub",
       "hook_weight": "Stock #4 x2. VMC snap.",
-      "retrieve": "Slow STEADY retrieve creating wake. NOT a jerkbait - dont snap hard.",
+      "retrieve": "ROD MOVES: Slow STEADY retrieve creating wake. NOT a jerkbait - dont snap hard.",
       "setup": "Aspro + DC",
       "tip": "Steady swim bait. 128mm pike target. Stop-and-go triggers followers."
     },
@@ -773,7 +819,7 @@
       "type": "Minnow floating",
       "specs": "105mm 16.9g 0.5m subsurface",
       "hook_weight": "Stock #6 x3. VMC snap.",
-      "retrieve": "Subsurface walk-the-dog: rhythmic L-R twitches JUST under surface.",
+      "retrieve": "ROD MOVES: Subsurface walk-the-dog: rhythmic L-R twitches JUST under surface.",
       "setup": "Legend TB or Aspro + DC",
       "tip": "When fish refuse topwater. Works 10-20cm below surface film."
     },
@@ -791,7 +837,7 @@
       "type": "Topwater walker",
       "specs": "90mm 13.5g surface LOUD",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "Walk-the-dog: SHORT wrist snaps, slack-snap-slack rhythm.",
+      "retrieve": "ROD MOVES: Walk-the-dog: rod HORIZONTAL (9 oclock), small SIDEWAYS wrist twitches (2-3in), slack between each. Rhythm: twitch-slack-twitch-slack.",
       "setup": "Legend TB + DC #2. 10lb fluoro OK for topwater walk.",
       "tip": "LOUDEST walker. WAIT 1-2sec after blowup before hookset."
     },
@@ -800,7 +846,7 @@
       "type": "Topwater hybrid",
       "specs": "120mm 16g surface",
       "hook_weight": "Stock x3. VMC snap.",
-      "retrieve": "Random cadence: pop, walk, pause, dive. Chaos not rhythm.",
+      "retrieve": "ROD MOVES: Random cadence: horizontal twitches (walk), downward snaps (pop/dive), pauses. Chaos not rhythm.",
       "setup": "Aspro + DC. BRAID direct.",
       "tip": "DISCONTINUED. Vary inputs constantly. Vertical hang on pause = strike window."
     },
@@ -809,7 +855,7 @@
       "type": "Topwater popper",
       "specs": "64mm 1/4oz surface POPPER",
       "hook_weight": "Stock #6 trebles. Owner Hyper Snap or split ring + VMC snap.",
-      "retrieve": "Short sharp POPS: wrist snap down, pause 2-3sec between pops. Pop-pop-pause. Also: pop then let sit 5sec.",
+      "retrieve": "ROD MOVES: Short sharp POPS: wrist snap down, pause 2-3sec between pops. Pop-pop-pause. Also: pop then let sit 5sec.",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
       "tip": "YOUR ONLY POPPER. Different trigger than walk-the-dog. Imitates bluegill struggling on surface. GG Wild Gill = bluegill match for suburban lakes. WAIT on hookset."
     },
@@ -818,7 +864,7 @@
       "type": "Frog hollow-body",
       "specs": "2.5in 1/2oz surface",
       "hook_weight": "3/0 double (stock). Ready to fish.",
-      "retrieve": "Walk-the-dog over mats/pads. Slow crawl over thick cover.",
+      "retrieve": "JUST REEL: Walk-the-dog: rod HORIZONTAL, small sideways twitches with slack between. Slow crawl over thick mats.",
       "setup": "Zodias MH + Revo SX. BRAID direct 50-65lb.",
       "tip": "WAIT 1-2sec after blowup! Bend hooks out 1-2mm. Trim legs."
     },
@@ -827,7 +873,7 @@
       "type": "Frog (small)",
       "specs": "2in 1/4oz surface",
       "hook_weight": "2/0 double (stock). Ready to fish.",
-      "retrieve": "Same walk as standard. For pressured/clear/small ponds.",
+      "retrieve": "JUST REEL: Same horizontal walk as standard. Use when standard gets refused.",
       "setup": "Zodias MH + Revo SX. BRAID direct.",
       "tip": "When standard gets refused. Extra patience on hookset."
     },
@@ -836,7 +882,7 @@
       "type": "Frog (popper)",
       "specs": "2.5in ~0.5oz surface",
       "hook_weight": "3/0 double (stock). Ready to fish.",
-      "retrieve": "POP (sharp snap for bloop) + walk combo. Pop at cover edges.",
+      "retrieve": "JUST REEL: POP: rod angled DOWN (8 oclock), short downward wrist snap (cup spits water). WALK: rod horizontal, sideways twitches. Combine both.",
       "setup": "Zodias MH + Revo SX. BRAID direct.",
       "tip": "3 techniques in one: pop, walk, or combo. Pop cuts through wind/slop."
     },
@@ -845,7 +891,7 @@
       "type": "Toad surface",
       "specs": "4in, GP/Chart",
       "hook_weight": "4/0-5/0 EWG belly-UP. No weight.",
-      "retrieve": "Fast steady reel, rod HIGH. Sinks if you stop! Start IMMEDIATELY.",
+      "retrieve": "JUST REEL: Fast steady reel, rod HIGH. Sinks if you stop! Start IMMEDIATELY.",
       "setup": "Zodias MH + Revo SX. BRAID direct 40-65lb.",
       "tip": "Louder than frog but SINKS. Must reel fast. WAIT on hookset."
     },
@@ -854,7 +900,7 @@
       "type": "Buzzbait surface",
       "specs": "18.2g prop blade",
       "hook_weight": "Stock single hook.",
-      "retrieve": "Fast steady, rod HIGH. Prop churns surface. NEVER stop reeling.",
+      "retrieve": "JUST REEL: Fast steady, rod HIGH. Prop churns surface. NEVER stop reeling.",
       "setup": "Zodias MH + Revo SX. BRAID direct 40-50lb.",
       "tip": "LOUDEST surface bait. Dawn/dusk/rain. WAIT on hookset like frog."
     },
@@ -872,7 +918,7 @@
       "type": "Crank squarebill",
       "specs": "70mm 17.7g 0.6-1.5m",
       "hook_weight": "Stock #2 x2. VMC snap.",
-      "retrieve": "Medium steady INTO cover. Keep reeling through contact.",
+      "retrieve": "JUST REEL: Medium steady INTO cover. Keep reeling through contact.",
       "setup": "Zodias MH + Revo SX",
       "tip": "Throw AT objects. Deflection = trigger. Dont set hook, just reel."
     },
@@ -881,7 +927,7 @@
       "type": "Crank squarebill",
       "specs": "60mm 12g 1.0-1.5m SILENT",
       "hook_weight": "UPGRADE hooks to #6! VMC snap.",
-      "retrieve": "Moderate bumping. Pause 1sec (floats off snags). Slow roll pressured.",
+      "retrieve": "JUST REEL: Moderate bumping. Pause 1sec (floats off snags). Slow roll pressured.",
       "setup": "Aspro + DC (12g lighter) or Zodias MH",
       "tip": "SILENT + high-float = pressured fish killer. Replace hooks immediately."
     },
@@ -890,7 +936,7 @@
       "type": "Crank flat-sided",
       "specs": "77mm 10.6g 0.6-1.2m SILENT",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "ROD drag (not reel) forward, pause 1-2sec (nose kicks UP). NOT steady crank!",
+      "retrieve": "JUST REEL: ROD drag (not reel) forward, pause 1-2sec (nose kicks UP). NOT steady crank!",
       "setup": "Aspro + DC (sensitivity for cold bites)",
       "tip": "COLD WATER hybrid crank/jerkbait. Rod drags + pauses. Not straight retrieve."
     },
@@ -899,7 +945,7 @@
       "type": "Crank medium",
       "specs": "55mm 10.8g 1.5-2.5m",
       "hook_weight": "UPGRADE hooks. VMC snap.",
-      "retrieve": "Steady retrieve grinding bottom 5-8ft. Stop-and-go.",
+      "retrieve": "JUST REEL: Steady retrieve grinding bottom 5-8ft. Stop-and-go.",
       "setup": "Aspro + DC or Zodias MH",
       "tip": "Compact body reaches medium depth. Replace stock hooks."
     },
@@ -908,7 +954,7 @@
       "type": "Crank deep",
       "specs": "75mm 20.9g 3.5-5.0m",
       "hook_weight": "Stock #4 x2. VMC snap.",
-      "retrieve": "Steady retrieve tip DOWN (submerge tip +2-3ft). LONG CASTS.",
+      "retrieve": "JUST REEL: Steady retrieve tip DOWN (submerge tip +2-3ft). LONG CASTS.",
       "setup": "Zodias MH + Revo SX",
       "tip": "Max cast = max depth. Need 60ft+ casts. 10-12lb fluoro only."
     },
@@ -917,7 +963,7 @@
       "type": "Crank med-deep",
       "specs": "55.5mm 14g 2.5-3.5m",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "4-5 cranks then STOP 2-3sec (bait SPIRALS upward). Repeat.",
+      "retrieve": "JUST REEL: 4-5 cranks then STOP 2-3sec (bait SPIRALS upward). Repeat.",
       "setup": "Aspro + DC or Zodias MH",
       "tip": "Unique SPIRAL rise on pause. Stop-and-go is mandatory."
     },
@@ -926,7 +972,7 @@
       "type": "Crank deep",
       "specs": "55mm 17.2g 4.0-6.0m",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "Crank deep, STOP, let RISE with drunken wobble 3-5sec. Repeat.",
+      "retrieve": "JUST REEL: Crank deep, STOP, let RISE with drunken wobble 3-5sec. Repeat.",
       "setup": "Zodias MH + Revo SX",
       "tip": "RISER ACTION on stop = trigger. Need 60-80ft casts. Summer deep only."
     },
@@ -944,7 +990,7 @@
       "type": "Lipless crank",
       "specs": "71mm 17.7g sinking TIGHT RATTLE",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "Yo-yo: smooth lift 8-11 oclock, fall semi-slack. Rip through grass.",
+      "retrieve": "JUST REEL: Yo-yo: smooth lift 8-11 oclock, fall semi-slack. Rip through grass.",
       "setup": "Zodias MH + Revo SX",
       "tip": "TIGHT vibration (not thump). Moderate speed. Bites on fall = line tick."
     },
@@ -953,7 +999,7 @@
       "type": "Lipless crank",
       "specs": "76mm 21g sinking LOUD RATTLE",
       "hook_weight": "Stock #4 x2. VMC snap.",
-      "retrieve": "Power yo-yo deep (10-20ft). Burn max speed. Heavy = fast fall.",
+      "retrieve": "JUST REEL: Power yo-yo deep (10-20ft). Burn max speed. Heavy = fast fall.",
       "setup": "Zodias MH + Revo SX",
       "tip": "HEAVIEST/LOUDEST. Chartreuse Shad = stained-muddy water. Distance king."
     },
@@ -962,7 +1008,7 @@
       "type": "Lipless crank",
       "specs": "76mm 14g sinking MORE BUOYANT",
       "hook_weight": "UPGRADE #4 hooks! VMC snap.",
-      "retrieve": "Slow roll. RISES on pause (pops off snags). Grass-top burn.",
+      "retrieve": "JUST REEL: Slow roll. RISES on pause (pops off snags). Grass-top burn.",
       "setup": "Aspro + DC (14g) or Zodias MH",
       "tip": "BUOYANT = rises on pause (unique). Royal Red = crawfish. Upgrade hooks."
     },
@@ -971,7 +1017,7 @@
       "type": "Lipless finesse",
       "specs": "54mm 10.5g sinking QUIET",
       "hook_weight": "Stock #10 x2. VMC snap.",
-      "retrieve": "Finesse yo-yo SPINNING GEAR. Gentle lift, slow flutter-fall.",
+      "retrieve": "ROD MOVES: Finesse yo-yo SPINNING GEAR. Gentle lift, slow flutter-fall.",
       "setup": "Expride Spinning (not baitcaster)",
       "tip": "SPINNING ONLY. Smallest/quietest. When big lipless refused. Light tackle."
     },
@@ -980,7 +1026,7 @@
       "type": "Lipless crank",
       "specs": "63mm 14g sinking 1 TUNGSTEN THUMP",
       "hook_weight": "Stock trebles. VMC snap.",
-      "retrieve": "SLOW yo-yo emphasizing thump cadence. Crawl-and-thump in cold.",
+      "retrieve": "JUST REEL: SLOW yo-yo emphasizing thump cadence. Crawl-and-thump in cold.",
       "setup": "Zodias MH + Revo SX",
       "tip": "LOST. Single THUMP not rattle. Different sound catches conditioned fish."
     },
@@ -998,7 +1044,7 @@
       "type": "Spoon heavy",
       "specs": "24g sinking",
       "hook_weight": "Stock hook. P-Line swivel.",
-      "retrieve": "Cast upstream/across, let current swing. Barely retrieve.",
+      "retrieve": "JUST REEL: Cast upstream/across, let current swing. Barely retrieve.",
       "setup": "Zodias MH + Revo SX",
       "tip": "Let current do 70% of work. Dont retrieve against current."
     },
@@ -1007,7 +1053,7 @@
       "type": "Spoon medium",
       "specs": "14g sinking",
       "hook_weight": "Stock hook. P-Line swivel.",
-      "retrieve": "Slow retrieve with wobble. Count down for depth (1sec=~1ft).",
+      "retrieve": "JUST REEL: Slow retrieve with wobble. Count down for depth (1sec=~1ft).",
       "setup": "Aspro + DC",
       "tip": "More wobble than Krocodile. Lighter = slower/shallower water."
     },
@@ -1016,7 +1062,7 @@
       "type": "Spoon glow",
       "specs": "14.7g sinking UV/GLOW",
       "hook_weight": "Stock hook. P-Line swivel.",
-      "retrieve": "Slow retrieve. CHARGE with flashlight 15-30sec before EACH cast!",
+      "retrieve": "JUST REEL: Slow retrieve. CHARGE with flashlight 15-30sec before EACH cast!",
       "setup": "Aspro + DC",
       "tip": "CHARGE THE GLOW or its useless. Dawn/dusk/murky ONLY."
     },
@@ -1025,7 +1071,7 @@
       "type": "Inline spinner",
       "specs": "8g",
       "hook_weight": "Stock treble. SPRO SWIVEL mandatory.",
-      "retrieve": "Steady retrieve. Count down for depth. Slow = barely feel blade.",
+      "retrieve": "JUST REEL: Steady retrieve. Count down for depth. Slow = barely feel blade.",
       "setup": "Expride Spinning. SWIVEL prevents twist.",
       "tip": "ALWAYS use ball bearing swivel. Smaller for streams/shallow."
     },
@@ -1034,7 +1080,7 @@
       "type": "Inline spinner",
       "specs": "10g",
       "hook_weight": "Stock treble. SPRO SWIVEL mandatory.",
-      "retrieve": "Steady retrieve, bump bottom. Count down for depth.",
+      "retrieve": "JUST REEL: Steady retrieve, bump bottom. Count down for depth.",
       "setup": "Expride Spinning. SWIVEL prevents twist.",
       "tip": "Best multi-species search bait for unknown water."
     },
@@ -1052,7 +1098,7 @@
       "type": "Swimbait large",
       "specs": "4.8in ~14g Rainbow Shad",
       "hook_weight": "5/0 weighted hook 1/8-1/4oz (or 4/0 Eagle Claw 1/4oz). Centering pin. Open water: 4/0-5/0 jighead 1/8-1/4oz.",
-      "retrieve": "SLOW steady retrieve. Feel tail thump. Pause to flutter.",
+      "retrieve": "JUST REEL: SLOW steady retrieve. Feel tail thump. Pause to flutter.",
       "setup": "Aspro + DC (open) or Zodias MH (cover)",
       "tip": "TwistLOCK/screw hook mandatory (tears). Super-glue head. Jighead=open water, weighted hook=cover."
     },
@@ -1061,7 +1107,7 @@
       "type": "Swimbait medium",
       "specs": "3.8in ~10g Pro Blue/Red Pearl",
       "hook_weight": "Gamakatsu SPR-Lock 3/0 1/8oz (PERFECT match). Open water: 3/0 jighead 1/8oz.",
-      "retrieve": "Slow steady. Also excellent swim jig/chatterbait trailer.",
+      "retrieve": "JUST REEL: Slow steady. Also excellent swim jig/chatterbait trailer.",
       "setup": "Aspro + DC (open) or Zodias MH (cover)",
       "tip": "SPR-Lock 3/0 1/8oz = confirmed ideal. Add centering pin. Jighead for open water."
     },
@@ -1070,7 +1116,7 @@
       "type": "Swimbait finesse",
       "specs": "2.8in ~7g Bluegill Flash",
       "hook_weight": "Eagle Claw ball head jig 1/16oz. Open water: 1/0 jighead. Cover: 1/0 EWG + 2g bullet TX.",
-      "retrieve": "Slow-medium steady on spinning. Also: drop shot nose-hooked.",
+      "retrieve": "JUST REEL: Slow-medium steady on spinning. Also: drop shot nose-hooked.",
       "setup": "Expride Spinning only",
       "tip": "Jighead for open. TX rig (1/0 EWG + 2g bullet) for weedy cover. Spinning only."
     },
@@ -1079,7 +1125,7 @@
       "type": "JDM swimbait",
       "specs": "4in 6.4g Live Ayu/Silver",
       "hook_weight": "1/0-2/0 jighead 1/8oz (open). Or 2/0 EWG + 3.5g bullet TX (cover). Or drop shot.",
-      "retrieve": "Slow steady (foil does the work). Twitch-and-glide on drop shot.",
+      "retrieve": "ROD MOVES: Slow steady (foil does the work). Twitch-and-glide on drop shot.",
       "setup": "Expride Spinning or Aspro + DC",
       "tip": "Internal ALUMINUM FOIL = unique flash. Jighead maximizes flash. TX rig for weeds."
     },
@@ -1088,7 +1134,7 @@
       "type": "Boot-tail swim",
       "specs": "3.75in Baby Bass",
       "hook_weight": "SPR-Lock 3/0 1/8oz (weedless). Or 2/0-3/0 jighead 1/8-1/4oz (open).",
-      "retrieve": "Slow steady. Subtler action than Keitech. More durable.",
+      "retrieve": "JUST REEL: Slow steady. Subtler action than Keitech. More durable.",
       "setup": "Aspro + DC or Expride Spinning",
       "tip": "More durable + subtler than Keitech. Budget-friendly. Weighted hook=cover, jighead=open."
     },
@@ -1097,7 +1143,7 @@
       "type": "Paddletail small",
       "specs": "3.25in Ice Breaker",
       "hook_weight": "Eagle Claw ball head jig 1/16oz. Or 1/0 EWG + 2g bullet TX (cover).",
-      "retrieve": "Slow steady. Twitch-and-swim (reel 2-3 turns, pause, repeat).",
+      "retrieve": "JUST REEL: Slow steady. Twitch-and-swim (reel 2-3 turns, pause, repeat).",
       "setup": "Expride Spinning",
       "tip": "Extremely soft plastic = wide tail kick. Cold/clear water specialist."
     },
@@ -1106,7 +1152,7 @@
       "type": "Pre-rigged micro",
       "specs": "2in pre-rigged",
       "hook_weight": "Pre-rigged (stock). Or under bobber.",
-      "retrieve": "Slow retrieve. Under bobber 2-4ft for crappie. Vertical jig.",
+      "retrieve": "JUST REEL: Slow retrieve. Under bobber 2-4ft for crappie. Vertical jig.",
       "setup": "Ultralight or Expride Spinning",
       "tip": "PANFISH bait (crappie, bluegill). Grab-and-go. PowerBait scent."
     },
@@ -1123,18 +1169,18 @@
       "name": "Zoom Super Fluke 5.25\" White Pearl",
       "type": "Soft jerkbait",
       "specs": "5.25in White Pearl",
-      "hook_weight": "5/0 EWG (Pro's Pack). WEIGHTLESS - no weight needed.",
-      "retrieve": "Twitch-twitch-PAUSE on SLACK LINE. Rod low. Bites on pause.",
-      "setup": "Zodias MH + Revo SX. 12-15lb fluoro.",
+      "hook_weight": "4/0 EWG (Gamakatsu). WEIGHTLESS - no weight.",
+      "retrieve": "ROD MOVES: Twitch-twitch-PAUSE on SLACK LINE. Rod low. Bites on pause.",
+      "setup": "Expride Spinning (primary) or Aspro + DC (also works \u2014 both have leader).",
       "tip": "SLACK LINE mandatory for dart. White = stained/muddy/night/shad. Sweep-set on bite."
     },
     {
       "name": "Zoom Super Fluke 5.25\" WM Red",
       "type": "Soft jerkbait",
       "specs": "5.25in Watermelon Red",
-      "hook_weight": "5/0 EWG (Pro's Pack). WEIGHTLESS.",
-      "retrieve": "Same cadence. WM Red = clear water, sunny, near weeds.",
-      "setup": "Zodias MH + Revo SX. 12-15lb fluoro.",
+      "hook_weight": "4/0 EWG (Gamakatsu). WEIGHTLESS - no weight.",
+      "retrieve": "ROD MOVES: Same cadence. WM Red = clear water, sunny, near weeds.",
+      "setup": "Expride Spinning (primary) or Aspro + DC (also works \u2014 both have leader).",
       "tip": "WM Red when you see bait 2ft+ below. White when you cant."
     },
     {
@@ -1142,7 +1188,7 @@
       "type": "Soft jerkbait finesse",
       "specs": "3in Smokin Shad",
       "hook_weight": "DROP SHOT: #1 hook + 7-10g drop weight 12-24in below. Or 1/0 EWG weightless.",
-      "retrieve": "Drop shot: shake-shake-pause. Weightless: mini twitch-pause.",
+      "retrieve": "ROD MOVES: Drop shot: shake-shake-pause. Weightless: mini twitch-pause.",
       "setup": "Expride Spinning",
       "tip": "Drop shot is PRIMARY (per Zoom pros). When 5in fluke too big."
     },
@@ -1160,7 +1206,7 @@
       "type": "Beaver/creature",
       "specs": "4.2in GP Red",
       "hook_weight": "4/0 EWG (cast) or 5/0 straight shank (flip). 7g bullet cast / 10g flip.",
-      "retrieve": "Let FALL (gliding spiral). Hop, drag, shake. Most bites on fall.",
+      "retrieve": "ROD MOVES: Let FALL (gliding spiral). Hop, drag, shake. Most bites on fall.",
       "setup": "Zodias MH + Revo SX. 15-20lb fluoro.",
       "tip": "THE legendary beaver. Gliding spiral fall is unique. Peg 10g in cover, free-slide 7g open."
     },
@@ -1169,7 +1215,7 @@
       "type": "Creature",
       "specs": "4in Blk Blue Flk",
       "hook_weight": "3/0 EWG. 7g bullet cast / 10g flip.",
-      "retrieve": "Hop 6-8in (4 appendages flare wildly). Shake. Slow swim.",
+      "retrieve": "ROD MOVES: Hop 6-8in (4 appendages flare wildly). Shake. Slow swim.",
       "setup": "Zodias MH + Revo SX",
       "tip": "4 appendages = max displacement. Stained-dirty water (Black Blue). Spirals on fall."
     },
@@ -1178,7 +1224,7 @@
       "type": "Craw",
       "specs": "4in Green Pumpkin",
       "hook_weight": "3/0 EWG. 7g bullet cast / 10g flip. Also: jig trailer (trim nose).",
-      "retrieve": "DRAG slowly (crawfish scoot). Hop 4-6in. Shake near beds.",
+      "retrieve": "ROD MOVES: DRAG slowly (crawfish scoot). Hop 4-6in. Shake near beds.",
       "setup": "Zodias MH + Revo (flip) or Aspro + DC (cast)",
       "tip": "Big claws flap with minimal input. GP = universal. Also great jig trailer (Rage Craw behind pitching jig)."
     },
@@ -1187,7 +1233,7 @@
       "type": "Craw",
       "specs": "4in Watermelon Red Flk",
       "hook_weight": "Same as GP.",
-      "retrieve": "Same. WM Red = clear + sunny + sandy/gravel bottom.",
+      "retrieve": "ROD MOVES: Same. WM Red = clear + sunny + sandy/gravel bottom.",
       "setup": "Same",
       "tip": "WM Red when clear+sun. GP when stained or unsure."
     },
@@ -1196,7 +1242,7 @@
       "type": "Creature/craw hybrid",
       "specs": "4in Bama Craw",
       "hook_weight": "3/0-4/0 EWG (prefer 4/0 thick body). 7g / 10g bullet.",
-      "retrieve": "Hop, drag, swim. More appendages = more vibration than Rage Craw.",
+      "retrieve": "ROD MOVES: Hop, drag, swim. More appendages = more vibration than Rage Craw.",
       "setup": "Zodias MH + Revo SX",
       "tip": "Bulkier than Rage Craw = BEST JIG TRAILER in your box. Or standalone TX."
     },
@@ -1205,7 +1251,7 @@
       "type": "Creature",
       "specs": "4in 10.5g Green Pumpkin",
       "hook_weight": "3/0 EWG. 7g bullet cast / 10g flip.",
-      "retrieve": "Drag, shake, hop. Slaunch Sauce scent.",
+      "retrieve": "ROD MOVES: Drag, shake, hop. Slaunch Sauce scent.",
       "setup": "Zodias MH + Revo or Aspro + DC (10.5g casts well)",
       "tip": "Compact body with raised flanges. Slaunch Sauce scent. 10.5g casts well on baitcaster."
     },
@@ -1214,7 +1260,7 @@
       "type": "Baitfish/creature",
       "specs": "4in Sight Flash",
       "hook_weight": "3/0-4/0 EWG. 5-7g bullet. Also: weightless or C-rig.",
-      "retrieve": "Let fall (heavy salt = fast shimmy-fall). Drag, shake.",
+      "retrieve": "ROD MOVES: Let fall (heavy salt = fast shimmy-fall). Drag, shake.",
       "setup": "Zodias MH + Revo or Aspro + DC",
       "tip": "NOT standard creature. Panfish SHAPE. Heavy Yamamoto salt = fast enticing fall. Clear water."
     },
@@ -1232,7 +1278,7 @@
       "type": "Stickbait",
       "specs": "5in Green Pumpkin",
       "hook_weight": "WACKY: #1 G-Lock + wacky ring. TX: 2/0 EWG + 5g bullet.",
-      "retrieve": "WACKY: Cast, let sink, DO NOT RETRIEVE. Watch line. 70% bites on fall.",
+      "retrieve": "LET FALL: WACKY: Cast, let sink, DO NOT RETRIEVE. Watch line. 70% bites on fall.",
       "setup": "Expride Spinning (wacky). Zodias MH (Texas).",
       "tip": "THE single best bass lure. Dont retrieve. Wacky ring saves plastic. GP = any clarity."
     },
@@ -1241,7 +1287,7 @@
       "type": "Stickbait",
       "specs": "5in Black w/ Blue Flk",
       "hook_weight": "Same as GP.",
-      "retrieve": "Same. This color = stained/muddy/night/low light.",
+      "retrieve": "LET FALL: Same. This color = stained/muddy/night/low light.",
       "setup": "Same",
       "tip": "When GP disappears in murky water. Killer at night and in rain."
     },
@@ -1250,7 +1296,7 @@
       "type": "Large worm",
       "specs": "~6-7in White",
       "hook_weight": "4/0-5/0 EWG. TX: 5-10g bullet. C-rig: 14g egg + 18in leader.",
-      "retrieve": "TX: fall, drag, shake. C-rig: long sweeps. SWIM: slow steady 1-3ft off bottom.",
+      "retrieve": "ROD MOVES: TX: fall, drag, shake. C-rig: long sweeps. SWIM: slow steady 1-3ft off bottom.",
       "setup": "Zodias MH (TX) or Aspro + DC (swim)",
       "tip": "WHITE WORM AT NIGHT = legendary. Slow crawl shallow banks after dark. Also: swim like a shad."
     },
@@ -1259,7 +1305,7 @@
       "type": "Ned rig",
       "specs": "2.75in GP + PBJ",
       "hook_weight": "Weedless ShroomZ 1/6oz GP head.",
-      "retrieve": "Cast, sink, drag 2-3in hops. LONG pauses. Dead simple.",
+      "retrieve": "LET FALL: Cast, sink, drag 2-3in hops. LONG pauses. Dead simple.",
       "setup": "Expride Spinning",
       "tip": "Tail stands UP on bottom. Dont overthink. Less = more. Weedless for your weedy lakes."
     },
@@ -1277,7 +1323,7 @@
       "type": "Tube",
       "specs": "3.5in Green Pumpkin",
       "hook_weight": "Internal tube jig 1/8oz = SPIRAL FALL (buy if you dont have). Or TX: 3/0 EWG + 3.5g bullet (weedless but no spiral).",
-      "retrieve": "Hop and drop on SLACK (allows spiral). Drag on rock. Dead-stick in cold.",
+      "retrieve": "ROD MOVES: Hop and drop on SLACK (allows spiral). Drag on rock. Dead-stick in cold.",
       "setup": "Aspro + DC or Expride Spinning",
       "tip": "Internal jig = signature CORKSCREW fall (nothing else does this). TX = weedless but loses spiral. Buy internal tube jigheads."
     },
@@ -1286,7 +1332,7 @@
       "type": "Tube finesse",
       "specs": "2.75in",
       "hook_weight": "Internal tube jig 1/16oz (or 1/0 EWG + 2g bullet TX).",
-      "retrieve": "Same techniques, slower, more delicate. Lighter jig = slower spiral.",
+      "retrieve": "ROD MOVES: Same techniques, slower, more delicate. Lighter jig = slower spiral.",
       "setup": "Expride Spinning only",
       "tip": "Spinning only. Multi-species (smallmouth, crappie, walleye). Ultra-clear/pressured."
     },
@@ -1304,7 +1350,7 @@
       "type": "Curly grub",
       "specs": "2in White",
       "hook_weight": "Eagle Claw ball head jig 1/16oz (or #4-1/0 jighead).",
-      "retrieve": "Slow steady (curly tail thumps). Vertical jig for crappie over brush.",
+      "retrieve": "JUST REEL: Slow steady (curly tail thumps). Vertical jig for crappie over brush.",
       "setup": "Expride Spinning or ultralight",
       "tip": "Most versatile multi-species lure ever. Catches everything. White = shad match."
     },
@@ -1313,7 +1359,7 @@
       "type": "Curly grub",
       "specs": "2in Pearl White",
       "hook_weight": "Same as Yum grub.",
-      "retrieve": "Same. PowerBait scent = 18x longer hold time (panfish advantage).",
+      "retrieve": "JUST REEL: Same. PowerBait scent = 18x longer hold time (panfish advantage).",
       "setup": "Expride Spinning or ultralight",
       "tip": "Better scent than Yum. Slightly softer = better action. Pearl White = universal."
     },
@@ -1331,7 +1377,7 @@
       "type": "Pitching jig",
       "specs": "3/8oz (10.6g) various colors",
       "hook_weight": "Mustad 5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
-      "retrieve": "PITCH to cover, watch line FALL. Hop 4-6in. Drag. Shake. 2-3 hops then move.",
+      "retrieve": "ROD MOVES: PITCH to cover, watch line FALL. Hop 4-6in. Drag. Shake. 2-3 hops then move.",
       "setup": "Zodias MH + Revo SX. 15-17lb fluoro.",
       "tip": "YOUR PRIMARY shallow jig. Best trailer: Rage Craw (crawfish) or Rage Bug (bulk). Peg in cover."
     },
@@ -1340,7 +1386,7 @@
       "type": "Pitching jig",
       "specs": "1/2oz (14g) various colors",
       "hook_weight": "Mustad 5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
-      "retrieve": "Same as 3/8. Use for: deeper (6-8ft), windy, punching weeds.",
+      "retrieve": "ROD MOVES: Same as 3/8. Use for: deeper (6-8ft), windy, punching weeds.",
       "setup": "Zodias MH + Revo SX. 15-20lb fluoro.",
       "tip": "Step up from 3/8oz for depth/wind/thicker cover."
     },
@@ -1349,7 +1395,7 @@
       "type": "Pitching jig",
       "specs": "18.8g (~5/8oz) many colors",
       "hook_weight": "5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
-      "retrieve": "Same pitch-fall-hop technique. Heaviest = fast fall reaction.",
+      "retrieve": "ROD MOVES: Same pitch-fall-hop technique. Heaviest = fast fall reaction.",
       "setup": "Zodias MH + Revo SX. 17-20lb fluoro.",
       "tip": "Heavy duty for depth + thick cover. GP=clear, PBJ=stained, Blk/Blue=muddy."
     },
@@ -1358,7 +1404,7 @@
       "type": "Swim jig",
       "specs": "21.6g with buzzer blade",
       "hook_weight": "Stock 5/0 + blade + Space Monkey paddle trailer.",
-      "retrieve": "STEADY swim ~1 turn/sec. Rod 9-10 oclock. Pause 2-3sec occasionally.",
+      "retrieve": "JUST REEL: STEADY swim ~1 turn/sec. Rod 9-10 oclock. Pause 2-3sec occasionally.",
       "setup": "Zodias MH + Revo SX. 30-40lb braid + leader.",
       "tip": "BAITFISH imitation (steady thump). Blade = stained water/wind. Remove blade if weeds foul."
     },
@@ -1367,7 +1413,7 @@
       "type": "Swim jig",
       "specs": "20g no blade",
       "hook_weight": "Stock 5/0 + Rage Craw trailer.",
-      "retrieve": "Steady swim with MORE PAUSES (claws flutter on fall). Along weed edges.",
+      "retrieve": "JUST REEL: Steady swim with MORE PAUSES (claws flutter on fall). Along weed edges.",
       "setup": "Zodias MH + Revo SX. 15-17lb fluoro or 30lb braid.",
       "tip": "CRAWFISH imitation. Pauses key (claws flutter down). More versatile in weeds (no blade to foul)."
     },
@@ -1385,7 +1431,7 @@
       "type": "Spinnerbait",
       "specs": "10g (3/8oz) White/pink, Col/Wil silver blades",
       "hook_weight": "Stock hook. Consider trailer hook.",
-      "retrieve": "Slow roll: BARELY feel Colorado thump. Medium for flash.",
+      "retrieve": "JUST REEL: Slow roll: BARELY feel Colorado thump. Medium for flash.",
       "setup": "Aspro + DC (10g is light - DC handles it. Too light for Revo SX.)",
       "tip": "YOUR #1 SPINNERBAIT from shore. 3/8oz = correct weight for 3-8ft. Most versatile config."
     },
@@ -1394,7 +1440,7 @@
       "type": "Spinnerbait",
       "specs": "17.6g (5/8oz) White/chart, dbl willow gold/silver",
       "hook_weight": "Stock hook.",
-      "retrieve": "Medium-fast (willows need speed to spin). Flash over thump.",
+      "retrieve": "JUST REEL: Medium-fast (willows need speed to spin). Flash over thump.",
       "setup": "Zodias MH + Revo SX or Aspro + DC",
       "tip": "Good #2. Chartreuse for stained. Faster than Col/Wil. Wind + shad days."
     },
@@ -1403,55 +1449,63 @@
       "type": "Spinnerbait",
       "specs": "23.5g (3/4oz) White, dbl Colorado white blades",
       "hook_weight": "Stock hook.",
-      "retrieve": "ULTRA SLOW ROLL. Maximum vibration, zero flash. Cant go too slow.",
+      "retrieve": "JUST REEL: ULTRA SLOW ROLL. Maximum vibration, zero flash. Cant go too slow.",
       "setup": "Zodias MH + Revo SX",
       "tip": "MUDDY WATER / NIGHT ONLY. Double Colorado = feel-not-see. Slow as possible."
     },
     {
-      "name": "Spinnerbaits 18.5-27g (6 others)",
-      "type": "Spinnerbait heavy",
-      "specs": "Various 5/8-1oz, dbl willow mostly",
-      "hook_weight": "Stock hooks.",
-      "retrieve": "Fast burn surface. Deep slow roll. Helicopter fall off drops.",
+      "name": "Spinnerbait 18.5g Col/Wil G/S",
+      "type": "Spinnerbait",
+      "specs": "18.5g (5/8oz) White/pink, Col/Wil gold/silver",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Slow roll to medium. Same versatile Col/Wil combo as your 10g but heavier = deeper + farther.",
+      "setup": "Zodias MH + Revo SX or Aspro + DC",
+      "tip": "Heavier version of your #1. Use when 10g cant reach fish (depth, wind, distance). Gold/silver blades slightly more flash than all-silver."
+    },
+    {
+      "name": "Spinnerbait 22g Dbl Wil White",
+      "type": "Spinnerbait",
+      "specs": "22g (3/4oz) White/chart/orange, dbl willow white blades",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Medium-fast to burn. White painted blades = subtle flash (not metallic glare).",
       "setup": "Zodias MH + Revo SX",
-      "tip": "Too heavy for typical 3-5ft shore. Use for: pike, deep, extreme wind, long distance casts."
-    }
-  ],
-  "setups": [
-    {
-      "name": "Heavy Duty / Pike",
-      "rod_reel": "Zodias MH + Revo SX",
-      "line": "50lb braid > keep. Leader: 10lb FC > upgrade to 15-20lb FC",
-      "grab_for": "Frogs, toad, buzzbait, swim jigs, heavy lipless rip, deep cranks, Super Fluke, Krocodile, heavy spinnerbaits, pike. TX rig / jigs ONLY in thick cover (mats, dense brush, pilings)",
-      "note": "DEFAULT LURE: Pitching jig 3/8oz + Rage Craw trailer (ready to pitch at any cover you walk past). Not your everyday rod. Bring for: frogs/toad/buzz (always here), pike, genuinely thick cover. If weeds are moderate, the Aspro handles TX rig better (more feel, DC casting)."
+      "tip": "White blades = more subtle than metallic. Good on bright sunny days when metallic flash spooks fish. Heavy = distance + deep."
     },
     {
-      "name": "Primary / Versatile",
-      "rod_reel": "Aspro + Curado DC",
-      "line": "50lb braid NOW (works but overlined). Re-spool to 30lb when worn. Leader: 10-15lb FC.",
-      "grab_for": "YOUR 70% ROD: TX rig creatures (weed edges), jigs + trailer (moderate cover), chatterbait, spinnerbait 10g, spoons, medium cranks, lipless, swimbaits 3.8-4.8\", Rage Craw casting, Mickey Slim, Rest 108",
-      "note": "DEFAULT LURE: Spinnerbait 10g Col/Wil Silver (always tied on, search bait, cast-and-reel). Best sensitivity + DC enjoyment. Handles TX rig and jigs in your typical suburban weedy lakes. Only switch to Zodias for thick mats, frogs, pike."
+      "name": "Spinnerbait 22g Dbl Wil Silver",
+      "type": "Spinnerbait",
+      "specs": "22g (3/4oz) Silver, dbl willow silver",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Fast burn or deep slow roll. Maximum shad imitation (all silver everything).",
+      "setup": "Zodias MH + Revo SX",
+      "tip": "Pure shad school imitator. Burn near surface when bass busting shad. Also: pike bait (big flash profile)."
     },
     {
-      "name": "Jerkbait / Topwater",
-      "rod_reel": "Legend TB + Curado DC #2 (NEW, dedicated)",
-      "line": "10lb Seaguar InvizX fluoro DIRECT (no braid, no leader)",
-      "grab_for": "ALL jerkbaits 110-130mm, walk-the-dog (Irony, Jockie), New Vision subsurface walk",
-      "note": "DEFAULT LURE: Orbit 110 (jerkbait season) or Irony (summer) or Pop-X (calm mornings). Dedicated jerkbait reel. Fluoro direct = best suspend action + invisible. No more sharing with Aspro. Use Owner Hyper Snap or split ring + VMC snap."
+      "name": "Spinnerbait 24.2g Dbl Wil G/S",
+      "type": "Spinnerbait",
+      "specs": "24.2g (7/8oz) White, dbl willow gold/silver",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Fast burn surface or deep slow roll along bottom.",
+      "setup": "Zodias MH + Revo SX",
+      "tip": "Very heavy. Deep water, extreme wind, or pike hunting. Not for typical 3-5ft shore fishing."
     },
     {
-      "name": "Finesse / Spinning",
-      "rod_reel": "Expride + Stradic CI4+",
-      "line": "30lb braid > re-spool 10-15lb. Leader: 10lb FC (or 6-8lb for max finesse)",
-      "grab_for": "Senko wacky, Ned rig, drop shot, Rozante 77SP, Keitech 2.8\", Flash-J, spinners, grubs, tubes 2.75\", floating worms, Level Vib",
-      "note": "DEFAULT LURE: Senko 5\" wacky GP (universal bail-out, always ready, cast-and-fall). Everything under ~10g. Always bring. Ned + Senko = your bail-out when nothing works."
+      "name": "Spinnerbait 24g Dbl Wil Gold",
+      "type": "Spinnerbait",
+      "specs": "24g (7/8oz) Silver/chartreuse, dbl willow gold",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Medium-fast. Gold blades = warmer flash tone, better in stained than silver.",
+      "setup": "Zodias MH + Revo SX",
+      "tip": "Gold blades for stained/overcast. Chartreuse skirt adds visibility. Heavy = distance/deep/pike."
     },
     {
-      "name": "Pike / Salmon",
-      "rod_reel": "Any casting + titanium wire leader 25-30cm",
-      "line": "Same main line + WIRE to lure (no fluoro for pike - they cut it)",
-      "grab_for": "Spoons, large spinnerbaits, large jerkbaits targeting pike. WIRE MANDATORY.",
-      "note": "Tie braid to wire swivel. Snap lure to wire end. You have 25cm + 30cm titanium."
+      "name": "Spinnerbait 27g Dbl Wil Red",
+      "type": "Spinnerbait",
+      "specs": "27g (1oz) Red/black, dbl willow red blades",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Fast burn (reaction) or slow deep roll. Most unusual color = change-up bait.",
+      "setup": "Zodias MH + Revo SX",
+      "tip": "HEAVIEST. Red/black = crawfish or bluegill, NOT shad. Red triggers PIKE aggression. Use when white/silver gets refused. Reaction/change-up bait."
     }
   ]
 }
