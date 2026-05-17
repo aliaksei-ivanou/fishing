@@ -296,14 +296,14 @@
     },
     {
       "season": "Summer 72-80F (late Jun - Jul)",
-      "throw_first": "ZipBaits Irony walk or Pop-X pop dawn 90min. Jig or deep crank midday.",
+      "throw_first": "ZipBaits Irony walk or Pop-X pop or Whopper Plopper dawn 90min. Jig or deep crank midday.",
       "setup": "Legend TB + DC (dawn), Zodias MH (midday)",
       "if_not_working": "Expride Spinning: Ned rig in shade. Senko dead-sticked.",
       "where": "Dawn: shallow pts. After 9am: shade, deep rock, bridges"
     },
     {
       "season": "Summer Hot 80F+ (late Jul - Aug)",
-      "throw_first": "Dawn: Irony or Buzzbait. Day: HU-400 deep or shade jig.",
+      "throw_first": "Dawn: Irony or Buzzbait or Whopper Plopper. Day: HU-400 deep or shade jig.",
       "setup": "Rotate by time of day",
       "if_not_working": "Expride Spinning: Senko in deepest shade. Find current (inflows).",
       "where": "Current areas, bridge shade, offshore humps. Dawn/dusk ONLY."
@@ -749,7 +749,7 @@
       "hook_weight": "Stock #5 trebles. Owner Hyper Snap (or split ring + VMC snap).",
       "retrieve": "ROD MOVES: Hard snap-snap-pause 3-8sec. Or: 1 hard rip then 5-10sec dead stop.",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
-      "tip": "RATTLE = stained water. Instant-stop feature. Louder than Orbit."
+      "tip": "RATTLE = stained water. Instant-stop feature. Only BRIGHT GREEN color remains (natural color lost). Consider replacing natural color."
     },
     {
       "name": "Jackall Rerange 110 SP",
@@ -759,15 +759,6 @@
       "retrieve": "ROD MOVES: SOFT twitch-pause 8-15sec (flat sides amplify). Gentle input!",
       "setup": "Legend TB + DC #2. 10lb fluoro direct.",
       "tip": "COLD WATER specialist. Flat = intense flash. SOFTER snaps than other jerkbaits."
-    },
-    {
-      "name": "Jackson Katana 130SP",
-      "type": "Jerkbait suspending",
-      "specs": "130mm 19.5g 0.7-1.5m RATTLE",
-      "hook_weight": "Stock #4 x2. Owner Hyper Snap (or split ring + VMC snap).",
-      "retrieve": "ROD MOVES: Single sharp snap, 5-10sec pause. One snap only (big dart).",
-      "setup": "Legend TB + DC #2. 10lb fluoro direct.",
-      "tip": "BIG 130mm for big fish + pike. Single snaps only. Shallow runner despite size."
     },
     {
       "name": "Duo Rozante 77SP",
@@ -803,7 +794,7 @@
       "hook_weight": "Stock #6 x2. VMC snap.",
       "retrieve": "ROD MOVES: Snap-snap then STOP. Let RISE 3-8sec. The RISE is the trigger.",
       "setup": "Aspro + DC",
-      "tip": "Different from suspenders: pause = bait floats UP. Wait for it."
+      "tip": "LOST. Slow-floating minnow. Rising action on pause was unique trigger. Consider replacing if you miss the float-up presentation."
     },
     {
       "name": "Jackall Mickey Slim 128",
@@ -903,6 +894,15 @@
       "retrieve": "JUST REEL: Fast steady, rod HIGH. Prop churns surface. NEVER stop reeling.",
       "setup": "Zodias MH + Revo SX. BRAID direct 40-50lb.",
       "tip": "LOUDEST surface bait. Dawn/dusk/rain. WAIT on hookset like frog."
+    },
+    {
+      "name": "River2Sea Whopper Plopper 90",
+      "type": "Topwater prop (plopper)",
+      "specs": "90mm, floating, tail prop",
+      "hook_weight": "Stock trebles. VMC snap or Owner Hyper Snap.",
+      "retrieve": "JUST REEL: Steady retrieve (prop sputters). Vary speed: fast=loud, slow=subtle. STOP-AND-GO: reel then pause (it FLOATS, unlike buzzbait). Fish hit on the pause.",
+      "setup": "Legend TB + DC #2 (10lb fluoro) or Aspro + DC. Open water \u2014 trebles snag in thick cover.",
+      "tip": "FLOATS on pause (unique vs buzzbait which sinks). Stop-and-go is the key technique. NOT weedless (treble hooks). Summer 65F+, dawn/dusk, open water or sparse cover. WAIT on hookset."
     },
     {
       "name": "--- CRANKBAITS ---",
