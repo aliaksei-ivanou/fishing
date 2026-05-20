@@ -231,7 +231,7 @@
     {
       "condition": "Pike on weed edges (summer)",
       "setup": "Zodias MH + Revo + TITANIUM WIRE",
-      "lure": "Katana 130SP jerkbait. Krocodile 24g. Large chatterbait.",
+      "lure": "Ito-Shiner jerkbait. Krocodile 24g. Large chatterbait.",
       "rig": "WIRE. Cast parallel to weed edge. Pause on transitions."
     },
     {
@@ -333,12 +333,12 @@
       "season": "Pike Spring 45-60F (Apr - May)",
       "throw_first": "Spinnerbait slow roll shallow + WIRE LEADER",
       "setup": "Zodias MH + Revo SX + titanium wire",
-      "if_not_working": "Legend TB + wire: Katana 130SP jerkbait in 2-5ft.",
+      "if_not_working": "Legend TB + wire: Large jerkbait (Ito-Shiner or Magsquad) in 2-5ft.",
       "where": "Shallow weedy bays, creek inflows, dark bottom areas"
     },
     {
       "season": "Pike Summer 60-75F (Jun - Sep)",
-      "throw_first": "Swim jig or Katana 130SP along weed edges + WIRE",
+      "throw_first": "Swim jig or Ito-Shiner along weed edges + WIRE",
       "setup": "Zodias MH + Revo SX + titanium wire",
       "if_not_working": "Krocodile 24g over deep weeds.",
       "where": "Weed edges both sides, rock-to-weed transitions"
@@ -677,22 +677,6 @@
       "best_for": "Jerkbait-specific snap that clears the bill during snaps.",
       "status": "Active",
       "note": "Alternative to split ring solution. Use on Legend TB jerkbaits."
-    },
-    {
-      "item": "Megabass Ito-Shiner x2",
-      "type": "Jerkbait",
-      "spec": "GG IL Tennessee Shad + GP Stain Reaction OB",
-      "best_for": "Erratic jerkbait. 2 colors: natural (clear) + reaction (stained).",
-      "status": "Active",
-      "note": "Replaces lost one. Unique 30% wider dart. Legend TB + DC #2."
-    },
-    {
-      "item": "Megabass Pop-X (GG Wild Gill)",
-      "type": "Topwater Popper",
-      "spec": "64mm 1/4oz, #6 trebles",
-      "best_for": "Your only popper. Bluegill struggling on surface. Summer mornings, docks, shade.",
-      "status": "Active",
-      "note": "Fills popper gap. Legend TB + DC #2. Pop-pop-pause 2-3sec."
     }
   ],
   "terminal": [
