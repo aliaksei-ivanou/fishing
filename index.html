@@ -220,6 +220,8 @@
         <button data-tab="spots">Spots</button>
         <button data-tab="lures">Lures</button>
         <button data-tab="setups">Setups</button>
+        <button data-tab="gear">Gear</button>
+        <button data-tab="terminal">Terminal</button>
     </nav>
 
     <div id="decide" class="tab-content active"></div>
@@ -228,6 +230,8 @@
     <div id="spots" class="tab-content"></div>
     <div id="lures" class="tab-content"></div>
     <div id="setups" class="tab-content"></div>
+    <div id="gear" class="tab-content"></div>
+    <div id="terminal" class="tab-content"></div>
 
     <script>
     let DATA = {};
@@ -245,6 +249,8 @@
         renderSpots();
         renderLures();
         renderSetups();
+        renderGear();
+        renderTerminal();
     }
 
     // TAB SWITCHING
@@ -426,6 +432,43 @@
                 <div class="card-row"><span class="card-label">Line</span><span class="card-value">${s.line}</span></div>
                 <div class="card-row"><span class="card-label">Grab for</span><span class="card-value">${s.grab_for}</span></div>
                 <div class="card-row"><span class="card-label">Note</span><span class="card-value" style="font-style:italic;">${s.note}</span></div>
+            </div>`;
+        });
+        el.innerHTML = html;
+    }
+
+    // RENDER: GEAR
+    function renderGear() {
+        const el = document.getElementById('gear');
+        let html = '';
+
+        DATA.gear.forEach(g => {
+            const isLost = g.status && g.status.includes('LOST');
+            const isMissing = g.status && g.status.includes('MISSING');
+            let borderStyle = '';
+            if (isLost) borderStyle = 'border-left: 3px solid var(--danger); opacity: 0.6;';
+            else if (isMissing) borderStyle = 'border-left: 3px solid var(--warn);';
+
+            html += `<div class="card" style="${borderStyle}">
+                <div class="card-title">${g.item} <span class="tag tag-type">${g.type}</span> ${g.status ? `<span class="tag ${isLost ? 'tag-season' : 'tag-specs'}">${g.status}</span>` : ''}</div>
+                ${g.spec ? `<div class="card-row"><span class="card-label">Spec</span><span class="card-value">${g.spec}</span></div>` : ''}
+                <div class="card-row"><span class="card-label">Best for</span><span class="card-value">${g.best_for}</span></div>
+                ${g.note ? `<div class="card-row"><span class="card-label">Note</span><span class="card-value" style="font-style:italic;">${g.note}</span></div>` : ''}
+            </div>`;
+        });
+        el.innerHTML = html;
+    }
+
+    // RENDER: TERMINAL
+    function renderTerminal() {
+        const el = document.getElementById('terminal');
+        let html = '';
+
+        DATA.terminal.forEach(t => {
+            html += `<div class="card">
+                <div class="card-title">${t.item} <span class="tag tag-type">${t.type}</span></div>
+                <div class="card-row"><span class="card-label">Best for</span><span class="card-value">${t.best_for}</span></div>
+                ${t.note ? `<div class="card-row"><span class="card-label">Note</span><span class="card-value" style="font-style:italic;">${t.note}</span></div>` : ''}
             </div>`;
         });
         el.innerHTML = html;

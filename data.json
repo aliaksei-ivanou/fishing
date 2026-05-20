@@ -289,16 +289,16 @@
     },
     {
       "season": "Post-Spawn 65-72F (Jun)",
-      "throw_first": "ZipBaits Irony walk or Pop-X pop dawn. Chatterbait midday.",
+      "throw_first": "ZipBaits Irony walk dawn. Chatterbait midday.",
       "setup": "Legend TB + DC (dawn), Zodias MH (midday)",
-      "if_not_working": "Expride Spinning: floating worm surface. Zodias MH: swim jig weed edges.",
+      "if_not_working": "Expride: Pop-X pop (calm mornings), floating worm. Zodias MH: swim jig weed edges.",
       "where": "First breakline outside spawn areas, shaded docks"
     },
     {
       "season": "Summer 72-80F (late Jun - Jul)",
-      "throw_first": "ZipBaits Irony walk or Pop-X pop or Whopper Plopper dawn 90min. Jig or deep crank midday.",
+      "throw_first": "ZipBaits Irony walk or Whopper Plopper dawn 90min. Jig or deep crank midday.",
       "setup": "Legend TB + DC (dawn), Zodias MH (midday)",
-      "if_not_working": "Expride Spinning: Ned rig in shade. Senko dead-sticked.",
+      "if_not_working": "Expride Spinning: Pop-X pop (calm), Ned rig in shade. Senko dead-sticked.",
       "where": "Dawn: shallow pts. After 9am: shade, deep rock, bridges"
     },
     {
@@ -523,14 +523,14 @@
       "name": "Jerkbait / Topwater",
       "rod_reel": "Legend TB + Curado DC #2 (NEW, dedicated)",
       "line": "10lb Seaguar InvizX FLUORO DIRECT (no braid, no leader). Permanent config.",
-      "grab_for": "ALL jerkbaits 110-130mm, walk-the-dog (Irony), Pop-X popper, New Vision subsurface walk",
+      "grab_for": "ALL jerkbaits 110-130mm, walk-the-dog (Irony), New Vision subsurface walk",
       "note": "DEFAULT LURE: Orbit 110. FLUORO DIRECT always. Best suspend action + invisible. Topwater still works on 10lb fluoro."
     },
     {
       "name": "Finesse / Spinning",
       "rod_reel": "Expride + Stradic CI4+",
       "line": "30lb braid + 10lb fluoro LEADER (always on). Re-spool to 10-15lb braid when worn.",
-      "grab_for": "Senko wacky, Super Fluke weightless (4/0 EWG), Ned rig, drop shot (Tiny Fluke), Rozante 77SP, Keitech 2.8\", Flash-J, spinners, grubs, tubes",
+      "grab_for": "Senko wacky, Super Fluke weightless (4/0 EWG), Ned rig, drop shot (Tiny Fluke), Rozante 77SP, Keitech 2.8\", Flash-J, spinners, grubs, tubes, Pop-X popper (1/4oz topwater)",
       "note": "DEFAULT LURE: Senko 5\" wacky GP. Leader ALWAYS ON. Super Fluke now lives here (weightless twitch on spinning = better cast + same slack-line technique as Senko)."
     },
     {
@@ -539,6 +539,318 @@
       "line": "Any casting setup + titanium wire leader 25-30cm (replaces fluoro leader)",
       "grab_for": "Spoons, large spinnerbaits, large jerkbaits targeting pike. WIRE MANDATORY.",
       "note": "Swap fluoro leader for titanium wire on pike days. Wire ties to braid same as fluoro (FG or Alberto knot to a swivel, or direct crimp)."
+    }
+  ],
+  "gear": [
+    {
+      "item": "Shimano Zodias ZDS172MH",
+      "type": "Rod Cast MH",
+      "spec": "7'2\" MH Fast(mod-fast) 122g, 10-30g, 1-piece",
+      "best_for": "SURFACE + HEAVY COVER ONLY: Frogs (all 3), Rage Toad, buzzbait, swim jigs, heavy spinnerbaits (17g+), flipping jigs in thick brush, Texas rig in thick cover, heavy lipless grass ripping (TN70, LV500), deep cranks (DX-Free, HU-400), Krocodile 24g. ALL BRAID DIRECT.",
+      "status": "Active",
+      "note": "BRAID DIRECT always (no leader, no retying). Only use for baits where stealth doesnt matter (surface) or power is mandatory (heavy cover, pike). Not your everyday rod."
+    },
+    {
+      "item": "Graphiteleader Aspro GAPC-742M",
+      "type": "Rod Cast M",
+      "spec": "7'4\" M Fast 131g, 6-24g, 2-piece",
+      "best_for": "YOUR PRIMARY ROD (70% of fishing): Texas rig creatures along weed edges (Sweet Beaver, Rage series, Space Monkey, Bandito, Zako \u2014 all within 6-24g), pitching jigs 3/8-1/2oz + trailer, chatterbaits, spinnerbait 10g, spoons (K.O., Moonshine), medium cranks (LC 1.5, Flap Slap, Purin, MD-X Cyclone), lipless (Super Spot, Level Vib), Keitech 3.8-4.8\" weighted hook, Swimfish, Gan Craft Rest 108, Mickey Slim 128, Rage Craw casting",
+      "status": "Active",
+      "note": "Best sensitivity you own (feels every bite and bottom change). DC braking = enjoyable all day. Handles Texas rig + jigs in moderate weeds (your typical suburban lake). Only move to Zodias when cover is genuinely thick or you need frog/toad/pike power."
+    },
+    {
+      "item": "Shimano Expride EX270MA",
+      "type": "Rod Spin M",
+      "spec": "7'0\" M Mod-Fast, 5-14g, 1-piece",
+      "best_for": "FINESSE (30% of fishing): Senko 5\" wacky, Ned rig weedless, drop shot (Tiny Fluke), Rozante 77SP, Keitech 2.8\" jighead, Flash-J Shad jighead, Little EZ, Coffee Tubes 2.75\", floating worms, inline spinners (Vibrax 8g+10g with swivel), 2\" grubs, PowerBait Pogy, Bandito Bug light TX",
+      "status": "Active",
+      "note": "Everything too light for baitcaster (<10g). Your bail-out when power approach fails. Ned rig + Senko wacky = catches fish when nothing else works. Always bring this rod."
+    },
+    {
+      "item": "St. Croix Legend TB LBTC68MXF",
+      "type": "Rod Cast M",
+      "spec": "6'8\" M X-Fast 116g, 7-18g, 1-piece",
+      "best_for": "SPECIALIST: ALL jerkbaits 110-130mm (Orbit 110, Magsquad 115, Rerange 110), walk-the-dog topwater (ZipBaits Irony, Jockie 120), New Vision 100 subsurface walk. Use along weed edges and open pockets \u2014 not through weeds (treble hooks foul).",
+      "status": "Active",
+      "note": "Jerkbait/topwater season only. Shares DC with Aspro. Best in prespawn (45-58F) and summer dawn. Leave home if lake is wall-to-wall weeds with no open water."
+    },
+    {
+      "item": "St. Croix Avid AVC70MF",
+      "type": "Rod Cast M",
+      "spec": "7'0\" M Fast 122g, 1-piece",
+      "best_for": "",
+      "status": "LOST",
+      "note": "Dont replace. Current rods cover all roles."
+    },
+    {
+      "item": "Shimano Curado DC 151HG",
+      "type": "Reel Cast L",
+      "spec": "7.4:1, 220g, 11lb drag, I-DC4",
+      "best_for": "Versatile casting, wind, light lures, distance",
+      "status": "Active",
+      "note": "Plan: buy 2nd ($305). DC = less stress, farther casts."
+    },
+    {
+      "item": "Abu Garcia Revo SX RVO3SX-HS-L",
+      "type": "Reel Cast L",
+      "spec": "7.1:1, ~225g, ~18lb drag, MagTrax",
+      "best_for": "Power: heavy cover, jigs, flipping (drag advantage)",
+      "status": "Active",
+      "note": "Higher drag than DC. Needs manual brake tuning. Power reel."
+    },
+    {
+      "item": "Shimano Stradic CI4+ 2500HG",
+      "type": "Reel Spin L",
+      "spec": "6.0:1, ~175g, ~20lb drag",
+      "best_for": "All spinning/finesse duties",
+      "status": "Active",
+      "note": "Legendary lightness. Monitor line roller (weak point)."
+    },
+    {
+      "item": "Daiwa J-Braid x8 50lb (casting)",
+      "type": "Line",
+      "spec": "On both baitcasters (new)",
+      "best_for": "Overlined on Aspro/DC but functional",
+      "status": "Active",
+      "note": "Re-spool DC to 30lb when worn. Keep 50lb on Revo."
+    },
+    {
+      "item": "Daiwa J-Braid x8 30lb (spinning)",
+      "type": "Line",
+      "spec": "On Stradic (new)",
+      "best_for": "Overlined for finesse but functional",
+      "status": "Active",
+      "note": "Re-spool to 10-15lb when worn."
+    },
+    {
+      "item": "Titanium leaders 25cm + 30cm",
+      "type": "Leader",
+      "spec": "Pike bite protection",
+      "best_for": "MANDATORY for pike",
+      "status": "Active",
+      "note": "You have these. Use for ALL pike presentations."
+    },
+    {
+      "item": "2nd Curado DC 151HG",
+      "type": "Reel Cast",
+      "spec": "Same specs as current",
+      "best_for": "Eliminates sharing between Aspro + Legend TB",
+      "status": "Active",
+      "note": "CUDC151HG left-hand 7.4:1. Spool with Seaguar InvizX 10lb fluoro direct. Goes on Legend TB."
+    },
+    {
+      "item": "Internal tube jigheads 1/8oz",
+      "type": "Terminal",
+      "spec": "3/0-4/0, fits inside tube",
+      "best_for": "Coffee Tubes spiral fall",
+      "status": "MISSING",
+      "note": "HIGH priority for tubes. Without = no spiral."
+    },
+    {
+      "item": "Seaguar InvizX 10lb 200yd",
+      "type": "Line",
+      "spec": "10lb fluoro, main line for Legend TB",
+      "best_for": "Spool on new DC #2. Dedicated jerkbait line.",
+      "status": "Active",
+      "note": "~125yd fills Curado DC 150. Rest for leaders/re-spool."
+    },
+    {
+      "item": "VMC Stainless Split Rings #3",
+      "type": "Terminal",
+      "spec": "~5mm, 22lb test, 50/pack",
+      "best_for": "Add to jerkbait line ties to prevent snap jamming on bill.",
+      "status": "Active",
+      "note": "Clip VMC snap to split ring (not directly to eye)."
+    },
+    {
+      "item": "Split Ring Pliers",
+      "type": "Tool",
+      "spec": "Small with tooth tip + spring handles",
+      "best_for": "Open split rings for jerkbaits and hook changes.",
+      "status": "Active",
+      "note": "One-time purchase. Use forever."
+    },
+    {
+      "item": "Owner Hyper Snap #1 or #2",
+      "type": "Terminal",
+      "spec": "Round snap for jerkbaits",
+      "best_for": "Jerkbait-specific snap that clears the bill during snaps.",
+      "status": "Active",
+      "note": "Alternative to split ring solution. Use on Legend TB jerkbaits."
+    },
+    {
+      "item": "Megabass Ito-Shiner x2",
+      "type": "Jerkbait",
+      "spec": "GG IL Tennessee Shad + GP Stain Reaction OB",
+      "best_for": "Erratic jerkbait. 2 colors: natural (clear) + reaction (stained).",
+      "status": "Active",
+      "note": "Replaces lost one. Unique 30% wider dart. Legend TB + DC #2."
+    },
+    {
+      "item": "Megabass Pop-X (GG Wild Gill)",
+      "type": "Topwater Popper",
+      "spec": "64mm 1/4oz, #6 trebles",
+      "best_for": "Your only popper. Bluegill struggling on surface. Summer mornings, docks, shade.",
+      "status": "Active",
+      "note": "Fills popper gap. Legend TB + DC #2. Pop-pop-pause 2-3sec."
+    }
+  ],
+  "terminal": [
+    {
+      "item": "2g bullet (1/16oz)",
+      "type": "Weight",
+      "best_for": "Ned rig, drop shot, Keitech 2.8\" TX, tube 2.75\" TX, grubs",
+      "note": "Finesse"
+    },
+    {
+      "item": "3.5g bullet (1/8oz)",
+      "type": "Weight",
+      "best_for": "Keitech jigheads weight equivalent, light TX, swimbaits, light tubes",
+      "note": "Versatile light"
+    },
+    {
+      "item": "5g bullet (3/16oz)",
+      "type": "Weight",
+      "best_for": "Medium TX casting (creatures, craws, Zako), tubes 3.5\"",
+      "note": "Casting weight"
+    },
+    {
+      "item": "7g bullet (1/4oz)",
+      "type": "Weight",
+      "best_for": "STANDARD TX all 4\" creatures (Rage, Beaver, Bandito), Ned (wind)",
+      "note": "Workhorse TX rig"
+    },
+    {
+      "item": "10g bullet (3/8oz)",
+      "type": "Weight",
+      "best_for": "FLIPPING into cover. PEG this weight. Heavier TX when needed.",
+      "note": "Flipping. Peg in cover."
+    },
+    {
+      "item": "14g bullet (1/2oz)",
+      "type": "Weight",
+      "best_for": "Heavy flipping/punching. Also: Carolina rig egg weight with 18in leader.",
+      "note": "Heavy duty + C-rig"
+    },
+    {
+      "item": "Gamakatsu G-Lock #1",
+      "type": "Hook",
+      "best_for": "Senko 5\" WACKY RIG (your primary wacky hook). Also drop shot.",
+      "note": "ESSENTIAL for Senko wacky"
+    },
+    {
+      "item": "Eagle Claw Wide Gap 1/0",
+      "type": "Hook",
+      "best_for": "Keitech 2.8\" TX, Tiny Fluke weightless, tubes 2.75\" TX, small plastics",
+      "note": "Finesse worm hook"
+    },
+    {
+      "item": "Gamakatsu EWG 2/0",
+      "type": "Hook",
+      "best_for": "Senko 5\" TEXAS rig, Keitech 3.8\" TX, Flash-J TX, Bandito Bug TX",
+      "note": "Mid-size versatile"
+    },
+    {
+      "item": "Gamakatsu EWG 3/0",
+      "type": "Hook",
+      "best_for": "ALL 4\" creatures TX: Rage Craw, Rage Bug, Space Monkey, Bandito, tubes 3.5\" TX",
+      "note": "PRIMARY creature hook"
+    },
+    {
+      "item": "Gamakatsu EWG 4/0",
+      "type": "Hook",
+      "best_for": "Sweet Beaver TX, thick Rage Bug, Zoom worm TX, Rage Toad",
+      "note": "Power hook"
+    },
+    {
+      "item": "Pro's Pack 5/0 offset",
+      "type": "Hook",
+      "best_for": "Super Fluke 5.25\" weightless (ideal), Sweet Beaver flipping, Rage Toad",
+      "note": "Largest EWG"
+    },
+    {
+      "item": "Gamakatsu SPR-Lock 3/0 1/16oz",
+      "type": "Weighted hook",
+      "best_for": "Keitech 3.8\" SHALLOW (3-4ft). Flash-J. Swimfish.",
+      "note": "Shallow swimbait"
+    },
+    {
+      "item": "Gamakatsu SPR-Lock 3/0 1/8oz",
+      "type": "Weighted hook",
+      "best_for": "Keitech 3.8\" (4-8ft) = PERFECT MATCH. Swimfish. Flash-J.",
+      "note": "#1 swimbait hook"
+    },
+    {
+      "item": "Eagle Claw Swimbait 4/0 1/4oz",
+      "type": "Weighted hook",
+      "best_for": "Keitech 4.8\" (works, 5/0 ideal). Keitech 3.8\" deep.",
+      "note": "Large swimbait hook"
+    },
+    {
+      "item": "Eagle Claw Ball Head Jig 1/16oz",
+      "type": "Jighead",
+      "best_for": "Keitech 2.8\", Little EZ, 2\" grubs, Pogy 2\"",
+      "note": "Finesse jighead"
+    },
+    {
+      "item": "CPS Centering Pin M 4.0mm",
+      "type": "Hardware",
+      "best_for": "Keeps swimbaits straight on weighted hooks (Keitech, Swimfish)",
+      "note": "Use with weighted hooks"
+    },
+    {
+      "item": "VMC Crankbait Snap #0",
+      "type": "Hardware",
+      "best_for": "ALL hard baits. Quick-change. NO swivel on hardbaits!",
+      "note": "Essential for hardbaits"
+    },
+    {
+      "item": "SPRO BB Swivel + Coastlock #2",
+      "type": "Hardware",
+      "best_for": "Inline spinners (Vibrax) + spoons. Prevents line twist.",
+      "note": "Essential for spinners"
+    },
+    {
+      "item": "P-Line BB + Crosslock #1",
+      "type": "Hardware",
+      "best_for": "Lighter spinners/spoons when #2 feels bulky",
+      "note": "Smaller swivel option"
+    },
+    {
+      "item": "Mustad CO68 #8 treble",
+      "type": "Hook",
+      "best_for": "Hard bait treble replacement",
+      "note": "Niche"
+    },
+    {
+      "item": "Worm Flat NS Black #4",
+      "type": "Hook",
+      "best_for": "Panfish ultra-small presentations",
+      "note": "Panfish only"
+    },
+    {
+      "item": "Gamakatsu EWG #1",
+      "type": "Hook",
+      "best_for": "Drop shot TX style, tiny plastics",
+      "note": "Finesse alternative"
+    },
+    {
+      "item": "VMC Stainless Split Rings #3",
+      "type": "Hardware",
+      "best_for": "Jerkbait line ties. Prevents VMC snap jamming on bill. Clip snap to ring.",
+      "note": "Essential for jerkbaits"
+    },
+    {
+      "item": "Owner Hyper Snap #1-2",
+      "type": "Hardware",
+      "best_for": "Jerkbait-specific snap. Round shape clears bill during snaps. Alternative to split ring+VMC snap combo.",
+      "note": "Jerkbait snap"
+    },
+    {
+      "item": "Split Ring Pliers",
+      "type": "Tool",
+      "best_for": "Opens split rings for lure modifications and hook changes.",
+      "note": "Essential tool"
     }
   ],
   "howto": [
@@ -847,7 +1159,7 @@
       "specs": "64mm 1/4oz surface POPPER",
       "hook_weight": "Stock #6 trebles. Owner Hyper Snap or split ring + VMC snap.",
       "retrieve": "ROD MOVES: Short sharp POPS: wrist snap down, pause 2-3sec between pops. Pop-pop-pause. Also: pop then let sit 5sec.",
-      "setup": "Legend TB + DC #2. 10lb fluoro direct.",
+      "setup": "Expride Spinning (1/4oz is too light for baitcaster DC). Braid + leader.",
       "tip": "YOUR ONLY POPPER. Different trigger than walk-the-dog. Imitates bluegill struggling on surface. GG Wild Gill = bluegill match for suburban lakes. WAIT on hookset."
     },
     {
@@ -936,7 +1248,7 @@
       "type": "Crank flat-sided",
       "specs": "77mm 10.6g 0.6-1.2m SILENT",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "JUST REEL: ROD drag (not reel) forward, pause 1-2sec (nose kicks UP). NOT steady crank!",
+      "retrieve": "ROD MOVES: Pull bait forward with ROD (sweep rod sideways), then pause 1-2sec (nose kicks UP = trigger). Reel only gathers slack between sweeps. NOT a straight reel-and-crank bait.",
       "setup": "Aspro + DC (sensitivity for cold bites)",
       "tip": "COLD WATER hybrid crank/jerkbait. Rod drags + pauses. Not straight retrieve."
     },
