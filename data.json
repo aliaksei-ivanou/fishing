@@ -524,14 +524,14 @@
     {
       "name": "Primary / Versatile",
       "rod_reel": "Aspro + Curado DC",
-      "line": "50lb braid + 10lb fluoro leader (Alberto knot). Keeping current setup.",
+      "line": "50lb braid NOW (overlined but works) + 10lb AbrazX leader. Re-spool to 30lb when convenient.",
       "grab_for": "YOUR 70% ROD: TX rig creatures (weed edges), jigs (moderate cover), chatterbait, spinnerbait 10g, spoons 14g, medium cranks, lipless, swimbaits 3.8-4.8\"",
       "note": "DEFAULT LURE: Spinnerbait 10g Col/Wil. Leader always on. May switch to fluoro direct in future if DC#2 experience is positive."
     },
     {
       "name": "Jerkbait / Topwater",
       "rod_reel": "Legend TB + Curado DC #2 (NEW, dedicated)",
-      "line": "10lb Seaguar InvizX FLUORO DIRECT. Monitoring experience \u2014 may switch to braid+leader if fluoro remains frustrating.",
+      "line": "30lb braid + 10lb AbrazX fluoro leader 1-1.5m (Alberto knot). Same system as Aspro.",
       "grab_for": "Jerkbaits (all weights), Irony walk (13.5g), New Vision subsurface (16.9g), Jockie (16g). Maximum snap precision (X-Fast tip). Fluoro direct = best suspend action.",
       "note": "DEFAULT LURE: Orbit 110. Advantages: crispest snaps, fluoro direct for true suspend, handles heaviest jerkbaits (17g+). Trade-off: wrist fatigue on long sessions, fluoro management."
     },
@@ -616,12 +616,12 @@
       "note": "Legendary lightness. Monitor line roller (weak point)."
     },
     {
-      "item": "Seaguar InvizX 10lb 200yd",
+      "item": "Seaguar InvizX 10lb (leftover)",
       "type": "Line",
-      "spec": "10lb fluoro, main line for DC#2 (Legend TB) only",
-      "best_for": "DC #2 (Legend TB) jerkbaits. Monitoring experience. ~125yd fills reel, rest for re-spools.",
-      "status": "Active",
-      "note": "Fluoro direct = best suspend. Monitoring casting issues (memory, twist). May switch to braid+leader if problems persist."
+      "spec": "10lb fluoro \u2014 no longer used as main line",
+      "best_for": "Backup leader material or discard. Failed as baitcaster main line (memory, twist, birds nests, snapped on rocks).",
+      "status": "Retired",
+      "note": "Fluoro direct experiment = over. All reels now on braid + AbrazX leader system."
     },
     {
       "item": "J-Braid x8 10lb 150yd (NEW - for Stradic)",
@@ -656,12 +656,12 @@
       "note": "HIGH priority for tubes. Without = no spiral."
     },
     {
-      "item": "Seaguar InvizX 10lb 200yd",
+      "item": "Seaguar InvizX 10lb (leftover)",
       "type": "Line",
-      "spec": "10lb fluoro, main line for Legend TB",
-      "best_for": "Spool on new DC #2. Dedicated jerkbait line.",
-      "status": "Active",
-      "note": "~125yd fills Curado DC 150. Rest for leaders/re-spool."
+      "spec": "10lb fluoro \u2014 no longer used as main line",
+      "best_for": "Backup leader material or discard. Failed as baitcaster main line (memory, twist, birds nests, snapped on rocks).",
+      "status": "Retired",
+      "note": "Fluoro direct experiment = over. All reels now on braid + AbrazX leader system."
     },
     {
       "item": "VMC Stainless Split Rings #3",
@@ -1053,7 +1053,7 @@
       "specs": "115mm 16g 0.8-1.8m RATTLE",
       "hook_weight": "Stock #5 trebles. Owner Hyper Snap (or split ring + VMC snap).",
       "retrieve": "ROD MOVES: Hard snap-snap-pause 3-8sec. Or: 1 hard rip then 5-10sec dead stop.",
-      "setup": "Legend TB + DC #2. 10lb fluoro direct.",
+      "setup": "Legend TB + DC #2. 30lb braid + 10lb AbrazX leader.",
       "tip": "LOST (both colors now gone). Rattling instant-stop jerkbait. No rattling jerkbait remaining in collection."
     },
     {
