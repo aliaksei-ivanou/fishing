@@ -123,7 +123,7 @@
     {
       "condition": "Stained (see 1-3ft)",
       "setup": "Aspro + DC",
-      "lure": "Chatterbait, Magsquad (rattle), spinnerbait Col/Wil, Rage Craw WM Red",
+      "lure": "Chatterbait, Ito-Shiner or Duo Realis 120SP (rattle), spinnerbait Col/Wil, Rage Craw WM Red",
       "rig": "Standard leader 10-15lb FC. Brighter colors."
     },
     {
@@ -171,7 +171,7 @@
     {
       "condition": "Cold 42-50F",
       "setup": "Legend TB + DC",
-      "lure": "Jerkbaits: Magsquad, Rerange (softest twitches, longest pauses 5-15sec)",
+      "lure": "Jerkbaits: Ito-Shiner, Rerange (softest twitches, longest pauses 5-15sec)",
       "rig": "VMC snap. 10-12lb FC leader. Patience."
     },
     {
@@ -268,7 +268,7 @@
   "now": [
     {
       "season": "Early Prespawn 42-48F (late Mar - mid Apr)",
-      "throw_first": "Jackall Magsquad 115: snap-pause 5-10sec",
+      "throw_first": "Ito-Shiner or Vision 110: snap-pause 5-10sec",
       "setup": "Expride Spinning (Ito-Shiner 14g) or Legend TB + DC (Orbit 16.5g)",
       "if_not_working": "Expride Spinning: RAID Level Vib finesse yo-yo. Ned rig ultra-slow.",
       "where": "Secondary points, 45-deg banks, wind-blown riprap"
@@ -333,7 +333,7 @@
       "season": "Pike Spring 45-60F (Apr - May)",
       "throw_first": "Spinnerbait slow roll shallow + WIRE LEADER",
       "setup": "Zodias MH + Revo SX + titanium wire",
-      "if_not_working": "Legend TB + wire: Large jerkbait (Ito-Shiner or Magsquad) in 2-5ft.",
+      "if_not_working": "Legend TB + wire: Large jerkbait (Ito-Shiner or Ito-Shiner) in 2-5ft.",
       "where": "Shallow weedy bays, creek inflows, dark bottom areas"
     },
     {
@@ -519,7 +519,7 @@
       "rod_reel": "Zodias MH + Revo SX",
       "line": "50lb braid DIRECT (no leader, never). Permanent config.",
       "grab_for": "Frogs (all 3), Rage Toad, buzzbait, swim jigs, heavy spinnerbaits 17g+, flipping jigs + Texas in THICK cover, heavy lipless ripping (TN70, LV500), deep cranks (DX-Free, HU-400), Krocodile 24g, pike + wire leader, KINGS at Racine (heavy spoons)",
-      "note": "DEFAULT LURE: Pitching jig 3/8oz + Rage Craw. BRAID DIRECT always. Also your Racine king salmon rod (Krocodile 24g). Pike rod (add titanium wire)."
+      "note": "DEFAULT LURE: Pitching jig 3/8oz + Rage Craw. BRAID DIRECT always. PLAN: When Steez is purchased, DC#2 replaces Revo here. Revo moves to drawer."
     },
     {
       "name": "Primary / Versatile",
@@ -605,7 +605,7 @@
       "spec": "7.1:1, ~225g, ~18lb drag, MagTrax",
       "best_for": "Power: heavy cover, jigs, flipping (drag advantage)",
       "status": "Active",
-      "note": "Higher drag than DC. Needs manual brake tuning. Power reel."
+      "note": "MagTrax braking (manual adjust, less forgiving than DC). PLAN: Move to drawer when Steez purchased and DC#2 takes Zodias. Keep for pike/backup."
     },
     {
       "item": "Shimano Stradic CI4+ 2500HG",
@@ -624,12 +624,12 @@
       "note": "Fluoro direct experiment = over. All reels now on braid + AbrazX leader system."
     },
     {
-      "item": "J-Braid x8 10lb 150yd (NEW - for Stradic)",
+      "item": "J-Braid x8 10lb 150yd (Stradic)",
       "type": "Line",
       "spec": "10lb braid, Stradic spinning main line",
       "best_for": "Expride Spinning: ALL spinning duties including jerkbaits under 15g and salmon at Racine.",
       "status": "Active",
-      "note": "On top of braid backing. Alberto knot to 10lb fluoro leader. Bright color for line-watching."
+      "note": "Received. On top of braid backing. Alberto knot to 10lb AbrazX leader. Bright color for line-watching."
     },
     {
       "item": "Titanium leaders 25cm + 30cm",
@@ -645,7 +645,7 @@
       "spec": "Same specs as current",
       "best_for": "Eliminates sharing between Aspro + Legend TB",
       "status": "Active",
-      "note": "CUDC151HG left-hand 7.4:1. Spool with Seaguar InvizX 10lb fluoro direct. Goes on Legend TB."
+      "note": "CUDC151HG left-hand 7.4:1. Currently on Legend TB (30lb braid + AbrazX leader). PLAN: Moves to Zodias when Steez purchased for Aspro."
     },
     {
       "item": "Internal tube jigheads 1/8oz",
@@ -654,14 +654,6 @@
       "best_for": "Coffee Tubes spiral fall",
       "status": "MISSING",
       "note": "HIGH priority for tubes. Without = no spiral."
-    },
-    {
-      "item": "Seaguar InvizX 10lb (leftover)",
-      "type": "Line",
-      "spec": "10lb fluoro \u2014 no longer used as main line",
-      "best_for": "Backup leader material or discard. Failed as baitcaster main line (memory, twist, birds nests, snapped on rocks).",
-      "status": "Retired",
-      "note": "Fluoro direct experiment = over. All reels now on braid + AbrazX leader system."
     },
     {
       "item": "VMC Stainless Split Rings #3",
@@ -894,7 +886,7 @@
     },
     {
       "technique": "GLOSSARY: Just Reel vs Rod Moves",
-      "rod_position": "JUST REEL (rod stays still, reel does all work): Crankbaits, spinnerbaits, swim jigs, buzzbaits, Rage Toad, inline spinners, spoons, swimbaits (Keitech/Swimfish steady), chatterbaits. Rule: if it has a blade, a bill, or a paddle tail = just reel.\n\nROD MOVES THE BAIT (reel only manages slack): Jerkbaits (snap down), walk-the-dog (twitch sideways), poppers (snap down into cup), Texas rig/jigs (hop up, drag sideways, shake), lipless yo-yo (sweep up, let fall), fluke weightless (twitch down on slack), Ned rig (tiny hops). Rule: if it's a soft plastic or a suspending/sinking hard bait without a bill = rod moves it.",
+      "rod_position": "JUST REEL (rod stays still, reel does all work): Crankbaits (except flat-sided cranks that use rod-drag technique), spinnerbaits, swim jigs, buzzbaits, Rage Toad, Whopper Plopper, inline spinners, spoons, swimbaits steady retrieve, chatterbaits. Rule: if it has a blade, a bill (except flat-sided cranks that use rod-drag technique), or a paddle tail on steady retrieve = just reel.\n\nROD MOVES THE BAIT (reel only manages slack): Jerkbaits (snap down), walk-the-dog topwater including frogs (continuous light twitches, rod down), poppers (snap down into cup), Texas rig/jigs (hop up, drag sideways, shake), lipless yo-yo (sweep up, let fall), fluke weightless (twitch down on slack), flat-sided cranks like Megabass Flap Slap (rod drag + pause \u2014 LOST, consider replacing for fall). Rule: if it suspends, sinks, floats with no blade/bill, or needs cadence = rod moves it.\n\nLET FALL (rod barely moves, gravity does the work): Senko wacky, Ned rig. Cast, let sink, watch line. Tiny movements only.",
       "motion": "",
       "line_mgmt": "",
       "pause": "",
@@ -921,21 +913,21 @@
     },
     {
       "technique": "Weightless Senko (wacky)",
-      "rod_position": "Point at bait after cast. No specific angle needed \u2014 just watch line.",
-      "motion": "NOTHING. Do not move the bait. Cast, let fall. Thats it. One tiny twitch after bottom, then let fall again.",
-      "line_mgmt": "Semi-slack. Enough to see line movement but not pulling the bait. The shimmy on fall IS the action.",
-      "pause": "The entire technique is a pause. Fall = 100% of the action. If it hits bottom: one twitch, let fall again, then reel in.",
+      "rod_position": "10 oclock (TX rig bottom work) or wherever comfortable (wacky yo-yo). Watch line on every fall.",
+      "motion": "TWO RIGS, DIFFERENT CAPABILITIES:\nWACKY: Yo-yo retrieve covering water (lift, reel slack, fall, repeat all the way back). OR dead-fall on a target spot. Wider shimmy on fall = more action. But hook catches weeds \u2014 clean water only.\nTEXAS: Same yo-yo retrieve PLUS drag along bottom, hop, shake in place. Does everything wacky does + bottom work. Weedless. Use in weeds/cover (80% of your lakes).",
+      "line_mgmt": "Both rigs: semi-slack on fall, WATCH LINE for bites (tick, jump, sideways, goes slack). Reel slack after each yo-yo cycle. Bait moves toward you 1-2m per cycle = covers water.",
+      "pause": "Both rigs: 70% of bites on the FALL. Pause 3-5sec on bottom between lifts. Wacky: less bottom time (not doing much down there). Texas: more bottom time (drag/shake/hop work down there).",
       "hookset": "Watch line: jumps, moves sideways, goes slack, or feels heavy. Sweep set to side.",
-      "key_rule": "DO NOT RETRIEVE. Cast, let fall, watch line. 70% of bites on initial fall. One cast = one spot."
+      "key_rule": "Weedy lakes = Texas rig 80% of time. Clean open water = wacky for maximum fall shimmy. Both can yo-yo to cover water OR dead-fall on a specific target. Texas does EVERYTHING wacky does plus bottom work."
     },
     {
       "technique": "Walk-the-Dog (topwater)",
-      "rod_position": "9 oclock (HORIZONTAL, parallel to water). Pointed toward bait, slightly off to your dominant side. Tip near water surface.",
-      "motion": "Same sideways wrist twitch EVERY TIME (always to the same side). You do NOT alternate left-right. The slack between twitches lets the baits momentum carry it the opposite direction automatically. Same flick, same direction, over and over. The bait zigzags on its own from the physics of slack + weighted tail. 2-3 inch tip movement. Quick and light, not powerful.",
-      "line_mgmt": "Slack is what makes it walk. After each twitch: return rod tip to create slack (bait momentum carries it gliding). Too tight = bait dives or wont glide. No reeling between twitches usually \u2014 slack forms naturally when you return rod tip.",
+      "rod_position": "Rod tip DOWN toward water (same position as jerkbaits, ~8 oclock). NOT down (same as jerkbaits) \u2014 down.",
+      "motion": "Continuous LIGHT twitches (not hard snaps with pauses like jerkbait). Constant rhythm of small twitches \u2014 lure glides side to side automatically from the continuous input. You can add pauses near cover (stop twitching, lure sits still, resume). Much lighter/faster twitches than jerkbait snaps \u2014 think 'vibrating' the rod tip vs 'snapping' it.",
+      "line_mgmt": "Slack forms naturally between each light twitch. You dont need to consciously create slack like with a jerkbait snap \u2014 the continuous light twitching rhythm creates and uses micro-slack automatically. GRIP (baitcaster): trigger between ring and pinky fingers, middle finger wrapped around rod, index finger along rod for direction and fine control.",
       "pause": "Optional: after 4-5 walks, dead stop 2-3sec. Tail settles, final sound. Then restart. Triggers followers.",
       "hookset": "WAIT 1-2 SECONDS after blowup. They often miss first strike. Set on WEIGHT not splash. Sweep side.",
-      "key_rule": "You twitch ONE direction only. Bait walks L-R by itself (slack creates the zigzag). If bait only goes one way and wont walk: not enough slack between twitches. If bait dives or skips: twitching too hard. Think tapping, not snapping."
+      "key_rule": "Key difference from jerkbait: CONTINUOUS light twitches (no big pauses between snaps). The lure walks from the rhythm, not from individual power snaps. Pauses are OPTIONAL (near cover) not mandatory. Same rod-down position as jerkbaits but much lighter touch."
     },
     {
       "technique": "Popper (Pop-X)",
@@ -987,7 +979,7 @@
       "rod_position": "9-10 oclock (low). Rod absorbs deflections. Let the rod load, dont fight it.",
       "motion": "STEADY RETRIEVE. Not stop-and-go (usually). Reel at medium speed to maintain depth and wobble. Throw AT cover \u2014 deflection off rocks/stumps/wood = strike trigger.",
       "line_mgmt": "Relatively taut. You need to feel the bait's wobble and any contact with structure. Fluoro direct (no braid) is ideal \u2014 stretch keeps trebles pinned on headshakes.",
-      "pause": "Generally not a pause bait. Exception: Flap Slap (rod drag then pause, nose kicks up). Exception: MD-X Cyclone (stop for spiral drift). Exception: HU-400 (stop for riser action).",
+      "pause": "Generally not a pause bait. Exception: flat-sided cranks (rod drag then pause, nose kicks up). Exception: MD-X Cyclone (stop for spiral drift). Exception: HU-400 (stop for riser action).",
       "hookset": "DO NOT SET HOOK. Just keep reeling. Trebles hook the fish on their own during the deflection bite. Hard hooksets RIP trebles out.",
       "key_rule": "Max cast = max depth. Throw AT objects (deflection triggers strikes). If it feels like you snagged then came free = FISH (keep reeling)."
     },
@@ -1105,6 +1097,15 @@
       "name": "Duo Realis Jerkbait 120SP (AM Hasu)",
       "type": "Jerkbait suspending",
       "specs": "120mm 17.7g 1.5-1.8m DUAL-TONE RATTLE (tungsten + steel)",
+      "hook_weight": "Stock trebles. Owner Hyper Snap or split ring + VMC snap.",
+      "retrieve": "ROD MOVES: Snap-pause. Dual-tone rattle = two different pitches (unique sound). Slightly bigger 120mm profile.",
+      "setup": "Legend TB + DC#2 (primary, 17.7g needs stiffer rod). Expride possible but pushing it.",
+      "tip": "UNIQUE dual-tone sound (2 tungsten + 2 steel rattles). AM Hasu = natural baitfish. 120mm bigger profile. Clearance price = expendable near snags."
+    },
+    {
+      "name": "Duo Realis Jerkbait 120SP (AM Hasu)",
+      "type": "Jerkbait suspending",
+      "specs": "120mm 17.7g 1.5-1.8m DUAL-TONE RATTLE (tungsten + steel)",
       "hook_weight": "Stock trebles. VMC snap or Owner Hyper Snap.",
       "retrieve": "ROD MOVES: Snap-pause. Dual-tone rattle = two different pitches (unique sound nothing else makes). Slightly bigger 120mm profile.",
       "setup": "1) Legend TB (17.7g needs stiffer rod) 2) Aspro (within 24g) 3) Expride (at limit)",
@@ -1160,7 +1161,7 @@
       "type": "Topwater walker",
       "specs": "90mm 13.5g surface LOUD",
       "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "ROD MOVES: Walk-the-dog: rod HORIZONTAL (9 oclock), small SIDEWAYS wrist twitches (5-8cm), slack between each. Rhythm: twitch-slack-twitch-slack.",
+      "retrieve": "ROD MOVES: Walk-the-dog. Rod tip DOWN (like jerkbait position). Continuous light twitches (not snap-pause). Lure glides side to side. Add pauses optionally near cover.",
       "setup": "1) Expride (13.5g within spec, walk-the-dog works on spinning) 2) Legend TB 3) Aspro. BRAID+leader or braid direct.",
       "tip": "LOUDEST walker. WAIT 1-2sec after blowup before hookset."
     },
@@ -1187,7 +1188,7 @@
       "type": "Frog hollow-body",
       "specs": "2.5in 1/2oz surface",
       "hook_weight": "3/0 double (stock). Ready to fish.",
-      "retrieve": "JUST REEL: Walk-the-dog: rod HORIZONTAL, small sideways twitches with slack between. Slow crawl over thick mats.",
+      "retrieve": "ROD MOVES: Walk-the-dog over mats/pads. Rod tip DOWN, continuous light twitches (lure glides side to side). Slow crawl over thick cover. Add pauses at openings.",
       "setup": "Zodias MH + Revo ONLY (needs BRAID direct + MH power hookset through soft body). No other rod.",
       "tip": "WAIT 1-2sec after blowup! Bend hooks out 1-2mm. Trim legs."
     },
@@ -1196,7 +1197,7 @@
       "type": "Frog (small)",
       "specs": "2in 1/4oz surface",
       "hook_weight": "2/0 double (stock). Ready to fish.",
-      "retrieve": "JUST REEL: Same horizontal walk as standard. Use when standard gets refused.",
+      "retrieve": "ROD MOVES: Same walk as standard. Rod tip DOWN, continuous light twitches. For pressured/clear/small ponds.",
       "setup": "Zodias MH + Revo ONLY (needs BRAID direct + MH power hookset through soft body). No other rod.",
       "tip": "When standard gets refused. Extra patience on hookset."
     },
@@ -1205,7 +1206,7 @@
       "type": "Frog (popper)",
       "specs": "2.5in ~0.5oz surface",
       "hook_weight": "3/0 double (stock). Ready to fish.",
-      "retrieve": "JUST REEL: POP: rod angled DOWN (8 oclock), short downward wrist snap (cup spits water). WALK: rod horizontal, sideways twitches. Combine both.",
+      "retrieve": "ROD MOVES: POP (downward snap into cupped face) + WALK (continuous light twitches, rod down). Combo: walk then pop at cover edges.",
       "setup": "Zodias MH + Revo SX. BRAID direct.",
       "tip": "3 techniques in one: pop, walk, or combo. Pop cuts through wind/slop."
     },
@@ -1270,7 +1271,7 @@
       "hook_weight": "Stock #6 x2. VMC snap.",
       "retrieve": "ROD MOVES: Pull bait forward with ROD (sweep rod sideways), then pause 1-2sec (nose kicks UP = trigger). Reel only gathers slack between sweeps. NOT a straight reel-and-crank bait.",
       "setup": "1) Aspro (10.6g, rod-drag technique needs sensitivity) 2) Expride (within spec). NOT Zodias (too stiff for this technique).",
-      "tip": "COLD WATER hybrid crank/jerkbait. Rod drags + pauses. Not straight retrieve."
+      "tip": "LOST (leader broke at knot on snag). Cold-water flat-sided crank. ROD drag technique, not steady reel. Consider replacing for fall/winter."
     },
     {
       "name": "Usami Purin XL 55 F-DR",
@@ -1610,7 +1611,7 @@
       "type": "Stickbait",
       "specs": "5in Green Pumpkin",
       "hook_weight": "WACKY: #1 G-Lock + wacky ring. TX: 2/0 EWG + 5g bullet.",
-      "retrieve": "LET FALL: WACKY: Cast, let sink, DO NOT RETRIEVE. Watch line. 70% bites on fall.",
+      "retrieve": "ROD MOVES: TEXAS: yo-yo retrieve (lift, reel slack, fall \u2014 covers water back to you) + drag/hop/shake on bottom. Weedless. WACKY: same yo-yo retrieve OR dead-fall on target. Wider shimmy but snags in weeds. Both: 70% bites on FALL. Watch line.",
       "setup": "1) Expride (wacky rig spinning, line-watching). For TX rig in cover: Aspro or Zodias MH.",
       "tip": "THE single best bass lure. Dont retrieve. Wacky ring saves plastic. GP = any clarity."
     },
@@ -1619,7 +1620,7 @@
       "type": "Stickbait",
       "specs": "5in Black w/ Blue Flk",
       "hook_weight": "Same as GP.",
-      "retrieve": "LET FALL: Same. This color = stained/muddy/night/low light.",
+      "retrieve": "ROD MOVES: TEXAS: yo-yo retrieve (lift, reel slack, fall \u2014 covers water back to you) + drag/hop/shake on bottom. Weedless. WACKY: same yo-yo retrieve OR dead-fall on target. Wider shimmy but snags in weeds. Both: 70% bites on FALL. Watch line.",
       "setup": "1) Expride (wacky rig spinning, line-watching). For TX rig in cover: Aspro or Zodias MH.",
       "tip": "When GP disappears in murky water. Killer at night and in rain."
     },
