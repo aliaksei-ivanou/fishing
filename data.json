@@ -516,10 +516,10 @@
   "setups": [
     {
       "name": "Heavy Duty / Pike",
-      "rod_reel": "Zodias MH + Revo SX",
+      "rod_reel": "Zodias MH + Curado DC #1",
       "line": "50lb braid DIRECT (no leader, never). Permanent config.",
       "grab_for": "Frogs (all 3), Rage Toad, buzzbait, swim jigs, heavy spinnerbaits 17g+, flipping jigs + Texas in THICK cover, heavy lipless ripping (TN70, LV500), deep cranks (DX-Free, HU-400), Krocodile 24g, pike + wire leader, KINGS at Racine (heavy spoons)",
-      "note": "DEFAULT LURE: Pitching jig 3/8oz + Rage Craw. BRAID DIRECT always. PLAN: When Steez is purchased, DC#2 replaces Revo here. Revo moves to drawer."
+      "note": "DEFAULT LURE: Pitching jig 3/8oz + Rage Craw. BRAID DIRECT always. DC forgiveness for wind-resistant surface baits (frogs, toad, buzz). 11lb drag adequate for suburban bass."
     },
     {
       "name": "Primary / Versatile",
@@ -530,10 +530,10 @@
     },
     {
       "name": "Jerkbait / Topwater",
-      "rod_reel": "Legend TB + Curado DC #2 (NEW, dedicated)",
-      "line": "30lb braid + 10lb AbrazX fluoro leader 1-1.5m (Alberto knot). Same system as Aspro.",
+      "rod_reel": "Legend TB + Daiwa Zillion SV TW G (ZLNSVG100HL)",
+      "line": "30lb J-Braid Grand dark green + 10lb AbrazX leader 1-1.5m (Alberto knot).",
       "grab_for": "Jerkbaits (all weights), Irony walk (13.5g), New Vision subsurface (16.9g), Jockie (16g). Maximum snap precision (X-Fast tip). Fluoro direct = best suspend action.",
-      "note": "DEFAULT LURE: Orbit 110. Advantages: crispest snaps, fluoro direct for true suspend, handles heaviest jerkbaits (17g+). Trade-off: wrist fatigue on long sessions, fluoro management."
+      "note": "DEFAULT LURE: Orbit 110. Zillion SV Boost = no end-of-cast backlash (solved DC problem). G1 Duralumin spool = casts further than DC. Japan-made. Dedicated jerkbait mastery reel."
     },
     {
       "name": "Versatile Spinning",
@@ -544,10 +544,10 @@
     },
     {
       "name": "Pike / Salmon",
-      "rod_reel": "Any casting + titanium wire leader 25-30cm",
-      "line": "Any casting setup + titanium wire leader 25-30cm",
-      "grab_for": "Spoons, large spinnerbaits, large jerkbaits targeting pike. WIRE MANDATORY.",
-      "note": "Swap fluoro leader for titanium wire on pike days."
+      "rod_reel": "Aspro or Zodias + casting reel",
+      "line": "PIKE: titanium wire leader 25-30cm (MANDATORY \u2014 teeth shred fluoro/braid). SALMON (Racine piers, kings/cohos): 20-25lb fluoro shock leader (Seaguar Blue Label or AbrazX), 1-1.5m. Wire NOT needed for salmon \u2014 too visible, kills bites.",
+      "grab_for": "PIKE: large jerkbaits, spoons, big spinnerbaits, swimbaits. SALMON: K.O. Wobbler 14g, Moonshine spoons, Krocodile 24g, large flutter spoons.",
+      "note": "Different leaders for different fish. Pike = wire, no exceptions. Salmon = heavy fluoro (10lb AbrazX leader on Aspro is too light for kings \u2014 fish run hard, teeth abrade leader). Carry pre-tied leaders in tackle bag."
     }
   ],
   "gear": [
@@ -640,12 +640,12 @@
       "note": "You have these. Use for ALL pike presentations."
     },
     {
-      "item": "2nd Curado DC 151HG",
-      "type": "Reel Cast",
-      "spec": "Same specs as current",
-      "best_for": "Eliminates sharing between Aspro + Legend TB",
-      "status": "Active",
-      "note": "CUDC151HG left-hand 7.4:1. Currently on Legend TB (30lb braid + AbrazX leader). PLAN: Moves to Zodias when Steez purchased for Aspro."
+      "item": "Daiwa Zillion SV TW G 100HL",
+      "type": "Reel Cast L",
+      "spec": "7.1:1, 6.7oz (190g), 11lb drag, 8+1 BB, G1 Duralumin 34mm spool, SV Boost + TWS",
+      "best_for": "Legend TB: Jerkbaits (dedicated mastery reel). SV Boost = no end-of-cast backlash. G1 spool = best casting distance. Japan-made.",
+      "status": "Ordered",
+      "note": "ZLNSVG100HL. $449.99 from TW. Replacing DC#2 (returning to Bass Pro). 30lb J-Braid Grand dark green + 10lb AbrazX leader."
     },
     {
       "item": "Internal tube jigheads 1/8oz",
@@ -900,7 +900,7 @@
       "line_mgmt": "Slight BOW in line during pause (not tight, not slack). Reel 1-2 cranks ONLY to gather slack after snap. Reel 2-3 cranks after long pause to recover distance. Reel NEVER moves the bait.",
       "pause": "3-10sec (cold=longer). The pause catches fish. If followers wont commit: add 3 more seconds.",
       "hookset": "Reel down until tight, then sweep SIDEWAYS (not up). Side sweep drives trebles into jaw corner.",
-      "key_rule": "The bait darts on the SNAP. It catches fish on the PAUSE. Reel is only slack management."
+      "key_rule": "The bait darts on the SNAP. It catches fish on the PAUSE. Reel is only slack management. WEED CHECK: You cant feel weed during twitching (youre pushing force IN, not feeling back). Every 3-4 twitch sequences, do one slow PULL \u2014 if heavier than normal or no side play = weed is on. Sharp snap to clear, then resume."
     },
     {
       "technique": "Texas Rig / Jig (pitch-hop)",
@@ -999,7 +999,7 @@
       "line_mgmt": "SLACK LINE IS MANDATORY. Each snap whips bait through the slack. After snaps: return rod to position, reel 1-2 cranks to reset. During pause: let line bow slightly.",
       "pause": "2-5sec (where bites happen). Bait sinks slowly, shimmying. Watch line for any movement. Extend to 8-10sec in cold.",
       "hookset": "Reel down to weight, then SWEEP side. Do not snap-set. The offset hook needs sustained pressure to rotate and penetrate.",
-      "key_rule": "If bait swims toward you instead of darting sideways = your line is too tight. Create slack before snapping."
+      "key_rule": "If bait swims toward you instead of darting sideways = your line is too tight. Create slack before snapping. WEED CHECK: You cant feel weed during twitching (youre pushing force IN, not feeling back). Every 3-4 twitch sequences, do one slow PULL \u2014 if heavier than normal or no side play = weed is on. Sharp snap to clear, then resume."
     },
     {
       "technique": "Inline Spinner (Vibrax steady)",
@@ -1045,7 +1045,7 @@
       "specs": "115mm 16g 0.8-1.8m RATTLE",
       "hook_weight": "Stock #5 trebles. Owner Hyper Snap (or split ring + VMC snap).",
       "retrieve": "ROD MOVES: Hard snap-snap-pause 3-8sec. Or: 1 hard rip then 5-10sec dead stop.",
-      "setup": "Legend TB + DC #2. 30lb braid + 10lb AbrazX leader.",
+      "setup": "Legend TB + Zillion SV TW G. 30lb braid + 10lb AbrazX leader.",
       "tip": "LOST (both colors now gone). Rattling instant-stop jerkbait. No rattling jerkbait remaining in collection."
     },
     {
@@ -1082,7 +1082,7 @@
       "hook_weight": "Stock #6 trebles. Owner Hyper Snap or split ring + VMC snap.",
       "retrieve": "ROD MOVES: Moderate snap-pause. Balanced glide (between Orbit sharp dart and Ito-Shiner wide sweep). The 'standard' jerkbait action all others are measured against.",
       "setup": "1) Expride or Legend TB (14.2g, both within spec) 2) Aspro",
-      "tip": "Sexy French Pearl = translucent/ghost. THE legendary jerkbait. 14.2g = Expride handles it within spec. Spinning = no wrist fatigue."
+      "tip": "Sexy French Pearl = translucent/ghost. THE legendary jerkbait. 14.2g = Expride handles it within spec. Spinning = no wrist fatigue. FIELD TEST: Easiest to twitch of all jerkbaits \u2014 moves through water smoothly with minimal effort. Preferred over Realis and Rogue for twitching feel."
     },
     {
       "name": "Smithwick Suspending Rattlin Rogue (Threadfin Shad)",
@@ -1091,7 +1091,7 @@
       "hook_weight": "Stock trebles. VMC snap or Owner Hyper Snap.",
       "retrieve": "ROD MOVES: Snap-pause like other jerkbaits. LOUD rattle drives fish crazy. Shallowest jerkbait you own = least snag risk.",
       "setup": "1) Expride (10.6g sweet spot) 2) Legend TB 3) Aspro",
-      "tip": "SHALLOWEST + LOUDEST + CHEAPEST jerkbait. Throw fearlessly near rocks. Lose it = $8 not $25. Threadfin Shad = natural color."
+      "tip": "SHALLOWEST + LOUDEST + CHEAPEST jerkbait. Throw fearlessly near rocks. Lose it = $8 not $25. Threadfin Shad = natural color. FIELD TEST: Twitching feels stiff (similar to Realis). Not as smooth through water as Vision 110."
     },
     {
       "name": "Duo Realis Jerkbait 120SP (AM Hasu)",
@@ -1099,7 +1099,7 @@
       "specs": "120mm 17.7g 1.5-1.8m DUAL-TONE RATTLE (tungsten + steel)",
       "hook_weight": "Stock trebles. Owner Hyper Snap or split ring + VMC snap.",
       "retrieve": "ROD MOVES: Snap-pause. Dual-tone rattle = two different pitches (unique sound). Slightly bigger 120mm profile.",
-      "setup": "Legend TB + DC#2 (primary, 17.7g needs stiffer rod). Expride possible but pushing it.",
+      "setup": "Legend TB + Zillion SV TW G (primary, 17.7g needs stiffer rod). Expride possible but pushing it.",
       "tip": "UNIQUE dual-tone sound (2 tungsten + 2 steel rattles). AM Hasu = natural baitfish. 120mm bigger profile. Clearance price = expendable near snags."
     },
     {
