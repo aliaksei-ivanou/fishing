@@ -678,6 +678,14 @@
       "best_for": "Jerkbait-specific snap that clears the bill during snaps.",
       "status": "Active",
       "note": "Alternative to split ring solution. Use on Legend TB jerkbaits."
+    },
+    {
+      "item": "Daiwa Reel Grease",
+      "type": "Maintenance",
+      "spec": "Reel grease (gears, drag washers)",
+      "best_for": "Gear teeth, drag washers, worm shaft. Complements oil (bearings, spool shaft).",
+      "status": "",
+      "note": "Grease = gears/drag. Oil = bearings/spool. Never swap."
     }
   ],
   "terminal": [
@@ -1031,6 +1039,24 @@
       "tip": ""
     },
     {
+      "name": "Duo Realis Jerkbait 120SP (AM Hasu)",
+      "type": "Jerkbait suspending",
+      "specs": "120mm 17.4g 1.5-1.8m DUAL-TONE RATTLE (tungsten + steel)",
+      "hook_weight": "Stock trebles. Owner Hyper Snap or split ring + VMC snap.",
+      "retrieve": "ROD MOVES: Snap-pause. Dual-tone rattle = two different pitches (unique sound). Slightly bigger 120mm profile.",
+      "setup": "Legend TB + Zillion SV TW G (primary, 17.7g needs stiffer rod). Expride possible but pushing it.",
+      "tip": "UNIQUE dual-tone sound (2 tungsten + 2 steel rattles). AM Hasu = natural baitfish. 120mm bigger profile. Clearance price = expendable near snags."
+    },
+    {
+      "name": "Duo Realis Jerkbait 120SP (AM Hasu)",
+      "type": "Jerkbait suspending",
+      "specs": "120mm 17.4g 1.5-1.8m DUAL-TONE RATTLE (tungsten + steel)",
+      "hook_weight": "Stock trebles. VMC snap or Owner Hyper Snap.",
+      "retrieve": "ROD MOVES: Snap-pause. Dual-tone rattle = two different pitches (unique sound nothing else makes). Slightly bigger 120mm profile.",
+      "setup": "1) Legend TB (17.7g needs stiffer rod) 2) Aspro (within 24g) 3) Expride (at limit)",
+      "tip": "UNIQUE dual-tone sound (2 tungsten + 2 steel rattles). AM Hasu = natural baitfish pattern. 120mm bigger profile for when 110mm gets refused. On clearance = good value."
+    },
+    {
       "name": "ZipBaits Orbit 110 SP (Acid Green)",
       "type": "Jerkbait suspending",
       "specs": "110mm 16.4g 0.8-1.2m SILENT",
@@ -1056,15 +1082,6 @@
       "retrieve": "ROD MOVES: SOFT twitch-pause 8-15sec (flat sides amplify). Gentle input!",
       "setup": "1) Legend TB (15.3g within spec) 2) Expride (proven at this weight) 3) Aspro",
       "tip": "COLD WATER specialist. Flat = intense flash. SOFTER snaps than other jerkbaits."
-    },
-    {
-      "name": "Duo Rozante 77SP",
-      "type": "Jerkbait finesse",
-      "specs": "77mm 8.3g 0.8-1.2m",
-      "hook_weight": "Stock #10 x2. VMC snap.",
-      "retrieve": "ROD MOVES: Micro-twitches, 2-5sec pause. Very gentle. Or slow steady roll.",
-      "setup": "1) Expride (8.4g sweet spot) 2) Legend TB 3) Aspro",
-      "tip": "FINESSE jerkbait. When big jerkbaits get refused. Clear + pressured."
     },
     {
       "name": "Megabass Ito-Shiner (TN Shad + Stain Reaction OB)",
@@ -1094,22 +1111,13 @@
       "tip": "SHALLOWEST + LOUDEST + CHEAPEST jerkbait. Throw fearlessly near rocks. Lose it = $8 not $25. Threadfin Shad = natural color. FIELD TEST: Twitching feels stiff (similar to Realis). Not as smooth through water as Vision 110."
     },
     {
-      "name": "Duo Realis Jerkbait 120SP (AM Hasu)",
-      "type": "Jerkbait suspending",
-      "specs": "120mm 17.4g 1.5-1.8m DUAL-TONE RATTLE (tungsten + steel)",
-      "hook_weight": "Stock trebles. Owner Hyper Snap or split ring + VMC snap.",
-      "retrieve": "ROD MOVES: Snap-pause. Dual-tone rattle = two different pitches (unique sound). Slightly bigger 120mm profile.",
-      "setup": "Legend TB + Zillion SV TW G (primary, 17.7g needs stiffer rod). Expride possible but pushing it.",
-      "tip": "UNIQUE dual-tone sound (2 tungsten + 2 steel rattles). AM Hasu = natural baitfish. 120mm bigger profile. Clearance price = expendable near snags."
-    },
-    {
-      "name": "Duo Realis Jerkbait 120SP (AM Hasu)",
-      "type": "Jerkbait suspending",
-      "specs": "120mm 17.4g 1.5-1.8m DUAL-TONE RATTLE (tungsten + steel)",
-      "hook_weight": "Stock trebles. VMC snap or Owner Hyper Snap.",
-      "retrieve": "ROD MOVES: Snap-pause. Dual-tone rattle = two different pitches (unique sound nothing else makes). Slightly bigger 120mm profile.",
-      "setup": "1) Legend TB (17.7g needs stiffer rod) 2) Aspro (within 24g) 3) Expride (at limit)",
-      "tip": "UNIQUE dual-tone sound (2 tungsten + 2 steel rattles). AM Hasu = natural baitfish pattern. 120mm bigger profile for when 110mm gets refused. On clearance = good value."
+      "name": "Duo Rozante 77SP",
+      "type": "Jerkbait finesse",
+      "specs": "77mm 8.3g 0.8-1.2m",
+      "hook_weight": "Stock #10 x2. VMC snap.",
+      "retrieve": "ROD MOVES: Micro-twitches, 2-5sec pause. Very gentle. Or slow steady roll.",
+      "setup": "1) Expride (8.4g sweet spot) 2) Legend TB 3) Aspro",
+      "tip": "FINESSE jerkbait. When big jerkbaits get refused. Clear + pressured."
     },
     {
       "name": "--- MINNOWS ---",
@@ -1119,15 +1127,6 @@
       "retrieve": "",
       "setup": "",
       "tip": ""
-    },
-    {
-      "name": "Gan Craft Rest 108",
-      "type": "Minnow slow-floating",
-      "specs": "108mm 14g 1.0-1.5m RISES on pause",
-      "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "ROD MOVES: Snap-snap then STOP. Let RISE 3-8sec. The RISE is the trigger.",
-      "setup": "Aspro + DC",
-      "tip": "LOST. Slow-floating minnow. Rising action on pause was unique trigger. Consider replacing if you miss the float-up presentation."
     },
     {
       "name": "Jackall Mickey Slim 128",
@@ -1148,6 +1147,15 @@
       "tip": "When fish refuse topwater. Works 10-20cm below surface film."
     },
     {
+      "name": "Gan Craft Rest 108",
+      "type": "Minnow slow-floating",
+      "specs": "108mm 14g 1.0-1.5m RISES on pause",
+      "hook_weight": "Stock #6 x2. VMC snap.",
+      "retrieve": "ROD MOVES: Snap-snap then STOP. Let RISE 3-8sec. The RISE is the trigger.",
+      "setup": "Aspro + DC",
+      "tip": "LOST. Slow-floating minnow. Rising action on pause was unique trigger. Consider replacing if you miss the float-up presentation."
+    },
+    {
       "name": "--- TOPWATER ---",
       "type": "",
       "specs": "",
@@ -1157,13 +1165,13 @@
       "tip": ""
     },
     {
-      "name": "ZipBaits Irony 90",
-      "type": "Topwater walker",
-      "specs": "90mm 13.5g surface LOUD",
-      "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "ROD MOVES: Walk-the-dog. Rod tip DOWN (like jerkbait position). Continuous light twitches (not snap-pause). Lure glides side to side. Add pauses optionally near cover.",
-      "setup": "1) Expride (13.5g within spec, walk-the-dog works on spinning) 2) Legend TB 3) Aspro. BRAID+leader or braid direct.",
-      "tip": "LOUDEST walker. WAIT 1-2sec after blowup before hookset."
+      "name": "Buzzbait White/Chartreuse",
+      "type": "Buzzbait surface",
+      "specs": "18.2g prop blade",
+      "hook_weight": "Stock single hook.",
+      "retrieve": "JUST REEL: Fast steady, rod HIGH. Prop churns surface. NEVER stop reeling.",
+      "setup": "Zodias MH + Revo ONLY (needs BRAID direct + MH power hookset through soft body). No other rod.",
+      "tip": "LOUDEST surface bait. Dawn/dusk/rain. WAIT on hookset like frog."
     },
     {
       "name": "Jackall Jockie 120",
@@ -1173,6 +1181,24 @@
       "retrieve": "ROD MOVES: Random cadence: horizontal twitches (walk), downward snaps (pop/dive), pauses. Chaos not rhythm.",
       "setup": "1) Legend TB (16g, chaotic cadence) 2) Aspro 3) Expride (over spec). BRAID+leader.",
       "tip": "DISCONTINUED. Vary inputs constantly. Vertical hang on pause = strike window."
+    },
+    {
+      "name": "River2Sea Whopper Plopper 90",
+      "type": "Topwater prop (plopper)",
+      "specs": "90mm 14.5g, floating, tail prop",
+      "hook_weight": "Stock trebles. VMC snap or Owner Hyper Snap.",
+      "retrieve": "JUST REEL: Steady retrieve (prop sputters). Vary speed: fast=loud, slow=subtle. STOP-AND-GO: reel then pause (it FLOATS, unlike buzzbait). Fish hit on the pause.",
+      "setup": "1) Expride (~14g just-reel, within spec) 2) Legend TB 3) Aspro. Braid+leader.",
+      "tip": "FLOATS on pause (unique vs buzzbait which sinks). Stop-and-go is the key technique. NOT weedless (treble hooks). Summer 65F+, dawn/dusk, open water or sparse cover. WAIT on hookset."
+    },
+    {
+      "name": "ZipBaits Irony 90",
+      "type": "Topwater walker",
+      "specs": "90mm 13.5g surface LOUD",
+      "hook_weight": "Stock #6 x2. VMC snap.",
+      "retrieve": "ROD MOVES: Walk-the-dog. Rod tip DOWN (like jerkbait position). Continuous light twitches (not snap-pause). Lure glides side to side. Add pauses optionally near cover.",
+      "setup": "1) Expride (13.5g within spec, walk-the-dog works on spinning) 2) Legend TB 3) Aspro. BRAID+leader or braid direct.",
+      "tip": "LOUDEST walker. WAIT 1-2sec after blowup before hookset."
     },
     {
       "name": "Megabass Pop-X (GG Wild Gill)",
@@ -1220,24 +1246,6 @@
       "tip": "Louder than frog but SINKS. Must reel fast. WAIT on hookset."
     },
     {
-      "name": "Buzzbait White/Chartreuse",
-      "type": "Buzzbait surface",
-      "specs": "18.2g prop blade",
-      "hook_weight": "Stock single hook.",
-      "retrieve": "JUST REEL: Fast steady, rod HIGH. Prop churns surface. NEVER stop reeling.",
-      "setup": "Zodias MH + Revo ONLY (needs BRAID direct + MH power hookset through soft body). No other rod.",
-      "tip": "LOUDEST surface bait. Dawn/dusk/rain. WAIT on hookset like frog."
-    },
-    {
-      "name": "River2Sea Whopper Plopper 90",
-      "type": "Topwater prop (plopper)",
-      "specs": "90mm 14.5g, floating, tail prop",
-      "hook_weight": "Stock trebles. VMC snap or Owner Hyper Snap.",
-      "retrieve": "JUST REEL: Steady retrieve (prop sputters). Vary speed: fast=loud, slow=subtle. STOP-AND-GO: reel then pause (it FLOATS, unlike buzzbait). Fish hit on the pause.",
-      "setup": "1) Expride (~14g just-reel, within spec) 2) Legend TB 3) Aspro. Braid+leader.",
-      "tip": "FLOATS on pause (unique vs buzzbait which sinks). Stop-and-go is the key technique. NOT weedless (treble hooks). Summer 65F+, dawn/dusk, open water or sparse cover. WAIT on hookset."
-    },
-    {
       "name": "--- CRANKBAITS ---",
       "type": "",
       "specs": "",
@@ -1247,6 +1255,24 @@
       "tip": ""
     },
     {
+      "name": "Megabass DX-Free 3.0",
+      "type": "Crank deep",
+      "specs": "75mm 21.3g 3.5-5.0m",
+      "hook_weight": "Stock #4 x2. VMC snap.",
+      "retrieve": "JUST REEL: Steady retrieve tip DOWN (submerge tip +2-3ft). LONG CASTS.",
+      "setup": "1) Zodias MH (20.9g, heavy cranking resistance all day) 2) Aspro (within 24g but tiring).",
+      "tip": "Max cast = max depth. Need 60ft+ casts. 10-12lb fluoro only."
+    },
+    {
+      "name": "Hideup HU-400",
+      "type": "Crank deep",
+      "specs": "55mm 17.7g 4.0-6.0m",
+      "hook_weight": "Stock #6 x2. VMC snap.",
+      "retrieve": "JUST REEL: Crank deep, STOP, let RISE with drunken wobble 3-5sec. Repeat.",
+      "setup": "1) Zodias MH (17.2g, extreme deep cranking resistance) 2) Aspro (within 24g).",
+      "tip": "RISER ACTION on stop = trigger. Need 60-80ft casts. Summer deep only."
+    },
+    {
       "name": "6th Sense Crush 100X",
       "type": "Crank squarebill",
       "specs": "70mm 16.6g 0.6-1.5m",
@@ -1254,6 +1280,24 @@
       "retrieve": "JUST REEL: Medium steady INTO cover. Keep reeling through contact.",
       "setup": "1) Zodias MH (17.7g, deflection in cover needs power) 2) Aspro (within 24g).",
       "tip": "Throw AT objects. Deflection = trigger. Dont set hook, just reel."
+    },
+    {
+      "name": "Megabass MD-X Cyclone",
+      "type": "Crank med-deep",
+      "specs": "55.5mm 13.6g 2.5-3.5m",
+      "hook_weight": "Stock #6 x2. VMC snap.",
+      "retrieve": "JUST REEL: 4-5 cranks then STOP 2-3sec (bait SPIRALS upward). Repeat.",
+      "setup": "1) Aspro (14g, stop-and-go needs sensitivity for spiral drift detection) 2) Zodias MH.",
+      "tip": "Unique SPIRAL rise on pause. Stop-and-go is mandatory."
+    },
+    {
+      "name": "Usami Purin XL 55 F-DR",
+      "type": "Crank medium",
+      "specs": "55mm 11.1g 1.5-2.5m",
+      "hook_weight": "UPGRADE hooks. VMC snap.",
+      "retrieve": "JUST REEL: Steady retrieve grinding bottom 5-8ft. Stop-and-go.",
+      "setup": "1) Aspro (10.8g, medium depth, sensitivity) 2) Expride (within spec).",
+      "tip": "Compact body reaches medium depth. Replace stock hooks."
     },
     {
       "name": "Lucky Craft LC 1.5",
@@ -1274,42 +1318,6 @@
       "tip": "LOST (leader broke at knot on snag). Cold-water flat-sided crank. ROD drag technique, not steady reel. Consider replacing for fall/winter."
     },
     {
-      "name": "Usami Purin XL 55 F-DR",
-      "type": "Crank medium",
-      "specs": "55mm 11.1g 1.5-2.5m",
-      "hook_weight": "UPGRADE hooks. VMC snap.",
-      "retrieve": "JUST REEL: Steady retrieve grinding bottom 5-8ft. Stop-and-go.",
-      "setup": "1) Aspro (10.8g, medium depth, sensitivity) 2) Expride (within spec).",
-      "tip": "Compact body reaches medium depth. Replace stock hooks."
-    },
-    {
-      "name": "Megabass DX-Free 3.0",
-      "type": "Crank deep",
-      "specs": "75mm 21.3g 3.5-5.0m",
-      "hook_weight": "Stock #4 x2. VMC snap.",
-      "retrieve": "JUST REEL: Steady retrieve tip DOWN (submerge tip +2-3ft). LONG CASTS.",
-      "setup": "1) Zodias MH (20.9g, heavy cranking resistance all day) 2) Aspro (within 24g but tiring).",
-      "tip": "Max cast = max depth. Need 60ft+ casts. 10-12lb fluoro only."
-    },
-    {
-      "name": "Megabass MD-X Cyclone",
-      "type": "Crank med-deep",
-      "specs": "55.5mm 13.6g 2.5-3.5m",
-      "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "JUST REEL: 4-5 cranks then STOP 2-3sec (bait SPIRALS upward). Repeat.",
-      "setup": "1) Aspro (14g, stop-and-go needs sensitivity for spiral drift detection) 2) Zodias MH.",
-      "tip": "Unique SPIRAL rise on pause. Stop-and-go is mandatory."
-    },
-    {
-      "name": "Hideup HU-400",
-      "type": "Crank deep",
-      "specs": "55mm 17.7g 4.0-6.0m",
-      "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "JUST REEL: Crank deep, STOP, let RISE with drunken wobble 3-5sec. Repeat.",
-      "setup": "1) Zodias MH (17.2g, extreme deep cranking resistance) 2) Aspro (within 24g).",
-      "tip": "RISER ACTION on stop = trigger. Need 60-80ft casts. Summer deep only."
-    },
-    {
       "name": "--- LIPLESS CRANKBAITS ---",
       "type": "",
       "specs": "",
@@ -1317,15 +1325,6 @@
       "retrieve": "",
       "setup": "",
       "tip": ""
-    },
-    {
-      "name": "Jackall TN70",
-      "type": "Lipless crank",
-      "specs": "71mm 18.3g sinking TIGHT RATTLE",
-      "hook_weight": "Stock #6 x2. VMC snap.",
-      "retrieve": "JUST REEL: Yo-yo: smooth lift 8-11 oclock, fall semi-slack. Rip through grass.",
-      "setup": "1) Zodias MH (17.7g, power to rip grass + hooksets at distance) 2) Aspro.",
-      "tip": "TIGHT vibration (not thump). Moderate speed. Bites on fall = line tick."
     },
     {
       "name": "Lucky Craft LV-MAX 500",
@@ -1337,6 +1336,15 @@
       "tip": "HEAVIEST/LOUDEST. Chartreuse Shad = stained-muddy water. Distance king."
     },
     {
+      "name": "Jackall TN70",
+      "type": "Lipless crank",
+      "specs": "71mm 18.3g sinking TIGHT RATTLE",
+      "hook_weight": "Stock #6 x2. VMC snap.",
+      "retrieve": "JUST REEL: Yo-yo: smooth lift 8-11 oclock, fall semi-slack. Rip through grass.",
+      "setup": "1) Zodias MH (17.7g, power to rip grass + hooksets at distance) 2) Aspro.",
+      "tip": "TIGHT vibration (not thump). Moderate speed. Bites on fall = line tick."
+    },
+    {
       "name": "Cordell Super Spot",
       "type": "Lipless crank",
       "specs": "76mm 14.6g sinking MORE BUOYANT",
@@ -1346,15 +1354,6 @@
       "tip": "BUOYANT = rises on pause (unique). Royal Red = crawfish. Upgrade hooks."
     },
     {
-      "name": "RAID JAPAN Level Vib",
-      "type": "Lipless finesse",
-      "specs": "54mm 12.4g sinking QUIET",
-      "hook_weight": "Stock #10 x2. VMC snap.",
-      "retrieve": "ROD MOVES: Finesse yo-yo SPINNING GEAR. Gentle lift, slow flutter-fall.",
-      "setup": "1) Expride (10.5g finesse lipless, spinning gear) 2) Aspro.",
-      "tip": "SPINNING ONLY. Smallest/quietest. When big lipless refused. Light tackle."
-    },
-    {
       "name": "Booyah One Knocker",
       "type": "Lipless crank",
       "specs": "63mm 14g sinking 1 TUNGSTEN THUMP",
@@ -1362,6 +1361,15 @@
       "retrieve": "JUST REEL: SLOW yo-yo emphasizing thump cadence. Crawl-and-thump in cold.",
       "setup": "Zodias MH + Revo SX",
       "tip": "LOST. Single THUMP not rattle. Different sound catches conditioned fish."
+    },
+    {
+      "name": "RAID JAPAN Level Vib",
+      "type": "Lipless finesse",
+      "specs": "54mm 12.4g sinking QUIET",
+      "hook_weight": "Stock #10 x2. VMC snap.",
+      "retrieve": "ROD MOVES: Finesse yo-yo SPINNING GEAR. Gentle lift, slow flutter-fall.",
+      "setup": "1) Expride (10.5g finesse lipless, spinning gear) 2) Aspro.",
+      "tip": "SPINNING ONLY. Smallest/quietest. When big lipless refused. Light tackle."
     },
     {
       "name": "--- SPOONS & SPINNERS ---",
@@ -1382,15 +1390,6 @@
       "tip": "Let current do 70% of work. Dont retrieve against current."
     },
     {
-      "name": "K.O. Wobbler 14g",
-      "type": "Spoon medium",
-      "specs": "14g sinking",
-      "hook_weight": "Stock hook. P-Line swivel.",
-      "retrieve": "JUST REEL: Slow retrieve with wobble. Count down for depth (1sec=~1ft).",
-      "setup": "1) Aspro (14g in sweet spot) 2) Expride (14g within spec \u2014 salmon at Racine).",
-      "tip": "More wobble than Krocodile. Lighter = slower/shallower water."
-    },
-    {
       "name": "Moonshine Super Glow 14.7g",
       "type": "Spoon glow",
       "specs": "14.7g sinking UV/GLOW",
@@ -1400,13 +1399,13 @@
       "tip": "CHARGE THE GLOW or its useless. Dawn/dusk/murky ONLY."
     },
     {
-      "name": "Blue Fox Vibrax 8g",
-      "type": "Inline spinner",
-      "specs": "8g",
-      "hook_weight": "Stock treble. SPRO SWIVEL mandatory.",
-      "retrieve": "JUST REEL: Steady retrieve. Count down for depth. Slow = barely feel blade.",
-      "setup": "1) Expride (8-10g, spinning gear + SWIVEL mandatory). No other rod.",
-      "tip": "ALWAYS use ball bearing swivel. Smaller for streams/shallow."
+      "name": "K.O. Wobbler 14g",
+      "type": "Spoon medium",
+      "specs": "14g sinking",
+      "hook_weight": "Stock hook. P-Line swivel.",
+      "retrieve": "JUST REEL: Slow retrieve with wobble. Count down for depth (1sec=~1ft).",
+      "setup": "1) Aspro (14g in sweet spot) 2) Expride (14g within spec \u2014 salmon at Racine).",
+      "tip": "More wobble than Krocodile. Lighter = slower/shallower water."
     },
     {
       "name": "Blue Fox Vibrax 10g",
@@ -1416,6 +1415,15 @@
       "retrieve": "JUST REEL: Steady retrieve, bump bottom. Count down for depth.",
       "setup": "1) Expride (8-10g, spinning gear + SWIVEL mandatory). No other rod.",
       "tip": "Best multi-species search bait for unknown water."
+    },
+    {
+      "name": "Blue Fox Vibrax 8g",
+      "type": "Inline spinner",
+      "specs": "8g",
+      "hook_weight": "Stock treble. SPRO SWIVEL mandatory.",
+      "retrieve": "JUST REEL: Steady retrieve. Count down for depth. Slow = barely feel blade.",
+      "setup": "1) Expride (8-10g, spinning gear + SWIVEL mandatory). No other rod.",
+      "tip": "ALWAYS use ball bearing swivel. Smaller for streams/shallow."
     },
     {
       "name": "--- SWIMBAITS ---",
@@ -1535,6 +1543,15 @@
       "tip": ""
     },
     {
+      "name": "Googan Baits Bandito Bug 4\"",
+      "type": "Creature",
+      "specs": "4in 10.5g Green Pumpkin",
+      "hook_weight": "3/0 EWG. 7g bullet cast / 10g flip.",
+      "retrieve": "ROD MOVES: Drag, shake, hop. Slaunch Sauce scent.",
+      "setup": "1) Aspro (TX rig moderate cover, sensitivity) 2) Zodias MH (thick cover, power). Choose by cover density.",
+      "tip": "Compact body with raised flanges. Slaunch Sauce scent. 10.5g casts well on baitcaster."
+    },
+    {
       "name": "Reaction Innovations Sweet Beaver 4.2\"",
       "type": "Beaver/creature",
       "specs": "4.2in GP Red",
@@ -1580,15 +1597,6 @@
       "tip": "Bulkier than Rage Craw = BEST JIG TRAILER in your box. Or standalone TX."
     },
     {
-      "name": "Googan Baits Bandito Bug 4\"",
-      "type": "Creature",
-      "specs": "4in 10.5g Green Pumpkin",
-      "hook_weight": "3/0 EWG. 7g bullet cast / 10g flip.",
-      "retrieve": "ROD MOVES: Drag, shake, hop. Slaunch Sauce scent.",
-      "setup": "1) Aspro (TX rig moderate cover, sensitivity) 2) Zodias MH (thick cover, power). Choose by cover density.",
-      "tip": "Compact body with raised flanges. Slaunch Sauce scent. 10.5g casts well on baitcaster."
-    },
-    {
       "name": "Gary Yamamoto Zako 4\"",
       "type": "Baitfish/creature",
       "specs": "4in Sight Flash",
@@ -1623,6 +1631,15 @@
       "retrieve": "ROD MOVES: TEXAS: yo-yo retrieve (lift, reel slack, fall \u2014 covers water back to you) + drag/hop/shake on bottom. Weedless. WACKY: same yo-yo retrieve OR dead-fall on target. Wider shimmy but snags in weeds. Both: 70% bites on FALL. Watch line.",
       "setup": "1) Expride (wacky rig spinning, line-watching). For TX rig in cover: Aspro or Zodias MH.",
       "tip": "When GP disappears in murky water. Killer at night and in rain."
+    },
+    {
+      "name": "Gary Yamamoto Senko 5\" (Watermelon Green)",
+      "type": "Stickbait",
+      "specs": "5in Watermelon w/ Green Flk",
+      "hook_weight": "Same as GP.",
+      "retrieve": "ROD MOVES: TEXAS: yo-yo retrieve (lift, reel slack, fall \u2014 covers water back to you) + drag/hop/shake on bottom. Weedless. WACKY: same yo-yo retrieve OR dead-fall on target. Wider shimmy but snags in weeds. Both: 70% bites on FALL. Watch line.",
+      "setup": "1) Expride (wacky rig spinning, line-watching). For TX rig in cover: Aspro or Zodias MH.",
+      "tip": "Natural green for clear/sunny. Complement to dark blue (stain/low light)."
     },
     {
       "name": "Zoom Thick Worm (White)",
@@ -1706,33 +1723,6 @@
       "tip": ""
     },
     {
-      "name": "Dirty Jigs Pitchin' 3/8oz",
-      "type": "Pitching jig",
-      "specs": "3/8oz (10.6g) various colors",
-      "hook_weight": "Mustad 5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
-      "retrieve": "ROD MOVES: PITCH to cover, watch line FALL. Hop 10-15cm. Drag. Shake. 2-3 hops then move.",
-      "setup": "1) Zodias MH (pitching jig, MH power + drag for cover hooksets) 2) Aspro (moderate cover).",
-      "tip": "YOUR PRIMARY shallow jig. Best trailer: Rage Craw (crawfish) or Rage Bug (bulk). Peg in cover."
-    },
-    {
-      "name": "Dirty Jigs Pitchin' 1/2oz",
-      "type": "Pitching jig",
-      "specs": "1/2oz (14g) various colors",
-      "hook_weight": "Mustad 5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
-      "retrieve": "ROD MOVES: Same as 3/8. Use for: deeper (6-8ft), windy, punching weeds.",
-      "setup": "1) Zodias MH (pitching jig, MH power + drag for cover hooksets) 2) Aspro (moderate cover).",
-      "tip": "Step up from 3/8oz for depth/wind/thicker cover."
-    },
-    {
-      "name": "Dirty Jigs 18.8g (various colors)",
-      "type": "Pitching jig",
-      "specs": "18.8g (~5/8oz) many colors",
-      "hook_weight": "5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
-      "retrieve": "ROD MOVES: Same pitch-fall-hop technique. Heaviest = fast fall reaction.",
-      "setup": "1) Zodias MH (pitching jig, MH power + drag for cover hooksets) 2) Aspro (moderate cover).",
-      "tip": "Heavy duty for depth + thick cover. GP=clear, PBJ=stained, Blk/Blue=muddy."
-    },
-    {
       "name": "Swim Jig + Space Monkey (bladed)",
       "type": "Swim jig",
       "specs": "21.6g with buzzer blade",
@@ -1751,6 +1741,33 @@
       "tip": "CRAWFISH imitation. Pauses key (claws flutter down). More versatile in weeds (no blade to foul)."
     },
     {
+      "name": "Dirty Jigs 18.8g (various colors)",
+      "type": "Pitching jig",
+      "specs": "18.8g (~5/8oz) many colors",
+      "hook_weight": "5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
+      "retrieve": "ROD MOVES: Same pitch-fall-hop technique. Heaviest = fast fall reaction.",
+      "setup": "1) Zodias MH (pitching jig, MH power + drag for cover hooksets) 2) Aspro (moderate cover).",
+      "tip": "Heavy duty for depth + thick cover. GP=clear, PBJ=stained, Blk/Blue=muddy."
+    },
+    {
+      "name": "Dirty Jigs Pitchin' 1/2oz",
+      "type": "Pitching jig",
+      "specs": "1/2oz (14g) various colors",
+      "hook_weight": "Mustad 5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
+      "retrieve": "ROD MOVES: Same as 3/8. Use for: deeper (6-8ft), windy, punching weeds.",
+      "setup": "1) Zodias MH (pitching jig, MH power + drag for cover hooksets) 2) Aspro (moderate cover).",
+      "tip": "Step up from 3/8oz for depth/wind/thicker cover."
+    },
+    {
+      "name": "Dirty Jigs Pitchin' 3/8oz",
+      "type": "Pitching jig",
+      "specs": "3/8oz (10.6g) various colors",
+      "hook_weight": "Mustad 5/0 (stock). ADD TRAILER: Rage Craw or Rage Bug.",
+      "retrieve": "ROD MOVES: PITCH to cover, watch line FALL. Hop 10-15cm. Drag. Shake. 2-3 hops then move.",
+      "setup": "1) Zodias MH (pitching jig, MH power + drag for cover hooksets) 2) Aspro (moderate cover).",
+      "tip": "YOUR PRIMARY shallow jig. Best trailer: Rage Craw (crawfish) or Rage Bug (bulk). Peg in cover."
+    },
+    {
       "name": "--- SPINNERBAITS ---",
       "type": "",
       "specs": "",
@@ -1760,58 +1777,13 @@
       "tip": ""
     },
     {
-      "name": "Spinnerbait 10g Col/Wil Silver",
+      "name": "Spinnerbait 27g Dbl Wil Red",
       "type": "Spinnerbait",
-      "specs": "10g (3/8oz) White/pink, Col/Wil silver blades",
-      "hook_weight": "Stock hook. Consider trailer hook.",
-      "retrieve": "JUST REEL: Slow roll: BARELY feel Colorado thump. Medium for flash.",
-      "setup": "1) Aspro (10.0g, light spinnerbait, DC handles it) 2) Zodias MH.",
-      "tip": "YOUR #1 SPINNERBAIT from shore. 3/8oz = correct weight for 3-8ft. Most versatile config."
-    },
-    {
-      "name": "Spinnerbait 17.6g Dbl Wil G/S",
-      "type": "Spinnerbait",
-      "specs": "17.6g (5/8oz) White/chart, dbl willow gold/silver",
+      "specs": "27g (1oz) Red/black, dbl willow red blades",
       "hook_weight": "Stock hook.",
-      "retrieve": "JUST REEL: Medium-fast (willows need speed to spin). Flash over thump.",
-      "setup": "1) Zodias MH (17.6g, power for blade resistance) 2) Aspro (within 24g).",
-      "tip": "Good #2. Chartreuse for stained. Faster than Col/Wil. Wind + shad days."
-    },
-    {
-      "name": "Spinnerbait 23.5g Dbl Col White",
-      "type": "Spinnerbait",
-      "specs": "23.5g (3/4oz) White, dbl Colorado white blades",
-      "hook_weight": "Stock hook.",
-      "retrieve": "JUST REEL: ULTRA SLOW ROLL. Maximum vibration, zero flash. Cant go too slow.",
-      "setup": "1) Zodias MH (23.5g, heavy \u2014 distance/depth/pike).",
-      "tip": "MUDDY WATER / NIGHT ONLY. Double Colorado = feel-not-see. Slow as possible."
-    },
-    {
-      "name": "Spinnerbait 18.5g Col/Wil G/S",
-      "type": "Spinnerbait",
-      "specs": "18.5g (5/8oz) White/pink, Col/Wil gold/silver",
-      "hook_weight": "Stock hook.",
-      "retrieve": "JUST REEL: Slow roll to medium. Same versatile Col/Wil combo as your 10g but heavier = deeper + farther.",
-      "setup": "1) Zodias MH (18.5g, power for blade resistance) 2) Aspro (within 24g).",
-      "tip": "Heavier version of your #1. Use when 10g cant reach fish (depth, wind, distance). Gold/silver blades slightly more flash than all-silver."
-    },
-    {
-      "name": "Spinnerbait 22g Dbl Wil White",
-      "type": "Spinnerbait",
-      "specs": "22g (3/4oz) White/chart/orange, dbl willow white blades",
-      "hook_weight": "Stock hook.",
-      "retrieve": "JUST REEL: Medium-fast to burn. White painted blades = subtle flash (not metallic glare).",
-      "setup": "1) Zodias MH (22.0g, heavy \u2014 distance/depth/pike).",
-      "tip": "White blades = more subtle than metallic. Good on bright sunny days when metallic flash spooks fish. Heavy = distance + deep."
-    },
-    {
-      "name": "Spinnerbait 22g Dbl Wil Silver",
-      "type": "Spinnerbait",
-      "specs": "22g (3/4oz) Silver, dbl willow silver",
-      "hook_weight": "Stock hook.",
-      "retrieve": "JUST REEL: Fast burn or deep slow roll. Maximum shad imitation (all silver everything).",
-      "setup": "1) Zodias MH (22.0g, heavy \u2014 distance/depth/pike).",
-      "tip": "Pure shad school imitator. Burn near surface when bass busting shad. Also: pike bait (big flash profile)."
+      "retrieve": "JUST REEL: Fast burn (reaction) or slow deep roll. Most unusual color = change-up bait.",
+      "setup": "1) Zodias MH (27.0g, heavy \u2014 distance/depth/pike).",
+      "tip": "HEAVIEST. Red/black = crawfish or bluegill, NOT shad. Red triggers PIKE aggression. Use when white/silver gets refused. Reaction/change-up bait."
     },
     {
       "name": "Spinnerbait 24.2g Dbl Wil G/S",
@@ -1832,13 +1804,58 @@
       "tip": "Gold blades for stained/overcast. Chartreuse skirt adds visibility. Heavy = distance/deep/pike."
     },
     {
-      "name": "Spinnerbait 27g Dbl Wil Red",
+      "name": "Spinnerbait 23.5g Dbl Col White",
       "type": "Spinnerbait",
-      "specs": "27g (1oz) Red/black, dbl willow red blades",
+      "specs": "23.5g (3/4oz) White, dbl Colorado white blades",
       "hook_weight": "Stock hook.",
-      "retrieve": "JUST REEL: Fast burn (reaction) or slow deep roll. Most unusual color = change-up bait.",
-      "setup": "1) Zodias MH (27.0g, heavy \u2014 distance/depth/pike).",
-      "tip": "HEAVIEST. Red/black = crawfish or bluegill, NOT shad. Red triggers PIKE aggression. Use when white/silver gets refused. Reaction/change-up bait."
+      "retrieve": "JUST REEL: ULTRA SLOW ROLL. Maximum vibration, zero flash. Cant go too slow.",
+      "setup": "1) Zodias MH (23.5g, heavy \u2014 distance/depth/pike).",
+      "tip": "MUDDY WATER / NIGHT ONLY. Double Colorado = feel-not-see. Slow as possible."
+    },
+    {
+      "name": "Spinnerbait 22g Dbl Wil White",
+      "type": "Spinnerbait",
+      "specs": "22g (3/4oz) White/chart/orange, dbl willow white blades",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Medium-fast to burn. White painted blades = subtle flash (not metallic glare).",
+      "setup": "1) Zodias MH (22.0g, heavy \u2014 distance/depth/pike).",
+      "tip": "White blades = more subtle than metallic. Good on bright sunny days when metallic flash spooks fish. Heavy = distance + deep."
+    },
+    {
+      "name": "Spinnerbait 22g Dbl Wil Silver",
+      "type": "Spinnerbait",
+      "specs": "22g (3/4oz) Silver, dbl willow silver",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Fast burn or deep slow roll. Maximum shad imitation (all silver everything).",
+      "setup": "1) Zodias MH (22.0g, heavy \u2014 distance/depth/pike).",
+      "tip": "Pure shad school imitator. Burn near surface when bass busting shad. Also: pike bait (big flash profile)."
+    },
+    {
+      "name": "Spinnerbait 18.5g Col/Wil G/S",
+      "type": "Spinnerbait",
+      "specs": "18.5g (5/8oz) White/pink, Col/Wil gold/silver",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Slow roll to medium. Same versatile Col/Wil combo as your 10g but heavier = deeper + farther.",
+      "setup": "1) Zodias MH (18.5g, power for blade resistance) 2) Aspro (within 24g).",
+      "tip": "Heavier version of your #1. Use when 10g cant reach fish (depth, wind, distance). Gold/silver blades slightly more flash than all-silver."
+    },
+    {
+      "name": "Spinnerbait 17.6g Dbl Wil G/S",
+      "type": "Spinnerbait",
+      "specs": "17.6g (5/8oz) White/chart, dbl willow gold/silver",
+      "hook_weight": "Stock hook.",
+      "retrieve": "JUST REEL: Medium-fast (willows need speed to spin). Flash over thump.",
+      "setup": "1) Zodias MH (17.6g, power for blade resistance) 2) Aspro (within 24g).",
+      "tip": "Good #2. Chartreuse for stained. Faster than Col/Wil. Wind + shad days."
+    },
+    {
+      "name": "Spinnerbait 10g Col/Wil Silver",
+      "type": "Spinnerbait",
+      "specs": "10g (3/8oz) White/pink, Col/Wil silver blades",
+      "hook_weight": "Stock hook. Consider trailer hook.",
+      "retrieve": "JUST REEL: Slow roll: BARELY feel Colorado thump. Medium for flash.",
+      "setup": "1) Aspro (10.0g, light spinnerbait, DC handles it) 2) Zodias MH.",
+      "tip": "YOUR #1 SPINNERBAIT from shore. 3/8oz = correct weight for 3-8ft. Most versatile config."
     }
   ]
 }
