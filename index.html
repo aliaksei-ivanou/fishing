@@ -391,7 +391,7 @@
 
         const filtered = DATA.lures.filter(l => {
             if (!filter) return true;
-            return Object.values(l).some(v => v.toLowerCase().includes(filter));
+            return Object.values(l).some(v => v && v.toLowerCase().includes(filter));
         });
 
         if (filtered.length === 0) {
