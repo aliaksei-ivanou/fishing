@@ -568,14 +568,6 @@
       "note": "Best sensitivity you own (feels every bite and bottom change). DC braking = enjoyable all day. Handles Texas rig + jigs in moderate weeds (your typical suburban lake). Only move to Zodias when cover is genuinely thick or you need frog/toad/pike power."
     },
     {
-      "item": "Shimano Expride EX270MA",
-      "type": "Rod Spin M",
-      "spec": "7'0\" M Mod-Fast, 5-14g, 1-piece",
-      "best_for": "VERSATILE SPINNING (5-15g rated, handles ~18g): Jerkbaits (all work to 16.5g proven), topwater (Irony, Pop-X, Plopper), Senko, Ned, Fluke, Keitech 2.8\", spinners, grubs, salmon spoons. NOT: frogs/toad/buzz (Zodias), Mickey Slim 19g (Aspro).",
-      "status": "Active",
-      "note": "Shimano 'Versatile' category. Fast action (feels Mod-Fast). 107g. Handles jerkbaits with zero fatigue. Both Expride and Legend TB are valid jerkbait rods \u2014 choose per session."
-    },
-    {
       "item": "St. Croix Legend TB LBTC68MXF",
       "type": "Rod Cast M",
       "spec": "6'8\" M X-Fast 116g, 7-18g, 1-piece",
@@ -592,6 +584,14 @@
       "note": "Dont replace. Current rods cover all roles."
     },
     {
+      "item": "Shimano Expride EX270MA",
+      "type": "Rod Spin M",
+      "spec": "7'0\" M Mod-Fast, 5-14g, 1-piece",
+      "best_for": "VERSATILE SPINNING (5-15g rated, handles ~18g): Jerkbaits (all work to 16.5g proven), topwater (Irony, Pop-X, Plopper), Senko, Ned, Fluke, Keitech 2.8\", spinners, grubs, salmon spoons. NOT: frogs/toad/buzz (Zodias), Mickey Slim 19g (Aspro).",
+      "status": "Active",
+      "note": "Shimano 'Versatile' category. Fast action (feels Mod-Fast). 107g. Handles jerkbaits with zero fatigue. Both Expride and Legend TB are valid jerkbait rods \u2014 choose per session."
+    },
+    {
       "item": "Shimano Curado DC 151HG",
       "type": "Reel Cast L",
       "spec": "7.4:1, 220g, 11lb drag, I-DC4",
@@ -606,6 +606,14 @@
       "best_for": "Paired with Zodias MH. Heavy cover (frogs, buzz, toad, heavy jigs, swim jigs). 50lb braid direct. 18lb drag for cover extraction.",
       "status": "Active",
       "note": "Least-used rod gets lowest-tier reel. Frogs/buzz don't need sensitivity. 18lb drag useful for pulling fish from cover."
+    },
+    {
+      "item": "Daiwa Zillion SV TW G 100HL",
+      "type": "Reel Cast L",
+      "spec": "7.1:1, 6.7oz (190g), 11lb drag, 8+1 BB, G1 Duralumin 34mm spool, SV Boost + TWS",
+      "best_for": "Paired with Aspro. YOUR everyday casting reel. Topwater, cranks, lipless, spoons, TX rigs, swimbaits. SV Boost handles full 7-24g range.",
+      "status": "Ordered",
+      "note": "Best reel on most-used casting rod. SV Boost floor of 7.2g confirmed (Pop-X). Brake dial 5 calm, 7 wind."
     },
     {
       "item": "Shimano Stradic CI4+ 2500HG",
@@ -640,14 +648,6 @@
       "note": "You have these. Use for ALL pike presentations."
     },
     {
-      "item": "Daiwa Zillion SV TW G 100HL",
-      "type": "Reel Cast L",
-      "spec": "7.1:1, 6.7oz (190g), 11lb drag, 8+1 BB, G1 Duralumin 34mm spool, SV Boost + TWS",
-      "best_for": "Paired with Aspro. YOUR everyday casting reel. Topwater, cranks, lipless, spoons, TX rigs, swimbaits. SV Boost handles full 7-24g range.",
-      "status": "Ordered",
-      "note": "Best reel on most-used casting rod. SV Boost floor of 7.2g confirmed (Pop-X). Brake dial 5 calm, 7 wind."
-    },
-    {
       "item": "Internal tube jigheads 1/8oz",
       "type": "Terminal",
       "spec": "3/0-4/0, fits inside tube",
@@ -664,20 +664,20 @@
       "note": "Clip VMC snap to split ring (not directly to eye)."
     },
     {
-      "item": "Split Ring Pliers",
-      "type": "Tool",
-      "spec": "Small with tooth tip + spring handles",
-      "best_for": "Open split rings for jerkbaits and hook changes.",
-      "status": "Active",
-      "note": "One-time purchase. Use forever."
-    },
-    {
       "item": "Owner Hyper Snap #1 or #2",
       "type": "Terminal",
       "spec": "Round snap for jerkbaits",
       "best_for": "Jerkbait-specific snap that clears the bill during snaps.",
       "status": "Active",
       "note": "Alternative to split ring solution. Use on Legend TB jerkbaits."
+    },
+    {
+      "item": "Split Ring Pliers",
+      "type": "Tool",
+      "spec": "Small with tooth tip + spring handles",
+      "best_for": "Open split rings for jerkbaits and hook changes.",
+      "status": "Active",
+      "note": "One-time purchase. Use forever."
     },
     {
       "item": "Daiwa Reel Grease",
